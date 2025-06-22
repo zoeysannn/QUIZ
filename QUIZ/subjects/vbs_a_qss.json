@@ -1,0 +1,5453 @@
+[
+  {
+    "question": "Verilən nədir?",
+    "options": [
+      "kod",
+      "bilik",
+      "mənası nəzərə alınan ixtiyari işarələr toplusu",
+      "informasiya",
+      "mənası nəzərə alınmayan ixtiyari işarələr toplusu"
+    ],
+    "answer": "mənası nəzərə alınmayan ixtiyari işarələr toplusu"
+  },
+  {
+    "question": "Strukturanın əsas elementi necə adlanır?",
+    "options": [
+      "sətir",
+      "sahə",
+      "göstərici",
+      "yazı",
+      "rekvizit"
+    ],
+    "answer": "yazı"
+  },
+  {
+    "question": "Verilənlər çoxluğunun təşkili necə adlanır?",
+    "options": [
+      "verilənlər sətri;",
+      "verilənlərin quruluşu (strukturası);",
+      "verilənlər sahəsi;",
+      "verilənlər yazısı;",
+      "verilənlərin tərkibi."
+    ],
+    "answer": "verilənlərin quruluşu (strukturası);"
+  },
+  {
+    "question": "Yaddaşdan qənaətli istifadəni, etibarlı saxlama və verilmiş əlamətə görə tələb edilən verilənlərin tez axtarışının təmin edilməsini",
+    "options": [
+      "informasiya emalı;",
+      "proqramistlərin məsələsi;",
+      "verilənlərin emalı;",
+      "proqram tərtibi.",
+      "informasiyanın alınması;"
+    ],
+    "answer": "proqramistlərin məsələsi;"
+  },
+  {
+    "question": "Məzmun-mənasını nəzərə almadan baxılan ixtiyari işarələr ardıcıllıgı necə adlandırılır?",
+    "options": [
+      "informasiya;",
+      "verilənlər;",
+      "işarələr çoxluğu;",
+      "xəbər çoxluğu.",
+      "xəbər;"
+    ],
+    "answer": "verilənlər;"
+  },
+  {
+    "question": "Ağac strukturunun ən yuxarı səviyyəsi necə adlanır?",
+    "options": [
+      "budaq",
+      "kök",
+      "səviyyə",
+      "təpə.",
+      "yarpaq"
+    ],
+    "answer": "kök"
+  },
+  {
+    "question": "Hər biri açar adlanan fərqləndirici əlamətə malik olan elementlər yığımı necə adlanır?",
+    "options": [
+      "massiv",
+      "cədvəl",
+      "sətir",
+      "ağac.",
+      "növbə"
+    ],
+    "answer": "cədvəl"
+  },
+  {
+    "question": "Yeni elementin həmişə bir tərəfdən əlavə edilib, digər tərəfdən çıxarıldığı verilənlər strukturu necə adlanır?",
+    "options": [
+      "massiv",
+      "növbə",
+      "cədvəl",
+      "istiqamətlənmiş qraf.",
+      "yazı"
+    ],
+    "answer": "növbə"
+  },
+  {
+    "question": "Yeni elementin bir tərəfdən əlavə edilib, o biri tərəfindən çıxarıldığı, birölçülü, dinamik dəyışkən, qaydaya salınmış elementlər yığımı",
+    "options": [
+      "massiv",
+      "növbə",
+      "cədvəl",
+      "ağac.",
+      "sətir"
+    ],
+    "answer": "növbə"
+  },
+  {
+    "question": "Birinci və axırıncıdan başqa hər biri sonrakı və əvvəlki elementə malik olan, qaydaya salınmış elementlər yığımı necə adlanır?",
+    "options": [
+      "vektor",
+      "sətir",
+      "massiv",
+      "stek",
+      "növbə"
+    ],
+    "answer": "sətir"
+  },
+  {
+    "question": "Sahə:",
+    "options": [
+      "verilənlərin təşkil olunmuş məcmusudur;",
+      "yazının müəyyən məzmun-məna kəsb edən ən kiçik elementidir;",
+      "verilənlərin əks etdirdiyi mənadır;",
+      "elementlər arasındakı münasıbətləri müəyyən edən qaydadır.",
+      "məzmun-mənasına əhəmiyyət vermədən baxılan işarələr yığımıdır;"
+    ],
+    "answer": "yazının müəyyən məzmun-məna kəsb edən ən kiçik elementidir;"
+  },
+  {
+    "question": "Verilənlərin quruluşu (strukturası):",
+    "options": [
+      "yazının müəyyən mənaya malik olan ən kiçik elementidir;",
+      "verilənlərin təşkil olunmuş məcmusudur.",
+      "verilənlərin ifadə etdiyi mənadır;",
+      "məzmun-mənasını əhəmiyyət vermədən baxılan işarələr yığımıdır.",
+      "verilənlərin miqdar xarakteristikasıdır;"
+    ],
+    "answer": "verilənlərin təşkil olunmuş məcmusudur."
+  },
+  {
+    "question": "Yazının müəyyən məzmun-məna kəsb edən ən kiçik elementi necə adlanır?",
+    "options": [
+      "yazı",
+      "sahə",
+      "struktura",
+      "bayt.",
+      "sətir"
+    ],
+    "answer": "sahə"
+  },
+  {
+    "question": "Struktura nə ilə təyin edilir?",
+    "options": [
+      "yazıların miqdarı ilə;",
+      "elementlər arasında münasibətləri tənzimləyən qaydalarla;",
+      "informasiya emalı ilə;",
+      "emal edilən verilənlərin mənası ilə.",
+      "verilənlərin əks etdirdiyi informasiya ilə;"
+    ],
+    "answer": "elementlər arasında münasibətləri tənzimləyən qaydalarla;"
+  },
+  {
+    "question": "Verilənlərin hansı xarakteristikası proqramlaşdırma istifadə edilir?",
+    "options": [
+      "keyfiyyət;",
+      "miqdar;",
+      "məna;",
+      "praqmqtik.",
+      "məzmun;"
+    ],
+    "answer": "miqdar;"
+  },
+  {
+    "question": "Verilənlərin ifadə etdiyi məna məlum olarsa, onda bu verilən nəyi əks etdirir?",
+    "options": [
+      "işarələr yığımını.",
+      "məlumatı;",
+      "hər hansı informasiyanı;",
+      "xəbəri;",
+      "verilənləri;"
+    ],
+    "answer": "hər hansı informasiyanı;"
+  },
+  {
+    "question": "Alqoritmdə təkrarlanmaların olması onu hansı tipə aid edir?",
+    "options": [
+      "sonsuz",
+      "şərti",
+      "xətti",
+      "budaqlanan",
+      "dovri"
+    ],
+    "answer": "dovri"
+  },
+  {
+    "question": "Alqoritmlər kompterdə necə icra olunur?",
+    "options": [
+      "sözlə",
+      "işarə ilə",
+      "rəqəmlə",
+      "hərflə",
+      "proqramla"
+    ],
+    "answer": "proqramla"
+  },
+  {
+    "question": "Düzbucaqlı həndəsi fiquru nəyi bildirir?",
+    "options": [
+      "əməliyyatın sona çatmasını",
+      "verilənlərin şərtini",
+      "verilənlərin çapı",
+      "əməliyyatın yerinə yetirilməsini",
+      "əməliyyatın başlanmasını"
+    ],
+    "answer": "əməliyyatın yerinə yetirilməsini"
+  },
+  {
+    "question": "Daxiletmə və ya xaricetmə blokları ümumi halda hansı həndəsi fiqurla işarə olunur?",
+    "options": [
+      "kvadrat",
+      "düzbucaqlı",
+      "romb",
+      "paraleloqram",
+      "dairə"
+    ],
+    "answer": "paraleloqram"
+  },
+  {
+    "question": "Hesabi blok hansı həndəsi fiqurla işarə olunur?",
+    "options": [
+      "paraleloqram",
+      "kvadrat",
+      "düzbucaqlı",
+      "dairə",
+      "romb"
+    ],
+    "answer": "düzbucaqlı"
+  },
+  {
+    "question": "Məntiqi blok hansı həndəsi fiqurla işarə olunur?",
+    "options": [
+      "kvadrat",
+      "paraleloqram",
+      "düzbucaqlı",
+      "dairə",
+      "romb"
+    ],
+    "answer": "romb"
+  },
+  {
+    "question": "Blok sxemlə təsvirdə \"şərt\" bloku nə üçündür?",
+    "options": [
+      "verilənləri təsvir etmək üçün",
+      "verilənləri xaric etmək üçün",
+      "alqoritmin başlanğıcını göstərmək üçün",
+      "idarəetməni istiqamətləndirmək üçün",
+      "çap üçün"
+    ],
+    "answer": "idarəetməni istiqamətləndirmək üçün"
+  },
+  {
+    "question": "Alqoritmin hansı xassəsinə görə onun icrası sonsuz davam etdirilə bilməz, axtarılan nəticə alınmalıdır?",
+    "options": [
+      "heç biri",
+      "müəyyənlik",
+      "nəticəvilik",
+      "diskretlik",
+      "kütləvilik"
+    ],
+    "answer": "nəticəvilik"
+  },
+  {
+    "question": "Alqoritmin hansı xassəsinə görə onun hər bir addımı dəqiq və birmənalı təyin olunmalıdır?",
+    "options": [
+      "kütləvilik",
+      "müəyyənlik",
+      "diskretlik",
+      "heç biri",
+      "nəticəvilik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Alqoritm necə təsvir olunur?",
+    "options": [
+      "misallarla, operatorlarla, alqoritmik dildə",
+      "istənilən qayda ilə",
+      "operatorlarla, məsələ və düsturla",
+      "sözlərlə,blok sxemlə,alqoritmik dildə",
+      "şəkillərlə, misallarla"
+    ],
+    "answer": "sözlərlə,blok sxemlə,alqoritmik dildə"
+  },
+  {
+    "question": "Alqoritmin xassələrinə aid deyil?",
+    "options": [
+      "kütləvilik",
+      "müəyyənlik",
+      "nəticəvilik",
+      "dövrilik",
+      "sonluluq"
+    ],
+    "answer": "dövrilik"
+  },
+  {
+    "question": "Tipik alqoritmik strukturlar hansılardır?",
+    "options": [
+      "xətti, budaqlanan, dövrı",
+      "sadə,xətti,mürəkkəb",
+      "adi,xətti,təkrarlanan",
+      "xətti,budaqlanan,nizamlı",
+      "qeyri xətti,xətti, mürəkkəb"
+    ],
+    "answer": "xətti, budaqlanan, dövrı"
+  },
+  {
+    "question": "Alqoritm hansı alimin adı ilə bağlıdır?",
+    "options": [
+      "A.Türinqin",
+      "əl-Xarəzminin",
+      "Ç.Bebbicin",
+      "F.Bekonun",
+      "əl-Fərabinin"
+    ],
+    "answer": "əl-Xarəzminin"
+  },
+  {
+    "question": "Alqoritm dövri adlanır, əgər",
+    "options": [
+      "verilənlərin daxil edilməsi  təkrarlanır.",
+      "İcra prosesində təkrarı əmr  var",
+      "təkrari hərəkətləri var",
+      "yerinə yetirilməsində məntiqi əmr  təkrarlanır",
+      "heç olmasa bir şərti var"
+    ],
+    "answer": "təkrari hərəkətləri var"
+  },
+  {
+    "question": "Alqoritmi budaqlanan adlanır, əgər",
+    "options": [
+      "hərəkətlərin təkrarı var",
+      "Şərtdən asılı olmayaraq hesablamanı yerinə yetirir",
+      "bütün şərtləri  ardıcıl yerinə yetirilir",
+      "Şərtdən asılı olaraq  hərəkətlərdən biri yerinə yetirilir",
+      "bütün şərtlər yerinə yetirilir"
+    ],
+    "answer": "Şərtdən asılı olaraq  hərəkətlərdən biri yerinə yetirilir"
+  },
+  {
+    "question": "Alqoritm xətti adlanır:",
+    "options": [
+      "Alqoritmik dildə yazılmış",
+      "üsullara müraciət etməyən",
+      "olmayan mərhələlər",
+      "Bütün əmrləri ardıcıl yerinə yetirən proqram",
+      "Eyni hərəkəti ardıcıl surətdə yerinə yetirən"
+    ],
+    "answer": "Bütün əmrləri ardıcıl yerinə yetirən proqram"
+  },
+  {
+    "question": "Hansı növ alqoritmlər var?",
+    "options": [
+      "Adi, məntiqi, dövri",
+      "Xətti, məntiqi, mürəkkəb",
+      "Xətt, dövri, mürəkkəb",
+      "Şöbələr açan, adi, məntiqi",
+      "Xətti, budaqlanan, dövri"
+    ],
+    "answer": "Xətti, budaqlanan, dövri"
+  },
+  {
+    "question": "Alqoritmin blok-sxem təsvirində hansı fiqur verilənlərin daxil edilməsi və çıxarılmasını təqdim edir",
+    "options": [
+      "Düzbucaqlı",
+      "Paraleloqram",
+      "Trapesiya",
+      "Romb",
+      "Oval"
+    ],
+    "answer": "Paraleloqram"
+  },
+  {
+    "question": "Hansı fiqur alqoritmin qrafik təqdim edilməsində şərti bloku göstərir",
+    "options": [
+      "Düzbucaqlı",
+      "Romb",
+      "Trapesiya",
+      "Paraleloqram",
+      "Oval"
+    ],
+    "answer": "Romb"
+  },
+  {
+    "question": "Hansı fiqur alqoritmin qrafik təqdim edilməsində hesablama blokunu göstərir",
+    "options": [
+      "Oval",
+      "Düzbucaqlı",
+      "Dairə",
+      "Paraleloqram",
+      "Romb"
+    ],
+    "answer": "Düzbucaqlı"
+  },
+  {
+    "question": "Hansı fiqur alqoritmin qrafik təqdim edilməsində başlanğıc və son  bloku göstərir",
+    "options": [
+      "Üçbucaq",
+      "Oval",
+      "Romb",
+      "Paraleloqram",
+      "Düzbucaqlı"
+    ],
+    "answer": "Oval"
+  },
+  {
+    "question": "Ciddi struktura malik elementar əməllər(əmrlər) çoxluğu olub , sökülüb-yığılan olması alqoritmin hansı xassəsidir",
+    "options": [
+      "aydınlıq",
+      "Diskretlik",
+      "nəticəlilik",
+      "Kütləvilik",
+      "müəyyənlik"
+    ],
+    "answer": "Diskretlik"
+  },
+  {
+    "question": "Alqoritmin yerinə yetirilməsi prosesində müəyyən nəticə alınması xüsusiyyəti alqoritmin hansı xassəsi adlanır",
+    "options": [
+      "diskretlik",
+      "nəticəlilik",
+      "müəyyənlik",
+      "Kütləvilik",
+      "aydınlıq"
+    ],
+    "answer": "nəticəlilik"
+  },
+  {
+    "question": "Alqoritmin  bir sinif məsələlərin hamısını həll etməyə yararlı olması  xassəsi necə adlanır",
+    "options": [
+      "diskretlik",
+      "kütləvilik",
+      "müəyyənlik",
+      "nəticəlilik",
+      "aydınlıq"
+    ],
+    "answer": "kütləvilik"
+  },
+  {
+    "question": "Aalqoritm tamamilə formal və müəyyən(birmənalı) olmalıdır xüsusiyyəti alqoritmin hansı xassəsinə aidir",
+    "options": [
+      "aydınlıq",
+      "müəyyənlik",
+      "nəticəlilik",
+      "kütləvilik",
+      "diskretlik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Alqoritmin əsas xassələrinə aiddir:",
+    "options": [
+      "Nəticəlilik,  ekvivalentlik, xəttilik, kütləvilik, açıqlıq",
+      "Diskretlik,sonluluq, determinlik, kütləvilik, nəticəlilik",
+      "Kütləvilik, xəttilik, ekvivalentlik, diskretlik, determinlik",
+      "Xəttilik, şərtilik, dövriliyi",
+      "Müəyyənlik, fanilik, aydınlıq, birmənalılıq, diskretlik"
+    ],
+    "answer": "Diskretlik,sonluluq, determinlik, kütləvilik, nəticəlilik"
+  },
+  {
+    "question": "Alqoritmin təqdim edilməsinin hansı üsulları var?",
+    "options": [
+      "Şifahi, qrafik, proqram, əmr",
+      "Nəqli,qrafik,psevdakod, proqramlaşdırma dili",
+      "Əlifba, blok-sxem, daimi",
+      "Qrafika, proqram, psevdakod",
+      "Blok-sxem, əmr, operatorlarla"
+    ],
+    "answer": "Nəqli,qrafik,psevdakod, proqramlaşdırma dili"
+  },
+  {
+    "question": "Bir və ya bir neçə əməliyyatın çoxlu sayda təkrar olunması halında hansı alqoritmdən istifadə olunur?",
+    "options": [
+      "xətti",
+      "dövri",
+      "şərti",
+      "tam",
+      "budaqlanan"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "Alqortimin bir neçəsi üçün deyil bütöv  bir sinfə aid olması hansı xassəyə aiddir?",
+    "options": [
+      "müəyyənlik",
+      "kütləvilik",
+      "diskretlik",
+      "nəticəvilik",
+      "sonluluq"
+    ],
+    "answer": "kütləvilik"
+  },
+  {
+    "question": "Alqoritmin determinlik xassəsi dedikdə nə nəzərdə tutulur?",
+    "options": [
+      "sonluluq",
+      "müəyyənlik",
+      "nəticəvilik",
+      "kütləvilik",
+      "diskretlik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Alqoritmin hansı tipləri var                                          1) xətti                                                                          2) ağacvari",
+    "options": [
+      "1,2,3",
+      "1,3,4",
+      "2,3,4",
+      "3,4,5",
+      "1,4,5"
+    ],
+    "answer": "1,3,4"
+  },
+  {
+    "question": "Alqoritmin xassələri hansılardır?",
+    "options": [
+      "tamlıq, sonsuzluq, qeyri müəyyənlik",
+      "sonluluq, müəyyənlik, diskretlik, kütləvilik",
+      "effektivlik, diskretlik, sonluluq",
+      "sonsuzluq, qeyri müəyyənlik, kütləvilik",
+      "invariantlılıq, müəyyənlik, kütləvilik"
+    ],
+    "answer": "sonluluq, müəyyənlik, diskretlik, kütləvilik"
+  },
+  {
+    "question": "Məsələnin kompüterdə həlli baxımından \"alqoritm\" anlayışı necə izah olunar?",
+    "options": [
+      "axtarılan cavabların alınması üçün məsələnin ilk verilənləri üzərində icra olunan hesabi və məntiqi əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin verilənləri üzərində icra olunan hesabi və məntiqi əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin ilk verilənləri üzərində icra olunan yalnız hesabi əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin ilk verilənləri üzərində icra olunan yalnız məntiqii əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin verilənləri üzərində icra olunmayan sonsuz  sayda hesabi və məntiqi əməllər ardıcıllığı"
+    ],
+    "answer": "axtarılan cavabların alınması üçün məsələnin verilənləri üzərində icra olunan hesabi və məntiqi əməllər ardıcıllığı"
+  },
+  {
+    "question": "kompüter dilinə səhvsiz çevrilmiş proqram",
+    "options": [
+      "proqramlaşdırma dillərində yazılmış proqram",
+      "istifadəiçinin tərtib etdiyi proqram",
+      "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram",
+      "istifadəçinin tərtib etdiyi proqram paketi"
+    ],
+    "answer": "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram"
+  },
+  {
+    "question": "İlkin proqram nədir?",
+    "options": [
+      "əməliyyat sistemi və tətbiqi proqram paketi",
+      "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram",
+      "utilit və drayver proqramları",
+      "proqramlaşdırma sistemləri və serviz proqramları",
+      "kompüter dilinə səhvsiz çevrilmiş proqram"
+    ],
+    "answer": "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram"
+  },
+  {
+    "question": "Alqoritmin qrafik təsviri:",
+    "options": [
+      "Formallaşdırılmışməsələdir",
+      "İcra oluna bilən bütün komandaların yığımıdır",
+      "Həndəsi füqurların köməyilə alqoritmin təsvir üsuludur",
+      "İxtiyari formada sxematik təsvirdir",
+      "Alqoritmin cədvəl və hesablama düsturları ilə təsviridir."
+    ],
+    "answer": "Həndəsi füqurların köməyilə alqoritmin təsvir üsuludur"
+  },
+  {
+    "question": "Düzgün hökmü seçin",
+    "options": [
+      "yalnız kompüter alqoritmin icraçısı ola bilər",
+      "alqoritm  blok-sxem şəklində, həm də proqramlaşdırma dilində yazıla bilər",
+      "blok-sxem şəklində təqdim olunan alqoritmin, icraçısı kompyuter deyil",
+      "alqoritm proqramlaşdırma dilində yazılıb, icraçı insan deyil",
+      "alqoritm - bu, icra oluna bilən bütün komandaların məcmusudur"
+    ],
+    "answer": "alqoritm  blok-sxem şəklində, həm də proqramlaşdırma dilində yazıla bilər"
+  },
+  {
+    "question": "Alqoritm icraçısı nədir",
+    "options": [
+      "vacib əməllərin aydın və dəqiq göstərişi",
+      "müəyyən hərəkətləri yerinə yetirməyi bacaran insan və ya kompüter dəsti",
+      "elementləri  birləşdirənəlaqəli mərhələlərin yerinə yetirilməsialqoritmi",
+      "vəziyyətdən asılı olaraq alqoritm fəaliyyət göstərir",
+      "müəyyən şərtlərlə fəaliyyətini yerinə yetirir"
+    ],
+    "answer": "müəyyən hərəkətləri yerinə yetirməyi bacaran insan və ya kompüter dəsti"
+  },
+  {
+    "question": "Alqoritm nədir",
+    "options": [
+      "bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir",
+      "aydın və dəqiq göstəriş ifaçısı, qarşıya qoyulan vəzifələrin həlli istiqamətində fəaliyyət ardıcıllığı deməkdir",
+      "İfaçı üçün təlimatlar sistemi",
+      "təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir",
+      "öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan"
+    ],
+    "answer": "aydın və dəqiq göstəriş ifaçısı, qarşıya qoyulan vəzifələrin həlli istiqamətində fəaliyyət ardıcıllığı deməkdir"
+  },
+  {
+    "question": "Hansı alqoritmlər yazıldıqları ardıcıllıqla bir dəfə yerinə yetirilir?",
+    "options": [
+      "budaqlanan, dövri",
+      "xətti",
+      "budaqlanan",
+      "dövri, xətti",
+      "dövri"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "Düzbucaqlının sahsinin və perimetrinin hesablanması alqoritmində nələr daxil edilməlidir?",
+    "options": [
+      "düzbucaqının uzunluğu",
+      "düzbucaqlının eni və uzunluğu",
+      "düzbucaqlının eni",
+      "düzbucaqlının dioqanalı",
+      "düzbucaqlının hündürlüyü"
+    ],
+    "answer": "düzbucaqlının eni və uzunluğu"
+  },
+  {
+    "question": "İxtiyari X üçün onun kubunun hesablanması hansı növ alqoritmə aiddir?",
+    "options": [
+      "dövri",
+      "xətti",
+      "köməkçi",
+      "heç biri",
+      "budaqlanan"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "Dövri alqoritmlər neçə cür olur?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Şərtli dövrdə dövrlərin sayı nə vaxta qədər  davam edir?",
+    "options": [
+      "hesab əməli yerinə yetirilənə kimi",
+      "şərt ödənənə kimi",
+      "riyazi ifadə çap olunana kimi",
+      "bir neçə ardıcıl əməliyyat yerinə yetirilənə kimi",
+      "nəticə çap olunana kimi"
+    ],
+    "answer": "şərt ödənənə kimi"
+  },
+  {
+    "question": "Dövr quruluşu hansıdir?",
+    "options": [
+      "şərtli dövr, riyazi dövr",
+      "sayğaclı dövr,  şərtli dövr",
+      "məntiqli, ksilən",
+      "həriflə,rəqəmlə",
+      "sadə , mürəkkəb"
+    ],
+    "answer": "sayğaclı dövr,  şərtli dövr"
+  },
+  {
+    "question": "Dövrlər_________ və________  olur.(boşluqları sözlərlə ifadə et)",
+    "options": [
+      "asan,çətin",
+      "sadə, mürəkkəb",
+      "riyazi,texniki",
+      "məntiqi,kəsilən",
+      "hərflə,rəqəmlə"
+    ],
+    "answer": "sadə, mürəkkəb"
+  },
+  {
+    "question": "Dövr nədir?",
+    "options": [
+      "şərtdən asılı olaraq təkrar olunmayan alqoritm",
+      "Dövri prosesi təşkil edən  operatorlar ardıcıllığıdır",
+      "sadə hesablama prosesini ifadə edən alqoritm",
+      "bir neçə ardıcıl əməliyyatlardan ibarət alqoritm",
+      "budaqlanma və dövrü mərhələsi olmayan alqoritm"
+    ],
+    "answer": "Dövri prosesi təşkil edən  operatorlar ardıcıllığıdır"
+  },
+  {
+    "question": "Dövrü alqoritm nədir",
+    "options": [
+      "şərtdən asılı olaraq təkrar olunmayan alqoritm",
+      "bir neçə ardıcıl əməliyyatlardan ibarət alqoritm",
+      "sadə hesablama prosesini ifadə edən alqoritm",
+      "Dəfələrlə təkrar olunan dövri prosesi təsvir edən alqoritm",
+      "budaqlanma və dövrü mərhələsi olmayan alqoritm"
+    ],
+    "answer": "Dəfələrlə təkrar olunan dövri prosesi təsvir edən alqoritm"
+  },
+  {
+    "question": "Budaqlanan alqoritmlər hansı üsullarla təsvir edilə bilər?",
+    "options": [
+      "proqramlaşdırma dilində",
+      "riyazi ifadə vasitəsilə",
+      "müxtəlif üsulların köməyi ilə",
+      "qrafik üulla",
+      "qrafik və proqramlaşdırma diində"
+    ],
+    "answer": "qrafik və proqramlaşdırma diində"
+  },
+  {
+    "question": "Mürəkkəb şərt nədir?",
+    "options": [
+      "bir birindən asılı olmayan ifadədədir",
+      "bir-biri ilə məntiq əməli ilə bağlanmış sadə şərtlər ardıcıllığıdır.",
+      "natamam budaqlanmadır",
+      "on şərtdir",
+      "son şərtdir"
+    ],
+    "answer": "bir-biri ilə məntiq əməli ilə bağlanmış sadə şərtlər ardıcıllığıdır."
+  },
+  {
+    "question": "Sadə şərt necə ifadə ounur?",
+    "options": [
+      "natamam budaqlanma kimi",
+      "on şərt kimi",
+      "bir birindən asılı olmayan ifadə kimi",
+      "son şərt kimi",
+      "müqayisə ediləcək 2 ədəddən, 2 dəyişəndən, 2 hesabi ifadədən ibarətdir"
+    ],
+    "answer": "müqayisə ediləcək 2 ədəddən, 2 dəyişəndən, 2 hesabi ifadədən ibarətdir"
+  },
+  {
+    "question": "Mürəkkəb budaqlanma hansı növ alqoritmə aiddir?",
+    "options": [
+      "budaqlanan",
+      "xətti",
+      "son şərtli",
+      "dövrü",
+      "ön şərtli"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Sadə budaqlanma hansı növ alqoritmə aiddir?",
+    "options": [
+      "budaqlanan",
+      "son şərtli",
+      "ön şərtli",
+      "xətti",
+      "dövrü"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Massivlər üzərində hansı əməliyyatları aparmaq olar?",
+    "options": [
+      "elementlərin fərqini tapmaq",
+      "maksimal və minimal elementinin tapılması,  axtarış alqoritmləri, çeşidləmə alqoritmləri",
+      "elementlərinin cəmini tapmaq",
+      "ƏBOB nu tapmaq",
+      "ƏKOB nu tapmaq"
+    ],
+    "answer": "maksimal və minimal elementinin tapılması,  axtarış alqoritmləri, çeşidləmə alqoritmləri"
+  },
+  {
+    "question": "Proqramın icrası müddətində massivlərin element sayı dəyişərsə bu hansı massivdir?",
+    "options": [
+      "matris",
+      "fəza",
+      "statik",
+      "vektor",
+      "dinamik"
+    ],
+    "answer": "dinamik"
+  },
+  {
+    "question": "Proqramın icrası müddətində massivlərin element sayı dəyişməzsə bu hansı massivdir?",
+    "options": [
+      "vektor",
+      "dinamik",
+      "fəza",
+      "statik",
+      "matris"
+    ],
+    "answer": "statik"
+  },
+  {
+    "question": "SWAP alqoritmi nədir?",
+    "options": [
+      "elementlərinin cəmini tapılmas",
+      "iki dəyişənin öz arasında qiymətlərinin dəyişməməsidir",
+      "ƏKOB nu tapmaq",
+      "ƏBOB nu tapmaq",
+      "iki dəyişənin öz arasında qiymətlərinin dəyişməsi"
+    ],
+    "answer": "iki dəyişənin öz arasında qiymətlərinin dəyişməsi"
+  },
+  {
+    "question": "Cədvəl nədir?",
+    "options": [
+      "hər elementi açar olan elementlər toplusu",
+      "birölçülü, dinamik, dəyişən, nizamlanmış elementlər toplusu",
+      "massivin elementləri",
+      "sahə",
+      "kod"
+    ],
+    "answer": "hər elementi açar olan elementlər toplusu"
+  },
+  {
+    "question": "Növbəlrdə element hansı prinsip ilə silinir?",
+    "options": [
+      "sonuncu gəldi, birinci getdi",
+      "variantların hamısı doğrudur",
+      "sonuncu gəldi, sonuncu  getdi",
+      "birinci gəldi, birinci getdi",
+      "birinci gəldi, sonuncu getdi"
+    ],
+    "answer": "birinci gəldi, birinci getdi"
+  },
+  {
+    "question": "Növbə və stek anlayısına aiddir:",
+    "options": [
+      "birölçülü, dinamik, dəyişən, nizamlanmış elementlər toplusu",
+      "elementlər toplusu",
+      "kod",
+      "sahə",
+      "massivin elementləri"
+    ],
+    "answer": "birölçülü, dinamik, dəyişən, nizamlanmış elementlər toplusu"
+  },
+  {
+    "question": "Sətir nədir?",
+    "options": [
+      "sahə",
+      "massivin elementlərini axtarmaq üçün",
+      "ən böyük yazı elementi",
+      "informasiya",
+      "ozündən əvvəlki və özündən sonrakı elementi olan elementlər toplusu"
+    ],
+    "answer": "ozündən əvvəlki və özündən sonrakı elementi olan elementlər toplusu"
+  },
+  {
+    "question": "Sahə nədir?",
+    "options": [
+      "bilik",
+      "informasiya",
+      "ən böyük yazı elementi",
+      "ən kiçik yazı elementi",
+      "kod"
+    ],
+    "answer": "ən kiçik yazı elementi"
+  },
+  {
+    "question": "Verilənlərin strukturu nədir?",
+    "options": [
+      "kod",
+      "mənası nəzərə alınan ixtiyari işarələr toplusu",
+      "informasiya",
+      "bilik",
+      "verilənlər toplusu"
+    ],
+    "answer": "verilənlər toplusu"
+  },
+  {
+    "question": "Bir və ya bir neçə əməliyyatın çoxlu sayda təkrar olunması halında hansı alqoritmdən istifadə olunur",
+    "options": [
+      "xətti",
+      "dövri",
+      "şərti",
+      "tam",
+      "budaqlanan"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "Alqortimin bir neçəsi üçün deyil bütöv  bir sinfə aid olması hansı xassəyə aiddir",
+    "options": [
+      "müəyyənlik",
+      "kütləvilik",
+      "diskretlik",
+      "nəticəvilik",
+      "sonluluq"
+    ],
+    "answer": "kütləvilik"
+  },
+  {
+    "question": "Alqoritmin determinlik xassəsi dedikdə nə nəzərdə tutulur",
+    "options": [
+      "sonluluq",
+      "müəyyənlik",
+      "nəticəvilik",
+      "kütləvilik",
+      "diskretlik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Alqoritmin hansı tipləri var                                 1) xətti                                                                    2) ağacvari",
+    "options": [
+      "1,2,3",
+      "1,3,4",
+      "2,3,4",
+      "3,4,5",
+      "1,4,5"
+    ],
+    "answer": "1,3,4"
+  },
+  {
+    "question": "Alqoritmin sonlu addımlardan ibarət olması və nticə ilə sona çatması alqoritmin hansı xassəsinə aiddir",
+    "options": [
+      "dövrilik",
+      "yeganəlik",
+      "kütləvilik",
+      "sərtlilik",
+      "nəticəvilik"
+    ],
+    "answer": "nəticəvilik"
+  },
+  {
+    "question": "Alqoritmik dildə (x+3y):5xy ifadəsinin yazılışı necədir",
+    "options": [
+      "x+3y/5xy",
+      "(x+3*y)/(5*x*y)",
+      "x+3*y/5*x*y",
+      "(x+3y)/5xy",
+      "x-3*y/5xy"
+    ],
+    "answer": "(x+3*y)/(5*x*y)"
+  },
+  {
+    "question": "Kompüterin \"başa düşdüyü\" dildə yazılmış alqoritm necə adlanır",
+    "options": [
+      "xətti",
+      "proqram",
+      "mətn",
+      "blok sxem",
+      "cədvəl"
+    ],
+    "answer": "proqram"
+  },
+  {
+    "question": "Bu və ya digər şərtin doğru olmasından asılı olaraq bir qrup əməliyyatların icrasını təmin edən alqoritm necə adlanır",
+    "options": [
+      "xətti",
+      "budaqlanan",
+      "mürəkkəb",
+      "qeyri xətti",
+      "dövri"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Alqoritmin xassələri hansılardır",
+    "options": [
+      "tamlıq, sonsuzluq, qeyri müəyyənlik",
+      "sonluluq, müəyyənlik, diskretlik, kütləvilik",
+      "effektivlik, diskretlik, sonluluq",
+      "sonsuzluq, qeyri müəyyənlik, kütləvilik",
+      "invariantlılıq, müəyyənlik, kütləvilik"
+    ],
+    "answer": "sonluluq, müəyyənlik, diskretlik, kütləvilik"
+  },
+  {
+    "question": "Məsələnin kompüterdə həlli baxımından \"alqoritm\" anlayışı necə izah olunar",
+    "options": [
+      "axtarılan cavabların alınması üçün məsələnin ilk verilənləri üzərində icra olunan hesabi və məntiqi əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin verilənləri üzərində icra olunan hesabi və məntiqi əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin ilk verilənləri üzərində icra olunan yalnız hesabi əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin ilk verilənləri üzərində icra olunan yalnız məntiqii əməllər ardıcıllığı",
+      "axtarılan cavabların alınması üçün məsələnin verilənləri üzərində icra olunmayan sonsuz  sayda hesabi və məntiqi əməllər ardıcıllığı"
+    ],
+    "answer": "axtarılan cavabların alınması üçün məsələnin verilənləri üzərində icra olunan hesabi və məntiqi əməllər ardıcıllığı"
+  },
+  {
+    "question": "İşçi proqram nədir",
+    "options": [
+      "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram",
+      "kompüter dilinə səhvsiz çevrilmiş proqram",
+      "istifadəiçinin tərtib etdiyi proqram",
+      "istifadəçinin tərtib etdiyi proqram paketi",
+      "proqramlaşdırma dillərində yazılmış proqram"
+    ],
+    "answer": "kompüter dilinə səhvsiz çevrilmiş proqram"
+  },
+  {
+    "question": "İlkin proqram nədir",
+    "options": [
+      "əməliyyat sistemi və tətbiqi proqram paketi",
+      "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram",
+      "utilit və drayver proqramları",
+      "proqramlaşdırma sistemləri və serviz proqramları",
+      "kompüter dilinə səhvsiz çevrilmiş proqram"
+    ],
+    "answer": "məsələnin həll alqoritmi əsasinda seçilən dildə yazılmış proqram"
+  },
+  {
+    "question": "Kompüterdə məsələlərin həll mərhələləri:     1) məsələnin qoyuluşu                                        2) həll alqoritminin yaradılması",
+    "options": [
+      "1,2,4,5",
+      "1,2,3,4",
+      "2,4,5",
+      "1,2,5",
+      "1,3,4,5"
+    ],
+    "answer": "1,2,3,4"
+  },
+  {
+    "question": "Kompüterdə həll etmək mümkündür:",
+    "options": [
+      "həll alqoritmi məlum olmayan məsələni",
+      "həll yolu məlum olan istənilən məsələni",
+      "əllə həll edilə bilməyən istənilən məsələni",
+      "həll yolu məlum olmayan istənilən məsələni",
+      "istənilən hesabi və ya məntiqi məsələni"
+    ],
+    "answer": "həll yolu məlum olan istənilən məsələni"
+  },
+  {
+    "question": "Məntiqi verilənlərdə qiymət nə ilə ifadə olunur",
+    "options": [
+      "rəqəm",
+      "məntiqi kəmiyyət",
+      "mətn",
+      "ünvan",
+      "simvol"
+    ],
+    "answer": "məntiqi kəmiyyət"
+  },
+  {
+    "question": "Hesabi verilənlərdə qiymət nə ilə ifadə olunur",
+    "options": [
+      "simvol",
+      "rəqəm",
+      "ünvan",
+      "məntiqi kəmiyyət",
+      "mətn"
+    ],
+    "answer": "rəqəm"
+  },
+  {
+    "question": "Proqramlaşdırmada yaddaş unvanları ilə işləmək üçün hansı tip verilənlərdən istifadə edilir",
+    "options": [
+      "məntiqi",
+      "göstərici",
+      "şərti",
+      "hesabi",
+      "mətn"
+    ],
+    "answer": "göstərici"
+  },
+  {
+    "question": "Qiyməti məntiqi kəmiyyətlə ifadə olunan verilənlərin tipi hansıdır",
+    "options": [
+      "göstərici",
+      "məntiqi",
+      "şərti",
+      "hesabi",
+      "mətn"
+    ],
+    "answer": "məntiqi"
+  },
+  {
+    "question": "İnformasiyanın əsas ölçü vahidi nədir",
+    "options": [
+      "Mbit",
+      "bayt",
+      "Mb",
+      "bit",
+      "Kb"
+    ],
+    "answer": "bayt"
+  },
+  {
+    "question": "tam ədəd nədir:",
+    "options": [
+      "bütün variantlar",
+      "diskret",
+      "müsbət və ya mənfi işarəli nöqtəsiz ədəd",
+      "mövqesiz",
+      "mövqeli"
+    ],
+    "answer": "müsbət və ya mənfi işarəli nöqtəsiz ədəd"
+  },
+  {
+    "question": "Aalqoritm tamamilə formal və müəyyən(birmənalı) olmalıdır xüsusiyyəti alqoritmin hansı xassəsinə aidir?",
+    "options": [
+      "kütləvilik",
+      "aydınlıq",
+      "diskretlik",
+      "müəyyənlik",
+      "nəticəlilik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Alqoritmin əsas xassələrinə aiddir:",
+    "options": [
+      "Kütləvilik, xəttilik, ekvivalentlik, diskretlik, determinlik",
+      "Nəticəlilik,  ekvivalentlik, xəttilik, kütləvilik, açıqlıq",
+      "Müəyyənlik, fanilik, aydınlıq, birmənalılıq, diskretlik",
+      "Diskretlik,sonluluq, determinlik, kütləvilik, nəticəlilik",
+      "Xəttilik, şərtilik, dövriliyi"
+    ],
+    "answer": "Diskretlik,sonluluq, determinlik, kütləvilik, nəticəlilik"
+  },
+  {
+    "question": "Alqoritmin təqdim edilməsinin hansı üsulları var?",
+    "options": [
+      "Əlifba, blok-sxem, daimi",
+      "Qrafika, proqram, psevdakod",
+      "Şifahi, qrafik, proqram, əmr",
+      "Blok-sxem, əmr, operatorlarla",
+      "Nəqli,qrafik,psevdakod, proqramlaşdırma dili"
+    ],
+    "answer": "Nəqli,qrafik,psevdakod, proqramlaşdırma dili"
+  },
+  {
+    "question": "Bunlardan hansı alqoritmin təsvir üsullarıdır?",
+    "options": [
+      "sözlə, blok sxemlə, budaqlanan",
+      "diskret, sonlu , müəyyən",
+      "xətti , budaqlanan, dövri",
+      "sözlə, qrafik, alqoritmik dildə",
+      "sözlə, diskret, müəyyən"
+    ],
+    "answer": "sözlə, qrafik, alqoritmik dildə"
+  },
+  {
+    "question": "Alqoritmin müəyyənlik xassəsi nə deməkdir?",
+    "options": [
+      "alqoritm müəyyən bir sinif məsələnin həlli üçün tərtib olunmalıdır",
+      "alqoritmdə bir əməliyyat sona çatdıqdan sonra növbəti əməliyyat yerinə yetirilir",
+      "alqoritm mütləq blok sxemlə təsvir olunmalıdır",
+      "alqoritmin hər bir əməliyyatı dəqiq, aydın, müəyyən təsvir olunmalıdır",
+      "alqoritm sonlu sayda əməliyyatlardan ibarət olub nəticə ilə sona çatmalıdır"
+    ],
+    "answer": "alqoritmin hər bir əməliyyatı dəqiq, aydın, müəyyən təsvir olunmalıdır"
+  },
+  {
+    "question": "Bunlardan hansı alqoritmin təsvir üsullarıdır",
+    "options": [
+      "xətti , budaqlanan, dövri",
+      "sözlə, blok sxemlə, budaqlanan",
+      "sözlə, diskret, müəyyən",
+      "sözlə, qrafik, alqoritmik dildə",
+      "diskret, sonlu , müəyyən"
+    ],
+    "answer": "sözlə, qrafik, alqoritmik dildə"
+  },
+  {
+    "question": "Alqoritmin müəyyənlik xassəsi nə deməkdir",
+    "options": [
+      "alqoritm mütləq blok sxemlə təsvir olunmalıdır",
+      "alqoritm sonlu sayda əməliyyatlardan ibarət olub nəticə ilə sona çatmalıdır",
+      "alqoritm müəyyən bir sinif məsələnin həlli üçün tərtib olunmalıdır",
+      "alqoritmdə bir əməliyyat sona çatdıqdan sonra növbəti əməliyyat yerinə yetirilir",
+      "alqoritmin hər bir əməliyyatı dəqiq, aydın, müəyyən təsvir olunmalıdır"
+    ],
+    "answer": "alqoritmin hər bir əməliyyatı dəqiq, aydın, müəyyən təsvir olunmalıdır"
+  },
+  {
+    "question": "Alqoritmdə təkrarlanmaların olması onu hansı tipə aid edir",
+    "options": [
+      "xətti",
+      "şərti",
+      "sonsuz",
+      "dovri",
+      "budaqlanan"
+    ],
+    "answer": "dovri"
+  },
+  {
+    "question": "Alqoritmlər kompterdə necə icra olunur",
+    "options": [
+      "işarə ilə",
+      "rəqəmlə",
+      "hərflə",
+      "proqramla",
+      "sözlə"
+    ],
+    "answer": "proqramla"
+  },
+  {
+    "question": "Düzbucaqlı həndəsi fiquru nəyi bildirir",
+    "options": [
+      "əməliyyatın sona çatmasını",
+      "verilənlərin çapı",
+      "əməliyyatın yerinə yetirilməsini",
+      "əməliyyatın başlanmasını",
+      "verilənlərin şərtini"
+    ],
+    "answer": "əməliyyatın yerinə yetirilməsini"
+  },
+  {
+    "question": "Daxiletmə və ya xaricetmə blokları ümumi halda hansı həndəsi fiqurla işarə olunur",
+    "options": [
+      "düzbucaqlı",
+      "kvadrat",
+      "dairə",
+      "paraleloqram",
+      "romb"
+    ],
+    "answer": "paraleloqram"
+  },
+  {
+    "question": "Hesabi blok hansı həndəsi fiqurla işarə olunur",
+    "options": [
+      "kvadrat",
+      "paraleloqram",
+      "romb",
+      "dairə",
+      "düzbucaqlı"
+    ],
+    "answer": "düzbucaqlı"
+  },
+  {
+    "question": "Məntiqi blok hansı həndəsi fiqurla işarə olunur",
+    "options": [
+      "kvadrat",
+      "paraleloqram",
+      "düzbucaqlı",
+      "dairə",
+      "romb"
+    ],
+    "answer": "romb"
+  },
+  {
+    "question": "Blok sxemlə təsvirdə \"şərt\" bloku nə üçündür",
+    "options": [
+      "verilənləri xaric etmək üçün",
+      "alqoritmin başlanğıcını göstərmək üçün",
+      "verilənləri təsvir etmək üçün",
+      "idarəetməni istiqamətləndirmək üçün",
+      "çap üçün"
+    ],
+    "answer": "idarəetməni istiqamətləndirmək üçün"
+  },
+  {
+    "question": "Alqoritmin hansı xassəsinə görə onun icrası sonsuz davam etdirilə bilməz, axtarılan nəticə alınmalıdır",
+    "options": [
+      "kütləvilik",
+      "heç biri",
+      "müəyyənlik",
+      "nəticəvilik",
+      "diskretlik"
+    ],
+    "answer": "nəticəvilik"
+  },
+  {
+    "question": "Alqoritmin hansı xassəsinə görə onun hər bir addımı dəqiq və birmənalı təyin olunmalıdır",
+    "options": [
+      "heç biri",
+      "nəticəvilik",
+      "kütləvilik",
+      "müəyyənlik",
+      "diskretlik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Alqoritm necə təsvir olunur",
+    "options": [
+      "istənilən qayda ilə",
+      "şəkillərlə, misallarla",
+      "misallarla, operatorlarla, alqoritmik dildə",
+      "sözlərlə,blok sxemlə,alqoritmik dildə",
+      "operatorlarla, məsələ və düsturla"
+    ],
+    "answer": "sözlərlə,blok sxemlə,alqoritmik dildə"
+  },
+  {
+    "question": "Alqoritmin xassələrinə aid deyil",
+    "options": [
+      "nəticəvilik",
+      "dövrilik",
+      "sonluluq",
+      "müəyyənlik",
+      "kütləvilik"
+    ],
+    "answer": "dövrilik"
+  },
+  {
+    "question": "Tipik alqoritmik strukturlar hansılardır",
+    "options": [
+      "qeyri xətti,xətti, mürəkkəb",
+      "xətti,budaqlanan,nizamlı",
+      "xətti, budaqlanan, dövrı",
+      "adi,xətti,təkrarlanan",
+      "sadə,xətti,mürəkkəb"
+    ],
+    "answer": "xətti, budaqlanan, dövrı"
+  },
+  {
+    "question": "Alqoritm hansı alimin adı ilə bağlıdır?",
+    "options": [
+      "F.Bekonun",
+      "əl-Fərabinin",
+      "A.Türinqin",
+      "əl-Xarəzminin",
+      "Ç.Bebbicin"
+    ],
+    "answer": "əl-Xarəzminin"
+  },
+  {
+    "question": "Alqoritmnə zaman dövri adlanır?",
+    "options": [
+      "təkrari hərəkətləri var",
+      "verilənlərin daxil edilməsi  təkrarlanır.",
+      "heç olmasa bir şərti var",
+      "yerinə yetirilməsində məntiqi əmr  təkrarlanır",
+      "İcra prosesində təkrarı əmr  var"
+    ],
+    "answer": "təkrari hərəkətləri var"
+  },
+  {
+    "question": "Alqoritmi nə zaman budaqlanan adlanır?",
+    "options": [
+      "bütün şərtlər yerinə yetirilir",
+      "hərəkətlərin təkrarı var",
+      "Şərtdən asılı olmayaraq hesablamanı yerinə yetirir",
+      "bütün şərtləri  ardıcıl yerinə yetirilir",
+      "Şərtdən asılı olaraq  hərəkətlərdən biri yerinə yetirilir"
+    ],
+    "answer": "Şərtdən asılı olaraq  hərəkətlərdən biri yerinə yetirilir"
+  },
+  {
+    "question": "Xətti alqoritm nədir?",
+    "options": [
+      "Alqoritmik dildə yazılmış",
+      "üsullara müraciət etməyən",
+      "Eyni hərəkəti ardıcıl surətdə yerinə yetirən",
+      "olmayan mərhələlər",
+      "Bütün əmrləri ardıcıl yerinə yetirən proqram"
+    ],
+    "answer": "Bütün əmrləri ardıcıl yerinə yetirən proqram"
+  },
+  {
+    "question": "Hansı növ alqoritmlər var?",
+    "options": [
+      "Xətt, dövri, mürəkkəb",
+      "Şöbələr açan, adi, məntiqi",
+      "Xətti, məntiqi, mürəkkəb",
+      "Adi, məntiqi, dövri",
+      "Xətti, budaqlanan, dövri"
+    ],
+    "answer": "Xətti, budaqlanan, dövri"
+  },
+  {
+    "question": "Alqoritmin blok-sxem təsvirində hansı fiqur verilənlərin daxil edilməsi və çıxarılmasını təqdim edir?",
+    "options": [
+      "Düzbucaqlı",
+      "Romb",
+      "Trapesiya",
+      "Paraleloqram",
+      "Oval"
+    ],
+    "answer": "Paraleloqram"
+  },
+  {
+    "question": "Hansı fiqur alqoritmin qrafik təqdim edilməsində şərti bloku göstərir?",
+    "options": [
+      "Düzbucaqlı",
+      "Paraleloqram",
+      "Trapesiya",
+      "Romb",
+      "Oval"
+    ],
+    "answer": "Romb"
+  },
+  {
+    "question": "Hansı fiqur alqoritmin qrafik təqdim edilməsində hesablama blokunu göstərir?",
+    "options": [
+      "Paraleloqram",
+      "Romb",
+      "Oval",
+      "Düzbucaqlı",
+      "Dairə"
+    ],
+    "answer": "Düzbucaqlı"
+  },
+  {
+    "question": "Hansı fiqur alqoritmin qrafik təqdim edilməsində başlanğıc və son  bloku göstərir?",
+    "options": [
+      "Romb",
+      "Paraleloqram",
+      "Üçbucaq",
+      "Düzbucaqlı",
+      "Oval"
+    ],
+    "answer": "Oval"
+  },
+  {
+    "question": "Ciddi struktura malik elementar əməllər(əmrlər) çoxluğu olub , sökülüb-yığılan olması alqoritmin hansı xassəsidir ?",
+    "options": [
+      "aydınlıq",
+      "Diskretlik",
+      "nəticəlilik",
+      "Kütləvilik",
+      "müəyyənlik"
+    ],
+    "answer": "Diskretlik"
+  },
+  {
+    "question": "Alqoritmin yerinə yetirilməsi prosesində müəyyən nəticə alınması xüsusiyyəti alqoritmin hansı xassəsi adlanır?",
+    "options": [
+      "Kütləvilik",
+      "müəyyənlik",
+      "nəticəlilik",
+      "aydınlıq",
+      "diskretlik"
+    ],
+    "answer": "nəticəlilik"
+  },
+  {
+    "question": "Alqoritmin  bir sinif məsələlərin hamısını həll etməyə yararlı olması  xassəsi necə adlanır?",
+    "options": [
+      "nəticəlilik",
+      "müəyyənlik",
+      "kütləvilik",
+      "aydınlıq",
+      "diskretlik"
+    ],
+    "answer": "kütləvilik"
+  },
+  {
+    "question": "Y=1/(1+x^2) funksiyası üçün qurulmuş alqoritmin tipini təyin edin",
+    "options": [
+      "xətti",
+      "mürəkkəb",
+      "budaqlanan, dövri",
+      "dövri",
+      "budaqlanan"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "y:= x-5                                                                   x:= y+9                                                                  y:= x+y",
+    "options": [
+      "18",
+      "3",
+      "12",
+      "8",
+      "15"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Aşağıdakı proqram yerinə yetirildikdən sonra Y dəyişəni hansı qiymət alacaq                        x=4",
+    "options": [
+      "4",
+      "9",
+      "20",
+      "25",
+      "5"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "A və B ədədlərinin cəminin hesablanması hansı növ alqoritmə aiddir",
+    "options": [
+      "budaqlanan",
+      "dövri, xətti",
+      "dövri",
+      "budaqlanan, dövri",
+      "xətti"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "x=3 qiymətində Y=1/x funksiyasının qiymətini hesablayan alqoritmin tipini təyin edin",
+    "options": [
+      "budaqlanan",
+      "dövri, xətti",
+      "budaqlanan, dövri",
+      "dövri",
+      "xətti"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "Hansı alqoritmlər yazıldıqları ardıcıllıqla bir dəfə yerinə yetirilir",
+    "options": [
+      "budaqlanan",
+      "xətti",
+      "dövri",
+      "budaqlanan, dövri",
+      "dövri, xətti"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "Düzbucaqlının sahsinin və perimetrinin hesablanması alqoritmində nələr daxil edilməlidir",
+    "options": [
+      "düzbucaqlının dioqanalı",
+      "düzbucaqlının hündürlüyü",
+      "düzbucaqının uzunluğu",
+      "düzbucaqlının eni və uzunluğu",
+      "düzbucaqlının eni"
+    ],
+    "answer": "düzbucaqlının eni və uzunluğu"
+  },
+  {
+    "question": "İxtiyari X üçün onun kubunun hesablanması hansı növ alqoritmə aiddir",
+    "options": [
+      "dövri",
+      "heç biri",
+      "köməkçi",
+      "xətti",
+      "budaqlanan"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "A və B ədədlərinin cəminin hesablanması hansı növ alqoritmə aiddir",
+    "options": [
+      "dövri",
+      "heç biri",
+      "köməkçi",
+      "xətti",
+      "budaqlanan"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "x=3, y=5 verilib. X və Y in \"max\" qiymətinin tapılması  alqoritmi x<y şərti ilə qurulduqda \"min\"  un qiymətini tapın",
+    "options": [
+      "8",
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Aşağıdakı proqram yerinə yetirildikdən sonra Z dəyişəni hansı qiymət alacaq                    x=27",
+    "options": [
+      "30",
+      "35",
+      "7",
+      "27",
+      "20"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "x=3, y=5 verilib. X və Y in \"max\" qiymətinin tapılması  alqoritmi x>y şərti ilə qurulduqda \"max\"  un qiymətini tapın",
+    "options": [
+      "2",
+      "8",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "y=1/x ifadəsi x<>0 şərti ilə budaqlanan alqoritmi yerinə yetirildikdə x=o olarsa alaqoritmin aldiğı qiyməti tapın",
+    "options": [
+      "3",
+      "7",
+      "5",
+      "həlli yoxdur",
+      "6"
+    ],
+    "answer": "həlli yoxdur"
+  },
+  {
+    "question": "a və b ədədlərinin ədədi orta kəmiyyətindən 20 % çox olan ədədi hesablayın:                   əgər a=5, b=11",
+    "options": [
+      "7",
+      "8.60",
+      "8",
+      "9.60",
+      "9"
+    ],
+    "answer": "9.60"
+  },
+  {
+    "question": "A:=2, B:=1, C:=8, D=b*c/a, K=C-D/2 verilmişdir.   Alqoritm yerinə yetirildikdən sonra  Y=AK+CD   ifadəsini hesablayın:",
+    "options": [
+      "6",
+      "4",
+      "32",
+      "12",
+      "44"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "x=y+7, y=x+5, x=x+y  Alqoritm yerinə yetirildikdən sonra x=45 qiymətini alır. x və y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "42",
+      "45",
+      "40",
+      "20",
+      "15"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Y:= x-1                                                                   x:= y+2                                                                  y:= x+y =10",
+    "options": [
+      "10",
+      "15",
+      "11",
+      "7",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Alqoritmin tipləri hansılardır?",
+    "options": [
+      "hesablayıcı, seçmə, cəmləmə",
+      "xətti, budaqlanan və dövrü",
+      "iterasiyalı dövr, dövr-hələ, dövr-qədər",
+      "sadə şərtli, mürəkkəb şərtli budaqlanma və parametrik dövr",
+      "seçmə, budaqlanma, parametrli dövr"
+    ],
+    "answer": "xətti, budaqlanan və dövrü"
+  },
+  {
+    "question": "Alqoritmin təsvir vasitələri hansılardır?",
+    "options": [
+      "alqoritmik dil, blok-sxem, proqram",
+      "blok-sxem, operator, proqram",
+      "xətti, budaqlanan və dövr",
+      "translyator, kompilyator, assembler",
+      "mətn, blok-sxem, alqoritmik dil"
+    ],
+    "answer": "mətn, blok-sxem, alqoritmik dil"
+  },
+  {
+    "question": "Proqramlaşdırma dili dedikdə, nə başa düşülür?",
+    "options": [
+      "semantikasında sinonim olmayan formal dil",
+      "sintaksisində sinonim olmayan formal dil",
+      "kompüterin başa düşdüyü dil",
+      "alqoritmin translyatorun anladığı sözlərlə yazılışı",
+      "insan dilini maşın dilinə çevirən aralıq dil"
+    ],
+    "answer": "alqoritmin translyatorun anladığı sözlərlə yazılışı"
+  },
+  {
+    "question": "Budaqlanan alqoritm dedikdə, nə başa düşülür?",
+    "options": [
+      "iki və daha çox yola ayrılan alqoritm",
+      "iki və daha çox yolla həlli mümkün olan məsələ alqoritmi",
+      "məsələ həlli müəyyən mərhələdə şaxələnən alqoritm",
+      "iki budaqla həll edilən məsələ alqoritmi",
+      "tərkibində bir və ya bir neçə məntiqi mərhələ olan alqoritm"
+    ],
+    "answer": "tərkibində bir və ya bir neçə məntiqi mərhələ olan alqoritm"
+  },
+  {
+    "question": "Alqoritm hansı halda proqrama çevrilir?",
+    "options": [
+      "blok-sxem təsvirin-dən sonra",
+      "translyasiya edil-dikdən sonra",
+      "assembler səviy-yəsinə keçirildikdə",
+      "kompilyasiya edildikdən sonra",
+      "alqoritmik dilə keçirildikdə"
+    ],
+    "answer": "alqoritmik dilə keçirildikdə"
+  },
+  {
+    "question": "Alqoritmin hansı xassəsinə görə onun hər bir addımı dəqiq və birmənalı təyin olunmalıdır?",
+    "options": [
+      "birqiymətlilik",
+      "kütləvilik",
+      "müəyyənlik",
+      "diskret",
+      "nəticəlilik"
+    ],
+    "answer": "müəyyənlik"
+  },
+  {
+    "question": "Bu proqramlaşdırma dillərindən hansının həm kompliyatoru, həm də interpretatoru vardır?",
+    "options": [
+      "Pascal",
+      "Fortran",
+      "Basic",
+      "Cobol",
+      "Alqol"
+    ],
+    "answer": "Basic"
+  },
+  {
+    "question": "Bunlardan hansı identifukator-dəyişənin şərti adı deyil?",
+    "options": [
+      "1x2x",
+      "x1x2",
+      "a2",
+      "2a",
+      "BESM6"
+    ],
+    "answer": "2a"
+  },
+  {
+    "question": "Hansını alqoritmin xassəsinə aid etmək olar?",
+    "options": [
+      "Xəttilik",
+      "Sadəlik",
+      "Ehtimallılıq",
+      "Sonluluq",
+      "Dövrilik"
+    ],
+    "answer": "Sonluluq"
+  },
+  {
+    "question": "Mərhələlərə uyğun olaraq alqoritm ibarət olur:",
+    "options": [
+      "Ryazi və sxem mərhələsindən.",
+      "Hesabi və sxem mərhələsindən.",
+      "Məntiqi və sxem mərhələsindən.",
+      "Hesabi və məntiqi mərhələsindən.",
+      "Söz və məntiqi mərhələsindən."
+    ],
+    "answer": "Hesabi və məntiqi mərhələsindən."
+  },
+  {
+    "question": "Algoritm haqqında deyilənlərdən biri yanlışdır:",
+    "options": [
+      "Çoxrəqəmli onluq hesab əməllərinin aparılması alqoritmləri ilk dəfə İX əsrdə işlənmişdir.",
+      "Algoritmin tərtibi məsələnin həllini ardıcıl yerinə yetirilən mərhələlərə bölmək deməkdir.",
+      "Algoritm həll edilən məsələnin xarakteri ilə bağlı olduğundan onun yaradılmasının ümumi qaydaları yoxdur.",
+      "Algoritmin yaradılması ümumi qaydalara tabedir.",
+      "Algoritm tərtib edi-lərkən onun müəyyən tələblərə cavab verməsi nəzərə alınır ki, bu tələblərə alqoritmin xassələri deyilir."
+    ],
+    "answer": "Algoritm həll edilən məsələnin xarakteri ilə bağlı olduğundan onun yaradılmasının ümumi qaydaları yoxdur."
+  },
+  {
+    "question": "Kompyuterdə məsələnin həlli mərhələsinə aid deyil?",
+    "options": [
+      "Məsələnin qoyuluşu.",
+      "Həllin şəbəkəyə ötürülməsi.",
+      "Verilənlərin sturukturunun müəyyənləşdirilməsi.",
+      "Proqramın kompyuterin dilinə çevrilməsi.",
+      "Proqramlaşdırma dilinin seçilməsi."
+    ],
+    "answer": "Həllin şəbəkəyə ötürülməsi."
+  },
+  {
+    "question": "“İstənilən istifadəçidən ... tələb olunmur” hökmündə nöqtələrin yerinə uyğun gələn cavabı yazın.",
+    "options": [
+      "Əmrləri dəqiq yerinə yetirməyi bacarmaq",
+      "Formal olaraq alqoritmin əmrlərini yerinə yetirmək",
+      "Əməliyyatlar ardıcıllığını gözləmək",
+      "Alqoritmin mənasını başa düşmək",
+      "Köməkçi alqoritmi yerinə yetirmək"
+    ],
+    "answer": "Köməkçi alqoritmi yerinə yetirmək"
+  },
+  {
+    "question": "n=5, s=0, k=1 verilmişdir. Əgər k<=n  olarsa,  onda S=S+k və k=k+1  əks halda \"S-in qiymətini çap et\"    alqoritminini yerinə yetirin",
+    "options": [
+      "16",
+      "14",
+      "15",
+      "6",
+      "10"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "x=6, y=8  if x>y, then S=4x-3, else S=x+5",
+    "options": [
+      "13",
+      "0",
+      "21",
+      "29",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "a=0, b= 3*a  Əgər b<15 olarsa a= b+1, əks halda \"b-nin qiymətini cap et\"  alqoritminin nəticəsini tapın",
+    "options": [
+      "45",
+      "48",
+      "18",
+      "16",
+      "39"
+    ],
+    "answer": "39"
+  },
+  {
+    "question": "Alqoritmin icrasından sonra c və d dəyişənlərinin qiymətini tapın:                        c:= 13                                                                    d:= 18",
+    "options": [
+      "c= 26, d=26",
+      "c= 26, d=18",
+      "c=13, d=26",
+      "c= 13, d=18"
+    ],
+    "answer": "c=13, d=26"
+  },
+  {
+    "question": "a:=25, b:=20,  if  a>b,  then x:=a,  else x:=b",
+    "options": [
+      "5",
+      "20",
+      "12",
+      "25",
+      "2"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Son şərtli struktur hansı operatorlar ilə yerinə yetirilir",
+    "options": [
+      "begin, end",
+      "right, if",
+      "right, left",
+      "repeat, if",
+      "while, for"
+    ],
+    "answer": "repeat, if"
+  },
+  {
+    "question": "Ön şərtli struktur hansı operatorlar ilə yerinə yetirilir",
+    "options": [
+      "repeat, if",
+      "right, if",
+      "right, left",
+      "while, for",
+      "begin, end"
+    ],
+    "answer": "while, for"
+  },
+  {
+    "question": "1. x=8, y= 6                                                            2. if x<y  then a:=x+2; else a:=y/2        alqoritminin icrasından sonra a-nın qiymətini",
+    "options": [
+      "10",
+      "8",
+      "14",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Aşağıdakı hesablamaya əsasən şərt blokundan ən azı neçə dəfə istifadə edilə bilər:                                                             Y={e^2, x>3",
+    "options": [
+      "4 dəfə",
+      "1 dəfə",
+      "3 dəfə",
+      "2 dəfə",
+      "sonsuz sayda"
+    ],
+    "answer": "3 dəfə"
+  },
+  {
+    "question": "Aşağıdakı hesablamaya əsasən şərt blokundan ən azı neçə dəfə istifadə edilə bilər:                                                             Y={e^2, x<1",
+    "options": [
+      "4 dəfə",
+      "1 dəfə",
+      "3 dəfə",
+      "2 dəfə",
+      "sonsuz sayda"
+    ],
+    "answer": "2 dəfə"
+  },
+  {
+    "question": "if a>b then a=a+b  else b=b-a                       3. c=a+b",
+    "options": [
+      "4",
+      "12",
+      "7",
+      "5",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "A=-2, C=-4 verilmişdir.Əgər A>0 olarsa onda C=C+1, əks halda A=A+1, C=C+1. Əgər C >0 olarsa onda C=C+1, əks halda A və C-nin",
+    "options": [
+      "A=0, C=1",
+      "A=1, C=1",
+      "A=0, C=0",
+      "A=1, C=0",
+      "A=-1, C=-1"
+    ],
+    "answer": "A=1, C=0"
+  },
+  {
+    "question": "x=3, y=-4, z=5, u=x verilmişdir. Əgər u>y olarsa u>z olar. Əks halda u=y olacaq.Əgər u>z şəti ödəyərsə onda \"U-nun qiyməti çap",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "9",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "n=5, s=0, i=1 verilmişdir. Əgər İ<=n  olarsa,  onda S=S+İ və İ=İ+1  əks halda \"S-in qiymətini çap et\"    alqoritminini yerinə yetirin",
+    "options": [
+      "15",
+      "20",
+      "16",
+      "18",
+      "17"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Aşağıdakı proqram yerinə yetirildikdən sonra nəticədə MAX -un qiymətini tapın:               A=5",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "12",
+      "7"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Aşağıdakı ifadənin alqoritik təsvirini tapın: Əgər A  B-dən böyükdürsə və ya B  C-yə bərabərdirsə, onda B=1",
+    "options": [
+      "İf A>B or B=C then B=1"
+    ],
+    "answer": "İf A>B or B=C then B=1"
+  },
+  {
+    "question": "3x^2+5x-1=0 kvadrat tənliyinin həlli alqoritmin hansı növünə aiddir",
+    "options": [
+      "diskret",
+      "nəticəli",
+      "xətti",
+      "dövrü",
+      "budaqlanan"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "X= 2 qiymətində aşağıdakı funksiyanın alqoritminin icrasından sonra Y-in qiymətini tapın:",
+    "options": [
+      "-3",
+      "3",
+      "1",
+      "-1",
+      "0"
+    ],
+    "answer": "-1"
+  },
+  {
+    "question": "if x<y then x:=x+y+1 else y:= x+y-1   olarsa, onda x=2, y=5 üçün (x+y)- i hesablayın",
+    "options": [
+      "6",
+      "14",
+      "8",
+      "13",
+      "7"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "f={x^2+1, x<y                                                       y^2-x, x>y    Əgər x=5, y= 12 olarsa alqoritmin icrasından sonra f-in qiymətini tapın",
+    "options": [
+      "143",
+      "60",
+      "139",
+      "17",
+      "26"
+    ],
+    "answer": "26"
+  },
+  {
+    "question": "a= 17, b= 21 ifadəsi verilmişdir.  a= a+3, b=b+2 addımı yerinə yetirilərildikdən sonra b<a şərti ödənilərsə dövr təkrarlanacaq, əgər şərt",
+    "options": [
+      "60",
+      "53",
+      "58",
+      "63",
+      "62"
+    ],
+    "answer": "63"
+  },
+  {
+    "question": "a=1, b=12, c=15 ifadəsi verilmişdir. Əgər b >5 olarsa, onda a=a*2, b=b-2, əks halda c=c+a olar. \"C\"-nin hansı qiyməti cap olunacaq.",
+    "options": [
+      "33",
+      "35",
+      "30",
+      "32",
+      "31"
+    ],
+    "answer": "31"
+  },
+  {
+    "question": "a=12, b=24 ifadəsi verilib. Əgər a>b  şərti ödənmirsə onda a=a+3, b=b-1, əgər a>b olarsa onda \"a\" nın hansı qiyməti çap olunacaq.",
+    "options": [
+      "22",
+      "18",
+      "20",
+      "21",
+      "24"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "S=1,M=4 ifadəsi verilmişdir.  Əgər M>S şərti verilibsə, (şərt ödənildiyi halda S=S+S*M, M=M+6     olarsa)     S-in hansı qiyməti çap",
+    "options": [
+      "50",
+      "56",
+      "60",
+      "55",
+      "54"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "a=5, b=13 ifadəsində b>a şərti ödənilərsə, çapda b-nin qiymətini tapın",
+    "options": [
+      "16",
+      "18",
+      "17",
+      "14",
+      "20"
+    ],
+    "answer": "17"
+  },
+  {
+    "question": "a=5, b=13 ifadəsində b>a şərti ödənilərsə, çapda a-nin qiymətini tapın",
+    "options": [
+      "19",
+      "18",
+      "20",
+      "17",
+      "15"
+    ],
+    "answer": "17"
+  },
+  {
+    "question": "a=5, b=13 ifadəsində b>a şərti ödənilərsə, çapda( a*b  )-nin qiymətini tapın",
+    "options": [
+      "299",
+      "280",
+      "289",
+      "302",
+      "301"
+    ],
+    "answer": "289"
+  },
+  {
+    "question": "a=5, b=13 ifadəsində b>a şərti ödənilərsə, çapda( a-b  )-nin qiymətini tapın",
+    "options": [
+      "3",
+      "1",
+      "17",
+      "0",
+      "4"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "a=5, b=13 ifadəsində b>a şərti ödənilərsə, çapda( a+b  )-nin qiymətini tapın",
+    "options": [
+      "32",
+      "30",
+      "29",
+      "34",
+      "31"
+    ],
+    "answer": "34"
+  },
+  {
+    "question": "ön şərtli alqoritmin quruluşunda dövrün gövdəsi neçə dəfə təkrarlana bilər",
+    "options": [
+      "riyazi ifadə çap olunana kimi",
+      "bir neçə ardıcıl əməliyyat yerinə yetirilənə kimi",
+      "riyazi əməliyyat sona çatana kimi",
+      "nəticə çap olunana kimi",
+      "şərt ödənənə kimi"
+    ],
+    "answer": "şərt ödənənə kimi"
+  },
+  {
+    "question": "Dövri alqoritmin növləri",
+    "options": [
+      "ön şərtli, son şərtli, modifikasiyalı",
+      "modifikasiyalı, texniki, riyazi",
+      "modifikasiyalı, texniki, son şərtli",
+      "modifikasiyalı, texniki",
+      "ön şərtli, riyazi, texniki"
+    ],
+    "answer": "ön şərtli, son şərtli, modifikasiyalı"
+  },
+  {
+    "question": "a:=1, b:= 12, c:= 15                                                If b>5, then a:= a*2, b:=b-2, else c:=c+a",
+    "options": [
+      "8",
+      "15",
+      "30",
+      "16",
+      "31"
+    ],
+    "answer": "31"
+  },
+  {
+    "question": "x=3 olarsa Y dəyişəninin qiymətini hesablayın  Y={x+1, x<3                                                        e^x, x<0",
+    "options": [
+      "11",
+      "13",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "a:=3, b:=4, c:=7, d:=a+b     Əgər d<=c olarsa onda, a:= a+b, əks halda b:=a+b  alqoritminin icrasından sonra a+b nin cəmini tapın",
+    "options": [
+      "10",
+      "7",
+      "8",
+      "11",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "a:=3, b:=4, c:=5, d:=6     Əgər c<b olarsa onda, d:= a+3, əks halda c:=c+a  alqoritminin icrasından sonra d+b nin cəmini tapın",
+    "options": [
+      "10",
+      "9",
+      "7",
+      "8",
+      "11"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Alqoritmin nəticəsində A dəyişəninin qiymətini tapın: a:=12, b:= 21, c:=10                                              if a>b  then  a:=a+3, c:=c+a;",
+    "options": [
+      "84",
+      "64",
+      "43",
+      "88",
+      "25"
+    ],
+    "answer": "88"
+  },
+  {
+    "question": "Alqoritmin nəticəsində A dəyişəninin qiymətini tapın: a:=45, b:= 24                                              if a>b  then  a:=a-5; else  print a",
+    "options": [
+      "40",
+      "25",
+      "30",
+      "20",
+      "35"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Alqoritmin nəticəsində A dəyişəninin qiymətini tapın: a:=17, b:= 25                                              if a<b  then  a:=a+2; else a:= a+b",
+    "options": [
+      "23",
+      "19",
+      "21",
+      "50",
+      "25"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "Alqoritmin nəticəsində B dəyişəninin qiymətini tapın: a:=12, b:= 18                                              if a>b  then  print b; else a:= a+2,",
+    "options": [
+      "24",
+      "23",
+      "21",
+      "25",
+      "22"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Alqoritmin nəticəsində A dəyişəninin qiymətini tapın: a:=12, b:= 24                                              if a>b  then  print a; else a:= a+3, b:=b-",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "23",
+      "10"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "Alqoritmin nəticəsində C dəyişəninin qiymətini tapın: a:=1, b:= 12, c:=15    if b>5  then a:= a*2, b:=b-2; else c:= c+a",
+    "options": [
+      "16",
+      "8",
+      "10",
+      "31",
+      "30"
+    ],
+    "answer": "31"
+  },
+  {
+    "question": "s=6, m= 1  verilmişdir. Əgər m=>s olarsa, onda m=s+m,əks halda  s =s+1, m=m+2 alqoritmi yerinə yetirildikdə M-in hansı qiyməti çap",
+    "options": [
+      "9",
+      "7",
+      "11",
+      "23",
+      "22"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "A={3,7,2,-4}, n=4 masiivi verilmişdir. Qabarcıqlı sıralama alqoritmini quraq:",
+    "options": [
+      "A={2,3,-4,7}",
+      "A={3,-4,2,7}",
+      "A={-4,2,3,7}",
+      "A={2,-4,3,7}",
+      "A={3,2,-4,7}"
+    ],
+    "answer": "A={-4,2,3,7}"
+  },
+  {
+    "question": "Qabarcıqlı sıralama qaydası hansıdır?",
+    "options": [
+      "hər element özündən sonrakı elementlə toplanır  və  yerini dəyişir",
+      "hər element max elementlə müqaisə olunur və ehtiyac olduqda yerini dəyişir",
+      "hər element özündən sonrakı elementlə müqaisə olunur və ehtiyac olduqda yerini dəyişir",
+      "hər element min elementlə müqaisə olunur və ehtiyac olduqda yerini dəyişir",
+      "hər element özündən sonrakı elementlə müqaisə olunur və  yerini dəyişmir"
+    ],
+    "answer": "hər element özündən sonrakı elementlə müqaisə olunur və ehtiyac olduqda yerini dəyişir"
+  },
+  {
+    "question": "Sürətli çeşidləmə Alqoritmi (Quick Sort)        5. Cəmləmək ilə sıralama                                       6. Axtarış etməklə sıralama",
+    "options": [
+      "1,4,5",
+      "3,4,6",
+      "1,2,5,6",
+      "1,2,3,4",
+      "2,5,6"
+    ],
+    "answer": "1,2,3,4"
+  },
+  {
+    "question": "Sıralama alqoritmlərindən nə vaxt istifadə edilir?",
+    "options": [
+      "massivin elementlərini axtarmaq üçün",
+      "massivin elementlərini toplamaq üçün",
+      "massivin elementlərinin max tapmaq üçün",
+      "massivin elementlərini artma və ya azalma istiqamətində  düzmək üçün",
+      "massivin elementlərinin min tapmaq üçün"
+    ],
+    "answer": "massivin elementlərini artma və ya azalma istiqamətində  düzmək üçün"
+  },
+  {
+    "question": "İkilik axtarış hansı massivlərə tətbiq olunur?",
+    "options": [
+      "matris",
+      "vektor",
+      "siralanmamış",
+      "fəza",
+      "sıralanmış"
+    ],
+    "answer": "sıralanmış"
+  },
+  {
+    "question": "Axtarış alqoritmlərinin hansı növləri var?",
+    "options": [
+      "ardıcıl, düz",
+      "ikilik, səkkizlik",
+      "iklik, onluq",
+      "ardıcıl, ikilik",
+      "ikilik, onaltılıq"
+    ],
+    "answer": "ardıcıl, ikilik"
+  },
+  {
+    "question": "A={47,36,55,9,27,12,30} massivinin \"min\" elementlərinin tapılması alqoritmini qurun və \"min\"  elementi tapın:",
+    "options": [
+      "27",
+      "11",
+      "12",
+      "10",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "A={17,36,45,11,27,18,30} massivinin \"min\" elementlərinin tapılması alqoritmini qurun və \"min\"  elementi tapın:",
+    "options": [
+      "17",
+      "18",
+      "27",
+      "11",
+      "10"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "A={32,36,55,99,27,24,30} massivinin \"min\" elementlərinin tapılması alqoritmini qurun və \"min\"  elementi tapın:",
+    "options": [
+      "36",
+      "24",
+      "32",
+      "25",
+      "24"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "A={32,36,55,99,27,24,30} massivinin \"max\" elementlərinin tapılması alqoritmini qurun və \"max\"  elementi tapın:",
+    "options": [
+      "32",
+      "99",
+      "100",
+      "55",
+      "36"
+    ],
+    "answer": "99"
+  },
+  {
+    "question": "A={47,36,55,11,27,12,30} massivinin \"max\" elementlərinin tapılması alqoritmini qurun və \"max\"  elementi tapın:",
+    "options": [
+      "56",
+      "30",
+      "36",
+      "55",
+      "47"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "A={17,36,45,11,27,18,30} massivinin \"max\" elementlərinin tapılması alqoritmini qurun və \"max\"  elementi tapın:",
+    "options": [
+      "30",
+      "27",
+      "36",
+      "45",
+      "46"
+    ],
+    "answer": "45"
+  },
+  {
+    "question": "x=3; y= 8 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=11, y=8, x=3",
+      "x=8; y= 8",
+      "x=3; y= 3",
+      "x=11, y=3, x=8",
+      "x=11, y=3, x=11"
+    ],
+    "answer": "x=11, y=3, x=8"
+  },
+  {
+    "question": "x=4; y= 7 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=7; y= 7",
+      "x=11, y=7, x=4",
+      "x=11, y=4, x=11",
+      "x=11, y=4, x=7",
+      "x=4; y= 4"
+    ],
+    "answer": "x=11, y=4, x=7"
+  },
+  {
+    "question": "x=3; y= 6 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=3; y= 3",
+      "x=6; y= 6",
+      "x=9, y=6, x=3",
+      "x=6, y=3, x=6",
+      "x=9, y=3, x=6"
+    ],
+    "answer": "x=9, y=3, x=6"
+  },
+  {
+    "question": "x=2; y= 6 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=6; y= 6",
+      "x=8, y=6, x=2",
+      "x=6, y=2, x=6",
+      "x=8, y=2, x=6",
+      "x=2; y= 2"
+    ],
+    "answer": "x=8, y=2, x=6"
+  },
+  {
+    "question": "x=5; y= 6 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=11, y=6, x=5",
+      "x=6; y= 6",
+      "x=5; y= 5",
+      "x=11, y=5, x=6",
+      "x=6, y=5, x=6"
+    ],
+    "answer": "x=11, y=5, x=6"
+  },
+  {
+    "question": "x=5; y= 7 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=12, y=7, x=5",
+      "x=7, y=5, x=7",
+      "x=12, y=5, x=7",
+      "y=5, x=5",
+      "y=7, x=7"
+    ],
+    "answer": "x=12, y=5, x=7"
+  },
+  {
+    "question": "x=12; y=6 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=6, x= 6, y=12",
+      "x=6; y=6",
+      "x=12; y=12",
+      "c=12, x= 6, y=12",
+      "c=12, x= 12, y=6"
+    ],
+    "answer": "c=12, x= 6, y=12"
+  },
+  {
+    "question": "x=8; y=6 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=6, x=6, y=8",
+      "x=6; y=6",
+      "x=8; y=8",
+      "c=8, x=6, y=8",
+      "c=8, x=8, y=6"
+    ],
+    "answer": "c=8, x=6, y=8"
+  },
+  {
+    "question": "x=6; y=4 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=6, x=4, y=4",
+      "x=4; y=4",
+      "x=6; y=6",
+      "c=6, x=4, y=6",
+      "c=4, x=4, y=6"
+    ],
+    "answer": "c=6, x=4, y=6"
+  },
+  {
+    "question": "x=2; y=3 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "x=2; y=2",
+      "c=3, x= 3, y=2",
+      "x=3; y=3",
+      "c=2, x= 3, y=2",
+      "c=2, x= 3, y=3"
+    ],
+    "answer": "c=2, x= 3, y=2"
+  },
+  {
+    "question": "x=5; y=3 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=3, x=5, y=5",
+      "x=5; y=5",
+      "c=3, x=3, y=5",
+      "c=5, x=3, y=5",
+      "x=3; y=3"
+    ],
+    "answer": "c=5, x=3, y=5"
+  },
+  {
+    "question": "x=5; y=7 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "x=7; y=5",
+      "x=5; y=7",
+      "c=7, x=5, y=5",
+      "c=5, x=7, y=5",
+      "x=7; y=7"
+    ],
+    "answer": "c=5, x=7, y=5"
+  },
+  {
+    "question": "SWAP alqoritmi nədir?",
+    "options": [
+      "iki dəyişənin öz arasında qiymətlərinin dəyişməməsidir",
+      "ƏKOB nu tapmaq",
+      "ƏBOB nu tapmaq",
+      "iki dəyişənin öz arasında qiymətlərinin dəyişməsi",
+      "elementlərinin cəmini tapılmas"
+    ],
+    "answer": "iki dəyişənin öz arasında qiymətlərinin dəyişməsi"
+  },
+  {
+    "question": "Qrafın təpələrini birləşdirən xətt nə adlanır?",
+    "options": [
+      "əlaqələr",
+      "diqraf",
+      "till",
+      "dövrə",
+      "təpə"
+    ],
+    "answer": "till"
+  },
+  {
+    "question": "Qrafı təşkil edən obyektlər necə adlanır?",
+    "options": [
+      "dövrə",
+      "till",
+      "təpə",
+      "diqraf",
+      "əlaqələr"
+    ],
+    "answer": "təpə"
+  },
+  {
+    "question": "Diqraf nədir?",
+    "options": [
+      "təpələr çoxluğu",
+      "bir-biri ilə əlaqələndirilməyən təpələr çoxluğu",
+      "qrafın istiqamətlənmiş tilləridir",
+      "ilgək",
+      "qrafın istiqamətlənməyən tilləridir"
+    ],
+    "answer": "qrafın istiqamətlənmiş tilləridir"
+  },
+  {
+    "question": "max() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "sətrin uzunluğunu tapmaq üçün",
+      "ədədlərin içindən ən kiçiyini tapmaq tapmaq üçün",
+      "xaricdən qiymət daxil etmək üçün",
+      "dəyişənin tipini tapmaq üçün",
+      "ədədlərin içindən ən böyüyünü tapmaq üçün"
+    ],
+    "answer": "ədədlərin içindən ən böyüyünü tapmaq üçün"
+  },
+  {
+    "question": "Python proqramlaşdırma dilində \"from math import * \" edildikdən sonra proqram kodunun nə olacaq?a,b,c=144,256,625;",
+    "options": [
+      "81 25 36",
+      "9 6 5",
+      "25 36 81",
+      "12 16 25",
+      "25 6 81"
+    ],
+    "answer": "12 16 25"
+  },
+  {
+    "question": "Python proqramlaşdırma dilində \"from math import * \" edildikdən sonra proqram kodunun nə olacaq? a,b,c=25,36,81;",
+    "options": [
+      "25 6 81",
+      "81 25 36",
+      "25 36 81",
+      "9 6 5",
+      "5 6 9"
+    ],
+    "answer": "5 6 9"
+  },
+  {
+    "question": "sqrt() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "ədədi ortanın tapılması üçün",
+      "Cəmin tapılması üçün",
+      "qüvvətə yüksəltmək üçün",
+      "modulun tapılamsı üçün",
+      "Kvadrat kökün tapılması üçün"
+    ],
+    "answer": "Kvadrat kökün tapılması üçün"
+  },
+  {
+    "question": "pow() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "Cəmin tapılması üçün",
+      "modulun tapılamsı üçün",
+      "ədədi ortanın tapılması üçün",
+      "qüvvətə yüksəltmək üçün",
+      "Kvadrat kökün tapılması üçün"
+    ],
+    "answer": "qüvvətə yüksəltmək üçün"
+  },
+  {
+    "question": "Python proqramlaşdırma dilinin əsas proqram pəncərəsinin adı nədir?",
+    "options": [
+      "Sublime",
+      "Ecilips",
+      "VisualStudio",
+      "İDLE",
+      "Netbeans"
+    ],
+    "answer": "İDLE"
+  },
+  {
+    "question": "Aşağıdakılardan hansı python proqramlaşdırma dilində bir neçə sətir şərh bildirmək üçün hansı işarədən istifadə edilir?",
+    "options": [
+      "//* *//",
+      "/*  */",
+      "//     //",
+      "\"\"\"       \"\"\"\"",
+      "!* *!"
+    ],
+    "answer": "\"\"\"       \"\"\"\""
+  },
+  {
+    "question": "Aşağıdakılardan hansı python proqramlaşdırma dilində tək sətir şərh bildirmək üçün hansı işarədən istifadə edilir?",
+    "options": [
+      "/",
+      "@",
+      "!",
+      "#",
+      "//"
+    ],
+    "answer": "#"
+  },
+  {
+    "question": "Python proqramlaşdırma dilinin son verisyası hansıdır?",
+    "options": [
+      "3,10,3",
+      "3,7,7",
+      "3,4,5",
+      "3,9,1",
+      "3,7,7"
+    ],
+    "answer": "3,9,1"
+  },
+  {
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      "Swift",
+      "ORACLE",
+      "MySQL",
+      "JQUERY",
+      "HTML"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      "ORACLE",
+      "Netbeans",
+      "Sublime",
+      "PHP",
+      "HTML"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      "HTML",
+      "MySQL",
+      "ORACLE",
+      "C",
+      "JQUERY"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      "Netbeans",
+      "ORACLE",
+      "HTML",
+      "C#",
+      "Sublime"
+    ],
+    "answer": "C#"
+  },
+  {
+    "question": "Sabit nədir?",
+    "options": [
+      "xana",
+      "sahə",
+      "kod",
+      "dəyişikliyə məruz qalmayan  kəmiyyət",
+      "yazı"
+    ],
+    "answer": "dəyişikliyə məruz qalmayan  kəmiyyət"
+  },
+  {
+    "question": "Semantik səhv nədir?",
+    "options": [
+      "cümlə səhvi",
+      "hərif səhvi",
+      "proqram səhvi"
+    ],
+    "answer": "proqram səhvi"
+  },
+  {
+    "question": "Sintaksis səhv nədir ?",
+    "options": [
+      "cümlə səhvi",
+      "proqram səhvi",
+      "yazı səhvi",
+      "heç biri",
+      "hərif səhvi"
+    ],
+    "answer": "hərif səhvi"
+  },
+  {
+    "question": "Kompilyasiya nədir?",
+    "options": [
+      "kod",
+      "mənbə kodunun maşın koduna çevirir",
+      "proqram",
+      "yazı kodu",
+      "yazılan kodun ardıcıl icra olunması"
+    ],
+    "answer": "mənbə kodunun maşın koduna çevirir"
+  },
+  {
+    "question": "İnterpritasiya nədir?",
+    "options": [
+      "proqram",
+      "yazılan kodun ardıcıl icra olunması",
+      "yazı kodu",
+      "kod",
+      "mənbə kodunun maşın koduna çevirir"
+    ],
+    "answer": "yazılan kodun ardıcıl icra olunması"
+  },
+  {
+    "question": "range(10) hansı ardıcıllığı yaradır?",
+    "options": [
+      "0,1,2,3,4,5,6,7,8,9",
+      "0,1,2,3,4,5,6,7,8,9,10",
+      "1,2,3,4,5,6,7,8,9,10",
+      "3,4,5,6,7,8,9",
+      "1,2,3,4,5,6,7,8,9"
+    ],
+    "answer": "0,1,2,3,4,5,6,7,8,9"
+  },
+  {
+    "question": "range(5, 10) hansı ardıcıllığı yaradır?",
+    "options": [
+      "5, 6, 7, 8, 9,10",
+      "6, 7, 8, 9,10",
+      "5, 6, 7, 8, 9",
+      "6, 7, 8, 9",
+      "7,8,9,10"
+    ],
+    "answer": "5, 6, 7, 8, 9"
+  },
+  {
+    "question": "range(10, 5) hansı ardıcıllığı yaradır?",
+    "options": [
+      "10, 9, 8, 7, 6, 5",
+      "8,7,6,5",
+      "9, 8, 7, 6",
+      "heç bir ardıcıllıq yaratmır",
+      "10, 9, 8, 7, 6"
+    ],
+    "answer": "heç bir ardıcıllıq yaratmır"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[5])",
+    "options": [
+      "o",
+      "e",
+      "l",
+      ",",
+      "!"
+    ],
+    "answer": ","
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[7])",
+    "options": [
+      "Hel",
+      "e",
+      "!",
+      "l",
+      "W"
+    ],
+    "answer": "W"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[8])",
+    "options": [
+      "o",
+      "l",
+      "e",
+      "!",
+      "o"
+    ],
+    "answer": "o"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[9])",
+    "options": [
+      "l",
+      "r",
+      "e",
+      "o",
+      "!"
+    ],
+    "answer": "r"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[4])",
+    "options": [
+      "l",
+      "o",
+      "!",
+      "e",
+      ","
+    ],
+    "answer": "o"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[3])",
+    "options": [
+      ",",
+      "l",
+      "o",
+      "e",
+      "!"
+    ],
+    "answer": "l"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[2])",
+    "options": [
+      ",",
+      "l",
+      "o",
+      "e",
+      "!"
+    ],
+    "answer": "l"
+  },
+  {
+    "question": "Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = \"Hello, World!\";print(a[1])",
+    "options": [
+      ",",
+      "e",
+      "o",
+      ",",
+      "!"
+    ],
+    "answer": "e"
+  },
+  {
+    "question": "Siyahılarda clear() funksiyası hanı işi görür?",
+    "options": [
+      "element əlavə edir",
+      "bütün elementləri silir",
+      "indeksə görə element silir",
+      "obyektə görə element silir",
+      "siyahını yaddaşdan silir"
+    ],
+    "answer": "bütün elementləri silir"
+  },
+  {
+    "question": "Siyahılarda del() funksiyası hanı işi görür?",
+    "options": [
+      "indeksə görə element silir",
+      "siyahını yaddaşdan silir",
+      "bütün elementləri silir",
+      "element əlavə edir",
+      "obyektə görə element silir"
+    ],
+    "answer": "siyahını yaddaşdan silir"
+  },
+  {
+    "question": "Siyahılarda remove() funksiyası hanı işi görür?",
+    "options": [
+      "bütün elementləri silir",
+      "obyektə görə element silir",
+      "siyahını yaddaşdan silir",
+      "indeksə görə element silir",
+      "element əlavə edir"
+    ],
+    "answer": "obyektə görə element silir"
+  },
+  {
+    "question": "Siyahılarda pop() funksiyası hanı işi görür?",
+    "options": [
+      "obyektə görə element silir",
+      "indeksə görə element silir",
+      "element əlavə edir",
+      "siyahını yaddaşdan silir",
+      "bütün elementləri silir"
+    ],
+    "answer": "indeksə görə element silir"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?   reqem=[3,5,7,9,11,12,13,103];reqeq.append(17); print(reqem[0:])",
+    "options": [
+      "[3, 5, 7, 9, 17 12, 13, 103]",
+      "[3, 5, 7, 9, 11, 12, 13, 103, 17]",
+      "[17]",
+      "[17,17,17,17,17,17,17]",
+      "[17 5, 7, 9, 17 12, 13, 103]"
+    ],
+    "answer": "[3, 5, 7, 9, 11, 12, 13, 103, 17]"
+  },
+  {
+    "question": "Siyahılarda append() funksiyası hanı işi görür?",
+    "options": [
+      "siyahıdan element silir",
+      "siyahıya element əlavə edir",
+      "String tipində yaddasda yer ayırır",
+      "integer tipinə keçid edir",
+      "siyahıda elementləri yoxluyur"
+    ],
+    "answer": "siyahıya element əlavə edir"
+  },
+  {
+    "question": "a=list() əməliyyatı hansı işi görür?",
+    "options": [
+      "a dəyişəninə 0 mənimsədir",
+      "boş siyahı yaradır",
+      "a dəyişəninin tipini müəyyən edir",
+      "integer tipinə keçid edir",
+      "String tipində yaddasda yer ayırır"
+    ],
+    "answer": "boş siyahı yaradır"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?   reqem=[3,5,7,9,11,12,13,103]; print(reqem[0:])",
+    "options": [
+      "[7, 103]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7, 9, 11]",
+      "[3, 5, 7]",
+      "[5, 9, 12]"
+    ],
+    "answer": "[3, 5, 7, 9, 11, 12, 13, 103]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?  reqem=[3,5,7,9,11,12,13,103]; print(reqem[2::5])",
+    "options": [
+      "[5, 9, 12]",
+      "[7, 103]",
+      "[3, 5, 7]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7, 9, 11]"
+    ],
+    "answer": "[7, 103]"
+  },
+  {
+    "question": "Hansı verilənləri saxlamaq üçüçn vektor istifadə edilir?",
+    "options": [
+      "növbə",
+      "heç biri düz deyil.",
+      "dinamik dəyişən verilənlər",
+      "stek",
+      "sətir"
+    ],
+    "answer": "sətir"
+  },
+  {
+    "question": "Başqa qovşağa birdən artıq göstəriciyə malik olması ilə ağacdan fərqlənən verilənlər strukturu necə adlanır?",
+    "options": [
+      "səviyyə.",
+      "ağac",
+      "kök",
+      "istiqamətlənmış qraf",
+      "qovşaq"
+    ],
+    "answer": "istiqamətlənmış qraf"
+  },
+  {
+    "question": "Verilənin adı bildirir:",
+    "options": [
+      "informasiya",
+      "bütün variantlar",
+      "ünvan",
+      "rəng",
+      "məna(semantika)"
+    ],
+    "answer": "məna(semantika)"
+  },
+  {
+    "question": "Verilənin xarakteristikası",
+    "options": [
+      "bütün variantlar",
+      "rəng",
+      "ünvan",
+      "məna(semantika)",
+      "informasiya"
+    ],
+    "answer": "məna(semantika)"
+  },
+  {
+    "question": "Verilənin xarakteristikası",
+    "options": [
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "struktur",
+      "rəng"
+    ],
+    "answer": "struktur"
+  },
+  {
+    "question": "Verilənin xarakteristikası",
+    "options": [
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "tip",
+      "rəng"
+    ],
+    "answer": "tip"
+  },
+  {
+    "question": "Verilənin xarakteristikası",
+    "options": [
+      "rəng",
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "ad"
+    ],
+    "answer": "ad"
+  },
+  {
+    "question": "Verilən termini",
+    "options": [
+      "bütün variantlar",
+      "çox mürəkkəb",
+      "sadə",
+      "datum(fakt)",
+      "iqtisadi"
+    ],
+    "answer": "datum(fakt)"
+  },
+  {
+    "question": "Baza proqram vasitələri nəyə xidmət göstərir:",
+    "options": [
+      "bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir",
+      "təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir",
+      "İfaçı üçün təlimatlar sistemi",
+      "məlumatların işlənməsi sisteminin diaqnostikası",
+      "öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan"
+    ],
+    "answer": "məlumatların işlənməsi sisteminin diaqnostikası"
+  },
+  {
+    "question": "Baza proqram vasitələri nəyə xidmət göstərir:",
+    "options": [
+      "İfaçı üçün təlimatlar sistemi",
+      "bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir",
+      "öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan",
+      "məlumatların işlənməsi sisteminin texniki vasitələrinin fəaliyyətinə nəzarət edilməsi",
+      "təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir"
+    ],
+    "answer": "məlumatların işlənməsi sisteminin texniki vasitələrinin fəaliyyətinə nəzarət edilməsi"
+  },
+  {
+    "question": "Baza proqram vasitələri nəyə xidmət göstərir:",
+    "options": [
+      "təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir",
+      "bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir",
+      "öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan",
+      "məlumatların işlənməsi prosedurlarının təşkili",
+      "İfaçı üçün təlimatlar sistemi"
+    ],
+    "answer": "məlumatların işlənməsi prosedurlarının təşkili"
+  },
+  {
+    "question": "Baza proqram vasitələri nəyə xidmət göstərir:",
+    "options": [
+      "İfaçı üçün təlimatlar sistemi",
+      "təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir",
+      "bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir",
+      "öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan",
+      "insan və kompüterin qarşılıqlı fəaliyyətinin avtomatlaşdırılması"
+    ],
+    "answer": "insan və kompüterin qarşılıqlı fəaliyyətinin avtomatlaşdırılması"
+  },
+  {
+    "question": "Riyazi təminata aiddir:",
+    "options": [
+      "informasiya daşıyıcısı",
+      "iqtisadi informasiya sistemi",
+      "bütün variantlar",
+      "informasiya sistemi",
+      "ayri-ayrı məsələlərin riyazi təminatı"
+    ],
+    "answer": "ayri-ayrı məsələlərin riyazi təminatı"
+  },
+  {
+    "question": "Proqram təminatının tərkibinə daxildir:",
+    "options": [
+      "iqtisadi informasiya sistemi",
+      "bütün variantlar",
+      "informasiya sistemi",
+      "tətbiqi proqram məhsulları",
+      "informasiya daşıyıcısı"
+    ],
+    "answer": "tətbiqi proqram məhsulları"
+  },
+  {
+    "question": "Proqram təminatının tərkibinə daxildir:",
+    "options": [
+      "informasiya sistemi",
+      "iqtisadi informasiya sistemi",
+      "informasiya daşıyıcısı",
+      "baza proqram məhsulları",
+      "bütün variantlar"
+    ],
+    "answer": "baza proqram məhsulları"
+  },
+  {
+    "question": "Proqram təminatına aiddir:",
+    "options": [
+      "bütün variantlar",
+      "iqtisadi informasiya sistemi",
+      "informasiya daşıyıcısı",
+      "məlumatların istisamarı üçün istifadə edilən proqramlar",
+      "informasiya sistemi"
+    ],
+    "answer": "məlumatların istisamarı üçün istifadə edilən proqramlar"
+  },
+  {
+    "question": "Proqram təminatına aiddir:",
+    "options": [
+      "iqtisadi informasiya sistemi",
+      "bütün variantlar",
+      "informasiya sistemi",
+      "məlumatların avtomatlaşdırılmış işlənmə sisteminin yaradılması üçün istifadə edilən proqramlar",
+      "informasiya daşıyıcısı"
+    ],
+    "answer": "məlumatların avtomatlaşdırılmış işlənmə sisteminin yaradılması üçün istifadə edilən proqramlar"
+  },
+  {
+    "question": "Proqram nədir:",
+    "options": [
+      "Kompüterin  məlumatların işlənməsi prosesində yerinə yetirdiyi əmrlər ardıcıllığı",
+      "say və mətn məlumatı",
+      "kompüterdə  ikilik kodda hazırlanan məlumatlar",
+      "əməllər ardıcıllığ",
+      "qrafik və səs məlumatı"
+    ],
+    "answer": "Kompüterin  məlumatların işlənməsi prosesində yerinə yetirdiyi əmrlər ardıcıllığı"
+  },
+  {
+    "question": "Alqoritmik dildə (x+3y):5xy ifadəsinin yazılışı necədir:",
+    "options": [
+      "x+3y/5xy",
+      "(x+3y)/5xy",
+      "x+3*y/5*x*y",
+      "(x+3*y)/(5*x*y)",
+      "x-3*y/5xy"
+    ],
+    "answer": "(x+3*y)/(5*x*y)"
+  },
+  {
+    "question": "Kompüterin \"başa düşdüyü\" dildə yazılmış alqoritm necə adlanır?",
+    "options": [
+      "mətn",
+      "xətti",
+      "cədvəl",
+      "proqram",
+      "blok sxem"
+    ],
+    "answer": "proqram"
+  },
+  {
+    "question": "Bu və ya digər şərtin doğru olmasından asılı olaraq bir qrup əməliyyatların icrasını təmin edən alqoritm necə adlanır?",
+    "options": [
+      "mürəkkəb",
+      "qeyri xətti",
+      "xətti",
+      "dövri",
+      "budaqlanan"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "A və B ədədlərinin cəminin hesablanması hansı növ alqoritmə aiddir?",
+    "options": [
+      "köməkçi",
+      "heç biri",
+      "dövri",
+      "budaqlanan",
+      "xətti"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "Hansı struktura malik alqoritmdə icra verilmiş şərtin yerinə yetirilib-yetirilməməsinə görə müxtəlif istiqamətlərdən ancaq birində davam",
+    "options": [
+      "xətti",
+      "budaqlanan",
+      "dövri, xətti",
+      "heç biri",
+      "dövrü"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Mürəkkəb dövr nədir?",
+    "options": [
+      "bir neçə ardıcıl əməliyyatlardan ibarətdirsə mürəkkəb dördür",
+      "sadə hesablama prosesini ifadə edirsə mürəkkəb dövrdür",
+      "alqoritmdə dövr iştirak etməzsə bu mürəkkəb dövrdür",
+      "bir alqoritmdə bir neçə daxili dövr iştirak edərsə bu  mürəkkəb dövrdür",
+      "şərtdən asılı olmayaraq təkrarlanmısa mürəkkəb dövrdür"
+    ],
+    "answer": "bir alqoritmdə bir neçə daxili dövr iştirak edərsə bu  mürəkkəb dövrdür"
+  },
+  {
+    "question": "Sadə dövrü alqoritmde neçə dövr olur?",
+    "options": [
+      "4",
+      "2",
+      "sonsuz",
+      "3",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Massivlərin növləri hansılardır?",
+    "options": [
+      "fəza, üfiqi",
+      "matris, fəza, şaquli",
+      "vektor, üfiqi",
+      "vektor, matris, fəza",
+      "üfiqi, şaquli, fəza"
+    ],
+    "answer": "vektor, matris, fəza"
+  },
+  {
+    "question": "Massivin eıementləri proqramın icrası müddətində harda saxlanılır?",
+    "options": [
+      "papkada",
+      "kompüterdə",
+      "əməli yaddaşda",
+      "diskdə",
+      "fləşdə"
+    ],
+    "answer": "əməli yaddaşda"
+  },
+  {
+    "question": "Eyni tipə malik olan və müəyyən qaydada nömrələnmiş elementlər qrupu nədir?",
+    "options": [
+      "verilən",
+      "massiv",
+      "qraf",
+      "faktorial",
+      "cəm"
+    ],
+    "answer": "massiv"
+  },
+  {
+    "question": "Sıralama alqoritmlərindən nə vaxt istifadə edilir?",
+    "options": [
+      "massivin elementlərinin max tapmaq üçün",
+      "massivin elementlərinin min tapmaq üçün",
+      "massivin elementlərini axtarmaq üçün",
+      "massivin elementlərini artma və ya azalma istiqamətində  düzmək üçün",
+      "massivin elementlərini toplamaq üçün"
+    ],
+    "answer": "massivin elementlərini artma və ya azalma istiqamətində  düzmək üçün"
+  },
+  {
+    "question": "İkilik axtarış hansı massivlərə tətbiq olunur?",
+    "options": [
+      "siralanmamış",
+      "vektor",
+      "matris",
+      "sıralanmış",
+      "fəza"
+    ],
+    "answer": "sıralanmış"
+  },
+  {
+    "question": "Axtarış alqoritmlərinin hansı növləri var?",
+    "options": [
+      "ardıcıl, ikilik",
+      "iklik, onluq",
+      "ikilik, onaltılıq",
+      "ardıcıl, düz",
+      "ikilik, səkkizlik"
+    ],
+    "answer": "ardıcıl, ikilik"
+  },
+  {
+    "question": "Prefix təsvir formasını tapın:",
+    "options": [
+      "sağ, sağ kök",
+      "sol, sağ, kök",
+      "sol, kök, sağ",
+      "kök, sol, sağ",
+      "sol,sol,kök"
+    ],
+    "answer": "kök, sol, sağ"
+  },
+  {
+    "question": "İnfix təsvir forması hansıdır?",
+    "options": [
+      "kök, sol, sağ",
+      "sağ, sağ kök",
+      "sol,sol,kök",
+      "sol, kök, sağ",
+      "sol, sağ, kök"
+    ],
+    "answer": "sol, kök, sağ"
+  },
+  {
+    "question": "Ağac verilən quruluşunun hansı formaları var?",
+    "options": [
+      "verilən",
+      "massiv",
+      "sağ və sol budaqlar",
+      "kök",
+      "infix, prefix, posfix"
+    ],
+    "answer": "infix, prefix, posfix"
+  },
+  {
+    "question": "köklər nə ilə təyin olunur?",
+    "options": [
+      "sahə",
+      "operand",
+      "verilən",
+      "operator",
+      "massiv"
+    ],
+    "answer": "operator"
+  },
+  {
+    "question": "İkilik ağaclar nədən ibarətdir?",
+    "options": [
+      "massivdən",
+      "veriləndən",
+      "kökdən, sağ və sol budaqlardan",
+      "kökdən",
+      "sağ və sol budaqlardan"
+    ],
+    "answer": "kökdən, sağ və sol budaqlardan"
+  },
+  {
+    "question": "Alqoritmin qrafik təsviri :",
+    "options": [
+      "Formallaşdırılmışməsələdir",
+      "İxtiyari formada sxematik təsvirdir",
+      "Həndəsi füqurların köməyilə alqoritmin təsvir üsuludur",
+      "İcra oluna bilən bütün komandaların yığımıdır",
+      "Alqoritmin cədvəl və hesablama düsturları ilə təsviridir."
+    ],
+    "answer": "Həndəsi füqurların köməyilə alqoritmin təsvir üsuludur"
+  },
+  {
+    "question": "Düzgün hökmü seçin:",
+    "options": [
+      "blok-sxem şəklində təqdim olunan alqoritmin, icraçısı kompyuter deyil",
+      "yalnız kompüter alqoritmin icraçısı ola bilər",
+      "alqoritm proqramlaşdırma dilində yazılıb, icraçı insan deyil",
+      "alqoritm - bu, icra oluna bilən bütün komandaların məcmusudur",
+      "alqoritm  blok-sxem şəklində, həm də proqramlaşdırma dilində yazıla bilər"
+    ],
+    "answer": "alqoritm  blok-sxem şəklində, həm də proqramlaşdırma dilində yazıla bilər"
+  },
+  {
+    "question": "Alqoritm icraçısı dedikdə nə başa düşülür?",
+    "options": [
+      "vəziyyətdən asılı olaraq alqoritm fəaliyyət göstərir",
+      "müəyyən şərtlərlə fəaliyyətini yerinə yetirir",
+      "vacib əməllərin aydın və dəqiq göstərişi",
+      "müəyyən hərəkətləri yerinə yetirməyi bacaran insan və ya kompüter dəsti",
+      "elementləri  birləşdirənəlaqəli mərhələlərin yerinə yetirilməsialqoritmi"
+    ],
+    "answer": "müəyyən hərəkətləri yerinə yetirməyi bacaran insan və ya kompüter dəsti"
+  },
+  {
+    "question": "Mətn tipli verilənlərin ifadə forması",
+    "options": [
+      "rəng",
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "sözlə(somvolla)"
+    ],
+    "answer": "sözlə(somvolla)"
+  },
+  {
+    "question": "Hesabi verilənlərin ifadə forması",
+    "options": [
+      "informasiya",
+      "bütün variantlar",
+      "ünvan",
+      "rəng",
+      "rəqəm"
+    ],
+    "answer": "rəqəm"
+  },
+  {
+    "question": "Verilənlərin tipi",
+    "options": [
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "göstərici",
+      "rəng"
+    ],
+    "answer": "göstərici"
+  },
+  {
+    "question": "Verilənlərin tipi",
+    "options": [
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "mətn( və ya simvol)",
+      "rəng"
+    ],
+    "answer": "mətn( və ya simvol)"
+  },
+  {
+    "question": "Verilənlərin tipi",
+    "options": [
+      "bütün variantlar",
+      "ünvan",
+      "rəng",
+      "məntiqi",
+      "informasiya"
+    ],
+    "answer": "məntiqi"
+  },
+  {
+    "question": "Verilənlərin tipi",
+    "options": [
+      "rəng",
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "hesabi(rəqəm )"
+    ],
+    "answer": "hesabi(rəqəm )"
+  },
+  {
+    "question": "Verilənlər tipinə görə neçə qrup olur",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Verilənin qiyməti bildirir:",
+    "options": [
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "verilənin özünü",
+      "rəng"
+    ],
+    "answer": "verilənin özünü"
+  },
+  {
+    "question": "Alqoritm nədir?",
+    "options": [
+      "İfaçı üçün təlimatlar sistemi",
+      "təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir",
+      "bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir",
+      "öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan",
+      "aydın və dəqiq göstəriş ifaçısı, qarşıya qoyulan vəzifələrin həlli istiqamətində fəaliyyət ardıcıllığı deməkdir"
+    ],
+    "answer": "aydın və dəqiq göstəriş ifaçısı, qarşıya qoyulan vəzifələrin həlli istiqamətində fəaliyyət ardıcıllığı deməkdir"
+  },
+  {
+    "question": "Xətti alqoritm nədir?",
+    "options": [
+      "budaqlanma və dövrü mərhələsi olmayan alqoritmdir",
+      "natamam budaqlanan alqoritmdir",
+      "Dəfələrlə təkrar olunan dövri prosesi təsvir edən alqoritmdir",
+      "şərtdən asılı olaraq təkrar olunmayan alqoritmdir",
+      "Bir-birinin ardınca icra edilən əmrlər seriyasından ibarət olan alqoritmdir"
+    ],
+    "answer": "Bir-birinin ardınca icra edilən əmrlər seriyasından ibarət olan alqoritmdir"
+  },
+  {
+    "question": "Mənimsəmə operatoru nəyi dəyişir?",
+    "options": [
+      "alqoritmin xassəsini",
+      "dəyişənin tipini",
+      "dəyişənin adını",
+      "dəyişənin qiymətini",
+      "alqoritmin tipini"
+    ],
+    "answer": "dəyişənin qiymətini"
+  },
+  {
+    "question": "İstəilən bir məsələnin alqoritminin kompüterdə reallaşdırılması üçün ilk atılan addım hansıdır?",
+    "options": [
+      "alqoritmin qurulması",
+      "sazlama",
+      "analiz",
+      "məsələnin qoyulması",
+      "testləmə"
+    ],
+    "answer": "məsələnin qoyulması"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: x=17, y= 5, z=x+y, x=x+y, z=x+z",
+    "options": [
+      "41",
+      "40",
+      "42",
+      "44",
+      "43"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: a=4, b=8, c=a+b, b=c+a, a=b+c, c=a+b",
+    "options": [
+      "43",
+      "28",
+      "44",
+      "16",
+      "12"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: a=3, b=5, c=a+b, b=c+a, a=b+c, c=a+b",
+    "options": [
+      "29",
+      "19",
+      "30",
+      "11",
+      "8"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: a=2, b=4, c=a+b, b=c+a, a=b+c, c=a+b",
+    "options": [
+      "20",
+      "6",
+      "21",
+      "14",
+      "22"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: a=5, b=7, c=a+b, b=c+a, a=b+c, c=a+b",
+    "options": [
+      "45",
+      "41",
+      "42",
+      "46",
+      "40"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Xətti alqoritm nədir",
+    "options": [
+      "natamam budaqlanan alqoritmdir",
+      "Dəfələrlə təkrar olunan dövri prosesi təsvir edən alqoritmdir",
+      "şərtdən asılı olaraq təkrar olunmayan alqoritmdir",
+      "Bir-birinin ardınca icra edilən əmrlər seriyasından ibarət olan alqoritmdir",
+      "budaqlanma və dövrü mərhələsi olmayan alqoritmdir"
+    ],
+    "answer": "Bir-birinin ardınca icra edilən əmrlər seriyasından ibarət olan alqoritmdir"
+  },
+  {
+    "question": "Mənimsəmə operatoru nəyi dəyişir",
+    "options": [
+      "dəyişənin adını",
+      "alqoritmin xassəsini",
+      "alqoritmin tipini",
+      "dəyişənin qiymətini",
+      "dəyişənin tipini"
+    ],
+    "answer": "dəyişənin qiymətini"
+  },
+  {
+    "question": "İstəilən bir məsələnin alqoritminin kompüterdə reallaşdırılması üçün ilk atılan addım hansıdır",
+    "options": [
+      "alqoritmin qurulması",
+      "analiz",
+      "sazlama",
+      "məsələnin qoyulması",
+      "testləmə"
+    ],
+    "answer": "məsələnin qoyulması"
+  },
+  {
+    "question": "Proqram nədir?",
+    "options": [
+      "Kompüterin  məlumatların işlənməsi prosesində yerinə yetirdiyi əmrlər ardıcıllığı",
+      "say və mətn məlumatı",
+      "kompüterdə  ikilik kodda hazırlanan məlumatlar",
+      "əməllər ardıcıllığ",
+      "qrafik və səs məlumatı"
+    ],
+    "answer": "Kompüterin  məlumatların işlənməsi prosesində yerinə yetirdiyi əmrlər ardıcıllığı"
+  },
+  {
+    "question": "Verilənlər nədir?",
+    "options": [
+      "Kompüterin məlumatların işlənməsi prosesində həyata keçirdiyi komandaların ardıcıllığı",
+      "say və mətn məlumatı",
+      "Kompüterdə ikilik kompüter kodunda emal olunan məlumat",
+      "qrafik və səs məlumat",
+      "say və qrafik məlumatlar"
+    ],
+    "answer": "Kompüterdə ikilik kompüter kodunda emal olunan məlumat"
+  },
+  {
+    "question": "x=y+5, y=x+3, x=x+y. Alqoritm yerinə yetirildikdən sonra x= 33 qiymətini alır. X və Y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "30",
+      "25",
+      "33",
+      "15",
+      "28"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "x=y+5, y=x+3, x=x+y. Alqoritm yerinə yetirildikdən sonra x= 13 qiymətini alır. X və Y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "20",
+      "12",
+      "5",
+      "10",
+      "13"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "x=y+5, y=x+3, x=x+y. Alqoritm yerinə yetirildikdən sonra x= 23 qiymətini alır. X və Y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "12",
+      "13",
+      "11",
+      "10",
+      "9"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: x=7, y= 5, z=x+y, x=x+y, z=x+z",
+    "options": [
+      "23",
+      "12",
+      "25",
+      "13",
+      "24"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: x=15, y= 4, z=x+y, x=x+y, z=x+z",
+    "options": [
+      "39",
+      "37",
+      "19",
+      "38",
+      "18"
+    ],
+    "answer": "38"
+  },
+  {
+    "question": "Xətti alqoritmdə ardıcıl yerinə yetirilən riyazi əməli həll edin: x=10, y= 5, z=x+y, x=x+y, z=x+z",
+    "options": [
+      "14",
+      "15",
+      "31",
+      "30",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Mürəkkəb budaqlanma hansı növ alqoritmə aiddir",
+    "options": [
+      "ön şərtli",
+      "son şərtli",
+      "xətti",
+      "dövrü",
+      "budaqlanan"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Sadə budaqlanma hansı növ alqoritmə aiddir",
+    "options": [
+      "xətti",
+      "son şərtli",
+      "ön şərtli",
+      "budaqlanan",
+      "dövrü"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Budaqlanan alqoritmlər neçə cür olur",
+    "options": [
+      "1",
+      "6",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "a,b,c ədədlrinin \"min\" tapılması alqoritmində a=3, b= 7, c=4 olarsa çap olunacaq qiyməti tapın",
+    "options": [
+      "10",
+      "7",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "a,b,c ədədlrinin \"max\" tapılması alqoritmində a=3, b= 7, c=4 olarsa çap olunacaq qiyməti tapın",
+    "options": [
+      "10",
+      "2",
+      "7",
+      "4",
+      "3"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "y= ln(x), x>3                                                                   cos(x), x=3                                                       sin(x), x<0    ifadəsi hansı növ",
+    "options": [
+      "natamam"
+    ],
+    "answer": "natamam"
+  },
+  {
+    "question": "y= ln(x), x>3                                                                   sin(x), x<3     ifadəsi hansı növ budaqlanan alqoritmə aiddir",
+    "options": [
+      "natamam"
+    ],
+    "answer": "natamam"
+  },
+  {
+    "question": "y=|x| modulunun x >=0 şərt ilə hesablanması alqoritmində x= mənfi 5, y= 5 olarsa alqoritmin sonunda y- in çap olunacaq qiymətini",
+    "options": [
+      "mənfi 5",
+      "2",
+      "8",
+      "5",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "y=|x| modulunun x <0 şərt ilə hesablanması alqoritmində x= -5, y= 3 olarsa alqoritmin sonunda y- in çap olunacaq qiymətini tapın",
+    "options": [
+      "5",
+      "-3",
+      "3",
+      "-5",
+      "8"
+    ],
+    "answer": "-5"
+  },
+  {
+    "question": "y=|x| modulunun x >=0 şərt ilə hesablanması alqoritmində x= 5, y= 3 olarsa alqoritmin sonunda y- in çap olunacaq qiymətini tapın",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Alqoritmin icrasından sonra Y-in qiymətini tapın:                                                                    x:=5",
+    "options": [
+      "32",
+      "6",
+      "5",
+      "30",
+      "8"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Alqoritmin icrasından sonra Y-in qiymətini tapın:                                                                    x:=14",
+    "options": [
+      "60",
+      "14",
+      "71",
+      "140",
+      "112"
+    ],
+    "answer": "112"
+  },
+  {
+    "question": "x=8 verilmişdir. Əgər X>8 olarsa onda Z=X*2, əks halda Z=X/2   olarsa  alqoritm icra olunduqdan sonra Z-in qiymətini tapın",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "2",
+      "dörd"
+    ],
+    "answer": "dörd"
+  },
+  {
+    "question": "X=10, Y=1 verilmişdir. Əgər X≤10 şərti ödənərsə onda  X=X+Y .  Blok sxemdə alqoritm neçə dəfə icra olunacaq",
+    "options": [
+      "icra olunmayacaq",
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Alqoritm xəttidir əgər .................(nöqtələrin yerinə qoy)",
+    "options": [
+      "özündə köməkçi alt proqram saxlayır",
+      "əmrin icrası növbəti əməliyyatın nəticəsindən asılıdır",
+      "eyni əməliyyatların çoxlu sayda təkrarlanmasını tələb edir",
+      "əmirlər hər hansı bir şərtdən asılı olmayaraq ardıcıl yerinə yetirilir",
+      "cədvəl formasında təsvir olunub"
+    ],
+    "answer": "əmirlər hər hansı bir şərtdən asılı olmayaraq ardıcıl yerinə yetirilir"
+  },
+  {
+    "question": "Kütləvilik xassəsi nəyi bildirir",
+    "options": [
+      "addımların ardıcıl yerinə yetirilməsinı",
+      "alqoritmin sonlu olmasını",
+      "alqoritmin ardıcıl yerinə yetirilməsini",
+      "alqoritmin bir məsələ üçün deyil, məsələlər sinfi üçün qurulmasının",
+      "alqoritmin sonsuz olmasını"
+    ],
+    "answer": "alqoritmin bir məsələ üçün deyil, məsələlər sinfi üçün qurulmasının"
+  },
+  {
+    "question": "x=2 olduqda aşağıdakı alqoritmin icrasından sonra Y-in qiymətini tapın                            Y={sin x, x<1",
+    "options": [
+      "8",
+      "3",
+      "0",
+      "9",
+      "6"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "a=19, b=12 olduqda aşağıdakı alqoritmin icrasından sonra Y-in qiymətini tapın      Y={a+b, a>b                                                             a-",
+    "options": [
+      "37",
+      "8",
+      "0",
+      "31",
+      "7"
+    ],
+    "answer": "31"
+  },
+  {
+    "question": "AX^2+BX+C=0 (A fərqlidir 0) kvadrat tənliyin həqiqi köklərinin hesablanması üçün məntiqi blokdan neçə dəfə istifadə olunmalıdır",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Aşağıdakı funksiyanın qiymətinin hesablanması üçün blok sxem qurduqda məntiqi blokdan neçə dəfə istifadə olunur Y={e^x, x<1",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Aşağıdakı funksiyanın qiymətinin hesablanması üçün blok sxem qurduqda məntiqi blokdan neçə dəfə istifadə olunur Y={a cosx+b+c,",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Hansı struktura malik alqoritmdə icra verilmiş şərtin yerinə yetirilib-yetirilməməsinə görə müxtəlif istiqamətlərdən ancaq birində davam",
+    "options": [
+      "dövri, xətti",
+      "heç biri",
+      "xətti",
+      "dövrü",
+      "budaqlanan"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Kvadrat tənliyin həll alqoritmində əsas şərt kimi nə götürülür",
+    "options": [
+      "verilənlərin sıfırla müqayisəsi",
+      "1 ci hədd əmsalının sıfırla müqayisəsi",
+      "2 ci hədd əmsalının sıfırla müqayisəsi",
+      "diskriminantın sıfırla müqayisəsi",
+      "heç biri"
+    ],
+    "answer": "diskriminantın sıfırla müqayisəsi"
+  },
+  {
+    "question": "Dövri alqoritmlərneçə cür olur",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Şərtli dövrdə dövrlərin sayı nə vaxta qədər  davam edir.",
+    "options": [
+      "hesab əməli yerinə yetirilənə kimi",
+      "bir neçə ardıcıl əməliyyat yerinə yetirilənə kimi",
+      "riyazi ifadə çap olunana kimi",
+      "şərt ödənənə kimi",
+      "nəticə çap olunana kimi"
+    ],
+    "answer": "şərt ödənənə kimi"
+  },
+  {
+    "question": "Dövr quruluşu hansıdir",
+    "options": [
+      "məntiqli, ksilən",
+      "həriflə,rəqəmlə",
+      "şərtli dövr, riyazi dövr",
+      "sadə , mürəkkəb",
+      "sayğaclı dövr,  şərtli dövr"
+    ],
+    "answer": "sayğaclı dövr,  şərtli dövr"
+  },
+  {
+    "question": "Mürəkkəb dövr nədir",
+    "options": [
+      "bir neçə ardıcıl əməliyyatlardan ibarətdirsə mürəkkəb dördür",
+      "alqoritmdə dövr iştirak etməzsə bu mürəkkəb dövrdür",
+      "sadə hesablama prosesini ifadə edirsə mürəkkəb dövrdür",
+      "bir alqoritmdə bir neçə daxili dövr iştirak edərsə bu  mürəkkəb dövrdür",
+      "şərtdən asılı olmayaraq təkrarlanmısa mürəkkəb dövrdür"
+    ],
+    "answer": "bir alqoritmdə bir neçə daxili dövr iştirak edərsə bu  mürəkkəb dövrdür"
+  },
+  {
+    "question": "Sadə dövrü alqoritmde neçə dövr olur",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1",
+      "sonsuz"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Dövrlər_________ və________  olur.(boşluqları sözlərlə ifadə et)",
+    "options": [
+      "hərflə,rəqəmlə",
+      "riyazi,texniki",
+      "məntiqi,kəsilən",
+      "sadə, mürəkkəb",
+      "asan,çətin"
+    ],
+    "answer": "sadə, mürəkkəb"
+  },
+  {
+    "question": "Dövr nədir",
+    "options": [
+      "sadə hesablama prosesini ifadə edən alqoritm",
+      "bir neçə ardıcıl əməliyyatlardan ibarət alqoritm",
+      "budaqlanma və dövrü mərhələsi olmayan alqoritm",
+      "şərtdən asılı olaraq təkrar olunmayan alqoritm",
+      "Dövri prosesi təşkil edən  operatorlar ardıcıllığıdır"
+    ],
+    "answer": "Dövri prosesi təşkil edən  operatorlar ardıcıllığıdır"
+  },
+  {
+    "question": "Dövrü alqoritm nədir",
+    "options": [
+      "budaqlanma və dövrü mərhələsi olmayan alqoritm",
+      "bir neçə ardıcıl əməliyyatlardan ibarət alqoritm",
+      "sadə hesablama prosesini ifadə edən alqoritm",
+      "Dəfələrlə təkrar olunan dövri prosesi təsvir edən alqoritm",
+      "şərtdən asılı olaraq təkrar olunmayan alqoritm"
+    ],
+    "answer": "Dəfələrlə təkrar olunan dövri prosesi təsvir edən alqoritm"
+  },
+  {
+    "question": "S={x+15, x<0                                                      x*12, x>0  məsələsini həll etmək üçün hansı alqoritmdən istifadə etmək olar",
+    "options": [
+      "xətti",
+      "şərti",
+      "dövri",
+      "budaqlanan",
+      "sonsuz"
+    ],
+    "answer": "budaqlanan"
+  },
+  {
+    "question": "Budaqlanan alqoritmlər hansı üsullarla təsvir edilə bilər",
+    "options": [
+      "qrafik üulla",
+      "proqramlaşdırma dilində",
+      "müxtəlif üsulların köməyi ilə",
+      "riyazi ifadə vasitəsilə",
+      "qrafik və proqramlaşdırma diində"
+    ],
+    "answer": "qrafik və proqramlaşdırma diində"
+  },
+  {
+    "question": "Mürəkkəb şərt nədir",
+    "options": [
+      "bir birindən asılı olmayan ifadədədir",
+      "son şərtdir",
+      "on şərtdir",
+      "bir-biri ilə məntiq əməli ilə bağlanmış sadə şərtlər ardıcıllığıdır.",
+      "natamam budaqlanmadır"
+    ],
+    "answer": "bir-biri ilə məntiq əməli ilə bağlanmış sadə şərtlər ardıcıllığıdır."
+  },
+  {
+    "question": "Sadə şərt necə ifadə ounur",
+    "options": [
+      "on şərt kimi",
+      "son şərt kimi",
+      "bir birindən asılı olmayan ifadə kimi",
+      "natamam budaqlanma kimi",
+      "müqayisə ediləcək 2 ədəddən, 2 dəyişəndən, 2 hesabi ifadədən ibarətdir"
+    ],
+    "answer": "müqayisə ediləcək 2 ədəddən, 2 dəyişəndən, 2 hesabi ifadədən ibarətdir"
+  },
+  {
+    "question": "“Sahənin tipi” VB-nin hansı xarakteristikasını əks etdirir?",
+    "options": [
+      "əlaqə sahəsidir",
+      "vacib sahədir",
+      "unikal sahədir",
+      "açar sahədir",
+      "sahənin xüsusiyyətlərindən biridir"
+    ],
+    "answer": "sahənin xüsusiyyətlərindən biridir"
+  },
+  {
+    "question": "VB sahəsinin xüsusiyyəti hansıdır?",
+    "options": [
+      "sorğu",
+      "sətrlşrin miqdarı",
+      "həcm",
+      "imza",
+      "format"
+    ],
+    "answer": "imza"
+  },
+  {
+    "question": "Dövrü alqoritmin gövdəsi nədən ibarətdir",
+    "options": [
+      "bir birinin ardınca yerinə yetirilən mərhələlərdən",
+      "işçi proqramdan",
+      "təkrarlanması mümkün olmayan mərhələlərdən",
+      "şərt blokundan",
+      "təkrarlanması mümkün olan mərhələlərdən"
+    ],
+    "answer": "təkrarlanması mümkün olan mərhələlərdən"
+  },
+  {
+    "question": "Dövri alqoritmlərdə təkrarlanan operatorlar necə adlanır",
+    "options": [
+      "dövrün sonu",
+      "dövrün girişi",
+      "dövrün parametri",
+      "dövrün gövdəsi",
+      "dövrün şərti"
+    ],
+    "answer": "dövrün gövdəsi"
+  },
+  {
+    "question": "X-in ala biləcəyi qiymətlər {2;-2} ardıcıllığında 0.01 addımı ilə dəyişərsə, Y= 3x^2-5x+2 funksiyasının qiymətinin hesablanması hansı",
+    "options": [
+      "mürəkkəb",
+      "son şərtli",
+      "sadə",
+      "dövri",
+      "sonsuz"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "Mürəkkəb dövri strukturlarda aşağıdakılardan  hansı dövrlər və onlar arasındakı münasibətlər müəyyənləşdirilir",
+    "options": [
+      "daxili və sonşərtli",
+      "sadə və önşərtli",
+      "daxili və xarici",
+      "xarici və mürəkkəb",
+      "daxili və mürəkkəb"
+    ],
+    "answer": "daxili və xarici"
+  },
+  {
+    "question": "Dövri strukturların növlərinə bunlardan hansı aid deyil",
+    "options": [
+      "ön şərtli",
+      "sadə",
+      "sonsuz",
+      "son şərtli",
+      "mürəkkəb"
+    ],
+    "answer": "sonsuz"
+  },
+  {
+    "question": "Hansı struktura malik alqoritmlərdə onun bir hissəsi müəyyən şərtdən asılı olaraq təkrarlana bilir",
+    "options": [
+      "xətti",
+      "xətti və köməkçi",
+      "xətti və budaqlanan",
+      "dövri",
+      "budaqlanan"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "X-in 1 dən 10-a qədər qiymətlərində y=1/(x^2+5) funksiyasının hesablanması hansı növ alqoritmə aiddir",
+    "options": [
+      "heç biri",
+      "xətti",
+      "budaqlanan",
+      "dövri",
+      "xətti və budaqlanan"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "Gün ərzində marşrut avtobuslarının hərəkəti hansı növ alqoritmə aiddir",
+    "options": [
+      "xətti və budaqlanan",
+      "xətti",
+      "budaqlanan",
+      "dövri",
+      "heç biri"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "Həftəlik dərs cədvəli hansı növ alqoritmə aiddir",
+    "options": [
+      "budaqlanan",
+      "xətti",
+      "heç biri",
+      "xətti və budaqlanan",
+      "dövri"
+    ],
+    "answer": "dövri"
+  },
+  {
+    "question": "a=12,b=19 verilmişdir. Modifikasiyalı alqoritmdə i= 2,17,4 olarsa onda a=a+i, əks halda isə b=b+a. Alqoritmin sonunda b dəyişəninin",
+    "options": [
+      "19",
+      "62",
+      "49",
+      "63",
+      "50"
+    ],
+    "answer": "63"
+  },
+  {
+    "question": "s=0 verilmişdir.  Modifikasiyalı alqoritmdə i=3,15,4 olarsa onda S=S+i, əks halda S-in hansı qiyməti çap olunacaq",
+    "options": [
+      "15",
+      "21",
+      "10",
+      "36",
+      "3"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "Massivlər üzərində hansı əməliyyatları aparmaq olar?",
+    "options": [
+      "elementlərin fərqini tapmaq",
+      "ƏKOB nu tapmaq",
+      "ƏBOB nu tapmaq",
+      "maksimal və minimal elementinin tapılması,  axtarış alqoritmləri, çeşidləmə alqoritmləri",
+      "elementlərinin cəmini tapmaq"
+    ],
+    "answer": "maksimal və minimal elementinin tapılması,  axtarış alqoritmləri, çeşidləmə alqoritmləri"
+  },
+  {
+    "question": "Proqramın icrası müddətində massivlərin element sayı dəyişərsə bu hansı massivdir?",
+    "options": [
+      "matris",
+      "statik",
+      "vektor",
+      "dinamik",
+      "fəza"
+    ],
+    "answer": "dinamik"
+  },
+  {
+    "question": "Proqramın icrası müddətində massivlərin element sayı dəyişməzsə bu hansı massivdir?",
+    "options": [
+      "dinamik",
+      "vektor",
+      "matris",
+      "statik",
+      "fəza"
+    ],
+    "answer": "statik"
+  },
+  {
+    "question": "Massivlərin növləri hansılardır?",
+    "options": [
+      "üfiqi, şaquli, fəza",
+      "fəza, üfiqi",
+      "matris, fəza, şaquli",
+      "vektor, üfiqi",
+      "vektor, matris, fəza"
+    ],
+    "answer": "vektor, matris, fəza"
+  },
+  {
+    "question": "Massivin elementlərinə müraciət hansı ardıcıllıqla  yerinə yetirilir?",
+    "options": [
+      "ardıcıl",
+      "dəyişən adı və elementin sıra nömrəsi ilə",
+      "sütunlarla",
+      "dəyişənin adı ilə",
+      "sətrlərlə"
+    ],
+    "answer": "dəyişən adı və elementin sıra nömrəsi ilə"
+  },
+  {
+    "question": "Massivin eıementləri proqramın icrası müddətində harda saxlanılır?",
+    "options": [
+      "fləşdə",
+      "əməli yaddaşda",
+      "kompüterdə",
+      "papkada",
+      "diskdə"
+    ],
+    "answer": "əməli yaddaşda"
+  },
+  {
+    "question": "Eyni tipə malik olan və müəyyən qaydada nömrələnmiş elementlər qrupu nədir?",
+    "options": [
+      "cəm",
+      "massiv",
+      "qraf",
+      "verilən",
+      "faktorial"
+    ],
+    "answer": "massiv"
+  },
+  {
+    "question": "N=2473 ədədlərini tərsinə çevirən alqoitmi qurunş Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "4273",
+      "3742",
+      "3724",
+      "374",
+      "2734"
+    ],
+    "answer": "3742"
+  },
+  {
+    "question": "N=12473 ədələrinin rəqəmlərini sayan alqoritmi qurun. Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "N=12739 natural ədədlərin rəqəmlərin cəmlənməsi alqoritmini qurun. Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "21",
+      "22",
+      "12",
+      "9",
+      "19"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "a=25; b=65 verilmişdir. A və B əədədlərinin ƏBOB nun tapılması alqortimini qurun. Alqoritm yerinə yetirildikdən sonra B nın",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "a=25; b=65 verilmişdir. A və B əədədlərinin ƏBOB nun tapılması alqortimini qurun. Alqoritm yerinə yetirildikdən sonra A nın",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "N=5! Faktorialın hsablanması alqoritmini qurun. Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "24",
+      "120",
+      "2",
+      "1",
+      "6"
+    ],
+    "answer": "120"
+  },
+  {
+    "question": "N=10  a qədər cüt ədədlərin tapılması alqoritmini qurun. S=0; I= 0 verilib. Əgər İ<n olarsa I=I+1. Əgər İ mod2==0 olarsa S=S+i.",
+    "options": [
+      "20",
+      "30",
+      "6",
+      "2",
+      "12"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "N=10  a qədər tək ədədlərin cəminin alqoritmini qurun. S=0; İ=1 verilmişdir. Əgər İ<n olarsa, S=S+I, I=I+2. Əks halda  alqoritm yerinə",
+    "options": [
+      "16",
+      "25",
+      "1",
+      "0",
+      "9"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "n=5 qədər ədədlərin cəminin alqoritmini qurun. Alqorotm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "10",
+      "15",
+      "3",
+      "1",
+      "6"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Alqoritmin nəticəsində B dəyişəninin qiymətini tapın: a:=12, b:= 19                                              if    i:=2,17,4  then a:= a+i; else b:=",
+    "options": [
+      "44",
+      "63",
+      "14",
+      "20",
+      "30"
+    ],
+    "answer": "63"
+  },
+  {
+    "question": "Alqoritmin fraqmentinə əsasən \"kompüter\" sözü neçə dəfə çap olunacaq:                         i=0 verilmişdir. Əgər i<=100 olarsa onda",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Qraf nədir?",
+    "options": [
+      "təpələr çoxluğu",
+      "bir-biri ilə əlaqələnmiş obyektlər çoxluğu",
+      "till",
+      "bir-biri ilə əlaqələndirilməyən təpələr çoxluğu",
+      "ilgək"
+    ],
+    "answer": "bir-biri ilə əlaqələnmiş obyektlər çoxluğu"
+  },
+  {
+    "question": "Posfix təsvir formasını tapın:",
+    "options": [
+      "kök, sol, sağ",
+      "sol, sağ, kök",
+      "sol,sol,kök",
+      "sağ, sağ kök",
+      "sol, kök, sağ"
+    ],
+    "answer": "sol, sağ, kök"
+  },
+  {
+    "question": "Prefix təsvir formasını tapın:",
+    "options": [
+      "sol, kök, sağ",
+      "kök, sol, sağ",
+      "sol,sol,kök",
+      "sağ, sağ kök",
+      "sol, sağ, kök"
+    ],
+    "answer": "kök, sol, sağ"
+  },
+  {
+    "question": "İnfix təsvir forması hansıdır?",
+    "options": [
+      "kök, sol, sağ",
+      "sol, kök, sağ",
+      "sol,sol,kök",
+      "sağ, sağ kök",
+      "sol, sağ, kök"
+    ],
+    "answer": "sol, kök, sağ"
+  },
+  {
+    "question": "Ağac verilən quruluşunun hansı formaları var?",
+    "options": [
+      "sağ və sol budaqlar",
+      "infix, prefix, posfix",
+      "verilən",
+      "massiv",
+      "kök"
+    ],
+    "answer": "infix, prefix, posfix"
+  },
+  {
+    "question": "Budaqlar nə ilə tətin olunur?",
+    "options": [
+      "operator",
+      "operand",
+      "massiv",
+      "sahə",
+      "verilən"
+    ],
+    "answer": "operand"
+  },
+  {
+    "question": "köklər nə ilə təyin olunur?",
+    "options": [
+      "operand",
+      "operator",
+      "massiv",
+      "sahə",
+      "verilən"
+    ],
+    "answer": "operator"
+  },
+  {
+    "question": "İkilik ağaclar nədən ibarətdir?",
+    "options": [
+      "sağ və sol budaqlardan",
+      "kökdən, sağ və sol budaqlardan",
+      "veriləndən",
+      "massivdən",
+      "kökdən"
+    ],
+    "answer": "kökdən, sağ və sol budaqlardan"
+  },
+  {
+    "question": "Cədvəl nədir?",
+    "options": [
+      "birölçülü, dinamik, dəyişən, nizamlanmış elementlər toplusu",
+      "hər elementi açar olan elementlər toplusu",
+      "sahə",
+      "kod",
+      "massivin elementləri"
+    ],
+    "answer": "hər elementi açar olan elementlər toplusu"
+  },
+  {
+    "question": "Stekdə element hansı prinsip ilə silinir?",
+    "options": [
+      "birinci gəldi, birinci getdi",
+      "sonuncu gəldi, birinci getdi",
+      "sonuncu gəldi, sonuncu  getdi",
+      "variantların hamısı doğrudur",
+      "birinci gəldi, sonuncu getdi"
+    ],
+    "answer": "sonuncu gəldi, birinci getdi"
+  },
+  {
+    "question": "Növbəlrdə element hansı prinsip ilə silinir?",
+    "options": [
+      "sonuncu gəldi, birinci getdi",
+      "birinci gəldi, birinci getdi",
+      "sonuncu gəldi, sonuncu  getdi",
+      "variantların hamısı doğrudur",
+      "birinci gəldi, sonuncu getdi"
+    ],
+    "answer": "birinci gəldi, birinci getdi"
+  },
+  {
+    "question": "Növbə və stek anlayısına aiddir:",
+    "options": [
+      "elementlər toplusu",
+      "birölçülü, dinamik, dəyişən, nizamlanmış elementlər toplusu",
+      "sahə",
+      "kod",
+      "massivin elementləri"
+    ],
+    "answer": "birölçülü, dinamik, dəyişən, nizamlanmış elementlər toplusu"
+  },
+  {
+    "question": "Sətir nədir?",
+    "options": [
+      "ən böyük yazı elementi",
+      "ozündən əvvəlki və özündən sonrakı elementi olan elementlər toplusu",
+      "sahə",
+      "massivin elementlərini axtarmaq üçün",
+      "informasiya"
+    ],
+    "answer": "ozündən əvvəlki və özündən sonrakı elementi olan elementlər toplusu"
+  },
+  {
+    "question": "Sahə nədir?",
+    "options": [
+      "ən böyük yazı elementi",
+      "ən kiçik yazı elementi",
+      "kod",
+      "bilik",
+      "informasiya"
+    ],
+    "answer": "ən kiçik yazı elementi"
+  },
+  {
+    "question": "Verilənlərin strukturu nədir?",
+    "options": [
+      "mənası nəzərə alınan ixtiyari işarələr toplusu",
+      "verilənlər toplusu",
+      "kod",
+      "bilik",
+      "informasiya"
+    ],
+    "answer": "verilənlər toplusu"
+  },
+  {
+    "question": "Verilən nədir?",
+    "options": [
+      "mənası nəzərə alınan ixtiyari işarələr toplusu",
+      "mənası nəzərə alınmayan ixtiyari işarələr toplusu",
+      "kod",
+      "bilik",
+      "informasiya"
+    ],
+    "answer": "mənası nəzərə alınmayan ixtiyari işarələr toplusu"
+  },
+  {
+    "question": "Daxiletmə Sıralama Alqoritmi vasitəsi ilə        A=[0,16,-2,23,-6,6] massivini sıralayaq.",
+    "options": [
+      "A=[0,16,-2,23,-6,6]",
+      "A[-6,-2,0,6,16,23]",
+      "A[-2,0,16,23,-6,6]",
+      "A[-2,16,0,23,-6,6]",
+      "A[-6,-2,0,16,23,6]"
+    ],
+    "answer": "A[-6,-2,0,6,16,23]"
+  },
+  {
+    "question": "Daxiletmə Sıralama Alqoritmi vasitəsi ilə        A=[-1,8,1,23,0,13] massivini sıralayaq.",
+    "options": [
+      "A[-1,8,1,23,0,13]",
+      "A[-1,0,1,8,13,23]",
+      "A[-1,0,1,8,23,13]",
+      "A[-1,23,1,8,0,13]",
+      "A[-1,1,8,23,0,13]"
+    ],
+    "answer": "A[-1,0,1,8,13,23]"
+  },
+  {
+    "question": "Daxiletmə Sıralama Alqoritmi vasitəsi ilə        A=[21,54,-9,6,13,-1] massivini sıralayaq.",
+    "options": [
+      "A[-9,21,54,6,13,-1]",
+      "A[-9,-1,6,13,21,54]",
+      "A[-9,6,21,54,13,-1]",
+      "A[-9,6,13,21,54,,-1]",
+      "A[21,54,-9,6,13,-1]"
+    ],
+    "answer": "A[-9,-1,6,13,21,54]"
+  },
+  {
+    "question": "Daxiletmə Sıralama Alqoritmi vasitəsi ilə        A=[4,45,21,-2,12,0] massivini sıralayaq.",
+    "options": [
+      "A[4,21,45,-2,12,0]",
+      "A[-2,0,12,4,21,45,]",
+      "A[-2,4,12,21,45,0]",
+      "A[-2,0,4,12,21,45]",
+      "A[-2,4,21,45,12,0]"
+    ],
+    "answer": "A[-2,0,4,12,21,45]"
+  },
+  {
+    "question": "Daxiletmə Sıralama Alqoritmi vasitəsi ilə        A=[3,12,-4,7,-1,6] massivini sıralayaq.",
+    "options": [
+      "A[-4,3,12,7,-1,6]",
+      "A[3,12,-4,7,-1,6]",
+      "A[-4,-1,3,7,12,6]",
+      "A[-4,3,7,12,-1,6]",
+      "A[-4,-1,3,6,7,12]"
+    ],
+    "answer": "A[-4,-1,3,6,7,12]"
+  },
+  {
+    "question": "Daxiletmə Sıralama Alqoritmi vasitəsi ilə        A=[7,-3,12,-4,9] massivini sıralayaq.",
+    "options": [
+      "A[-4,-3,7,12,9]",
+      "A[12,-3,7,9,-4]",
+      "A[12,-3,7,-4,9]",
+      "A[-4,-3,7,9,12]",
+      "A[-3,7,12,-4,9]"
+    ],
+    "answer": "A[-4,-3,7,9,12]"
+  },
+  {
+    "question": "Daxiletmə sıralama alqoritmi hansı üsulla sıralanır?",
+    "options": [
+      "2 ci elementdən başlayaraq özündən sonrakı elementlərlə yeini dəyişir",
+      "3 cü elementdən başlayaraq özündən əvvəlki elementlərlə yeini dəyişir",
+      "1 ci elementdən başlayaraq özündən sonrakı elementlərlə yeini dəyişir",
+      "2 ci elementdən başlayaraq özündən əvvəlki elementlərlə yeini dəyişir",
+      "4 cü elementdən başlayaraq özündən əvvəlki elementlərlə yeini dəyişir"
+    ],
+    "answer": "2 ci elementdən başlayaraq özündən əvvəlki elementlərlə yeini dəyişir"
+  },
+  {
+    "question": "Seçmə Sıralama Alqoritmi vasitəsi ilə        A=[1,32,9,3,-3,12] massivini sıralayaq.",
+    "options": [
+      "A[-3,1,3,9,32,12]",
+      "A[-3,32,9,3,1,12]",
+      "A[-3,1,32,9,3,12]",
+      "A[-3,1,3,9,12,32]",
+      "A[-3,1,3,32,9,12]"
+    ],
+    "answer": "A[-3,1,3,9,12,32]"
+  },
+  {
+    "question": "Seçmə Sıralama Alqoritmi vasitəsi ilə        A=[14,21,6,-6,2,19] massivini sıralayaq.",
+    "options": [
+      "A[-6,21,14,6,2,19]",
+      "A[-6,2,6,14,21,19]",
+      "A[-6,2,6,21,14,19]",
+      "A[-6,2,6,14,19,21]",
+      "A[-6,2,21,14,6,19]"
+    ],
+    "answer": "A[-6,2,6,14,19,21]"
+  },
+  {
+    "question": "Seçmə Sıralama Alqoritmi vasitəsi ilə        A=[8,12,-3,0,5,-6] massivini sıralayaq.",
+    "options": [
+      "A[-6,-3,0,5,12,8]",
+      "A[-6,-3,12,8,5,0]",
+      "A[-6,-3,0,5,8,12]",
+      "A[-6,12,8,0,5,-3]",
+      "A[-6,-3,0,12,8,5]"
+    ],
+    "answer": "A[-6,-3,0,5,8,12]"
+  },
+  {
+    "question": "Seçmə Sıralama Alqoritmi vasitəsi ilə        A=[4,-3,12,-1,3,7] massivini sıralayaq.",
+    "options": [
+      "A[-3,-1,3,12,4,7]",
+      "A[-3,-1,3,4,12,7]",
+      "A[-3,4,12,-1,3,7]",
+      "A[-3,-1,12,4,3,7]",
+      "A[-3,-1,3,4,7,12]"
+    ],
+    "answer": "A[-3,-1,3,4,7,12]"
+  },
+  {
+    "question": "Seçmə Sıralama Alqoritmi vasitəsi ilə      A=[7,3,-1,9,12,6] massivini sıralayaq.",
+    "options": [
+      "A[-1,7,3,9,12,6]",
+      "A[-1,3,6,9,12,7]",
+      "A[-1,3,6,7,12,9]",
+      "A[-1,3,6,7,9,12]",
+      "A[-1,3,7,9,12,6]"
+    ],
+    "answer": "A[-1,3,6,7,9,12]"
+  },
+  {
+    "question": "Seçmə Sıralama Alqoritmi vasitəsi ilə A[8,1,12,7,3,10] massivini sıralayaq.",
+    "options": [
+      "A[1,3,7,12,8,10]",
+      "A[1,3,12,7,8,10]",
+      "A[1,8,12,7,3,10]",
+      "A[1,3,7,8,10,12]",
+      "A[1,3,7,8,12,10]"
+    ],
+    "answer": "A[1,3,7,8,10,12]"
+  },
+  {
+    "question": "A={65,9,14,-1,2,33}, n=6 masiivi verilmişdir. Qabarcıqlı sıralama alqoritmini quraq:",
+    "options": [
+      "A={-1,2,9,14,33,65}",
+      "A={-1,9,14,2,33,65}",
+      "A={-1,2,14,9,33,65}",
+      "A={2,-1,14,9,33,65}",
+      "A={-1,9,2,14,33,65}"
+    ],
+    "answer": "A={-1,2,9,14,33,65}"
+  },
+  {
+    "question": "A={0,56,-4,13,35,-1}, n=6 masiivi verilmişdir. Qabarcıqlı sıralama alqoritmini quraq:",
+    "options": [
+      "A={-4,-1,0,13,35,56}",
+      "A={-1,-4,0,13,56,35}",
+      "A={-1,0,-4,13,35,56}",
+      "A={-1,-4,0,35,13,56}",
+      "A={-1,0,-4,35,13,56}"
+    ],
+    "answer": "A={-4,-1,0,13,35,56}"
+  },
+  {
+    "question": "A={21,45,1,5,76,33}, n=6 masiivi verilmişdir. Qabarcıqlı sıralama alqoritmini quraq:",
+    "options": [
+      "A={5,1,21,33,45,76}",
+      "A={21,5,1,45,33,76}",
+      "A={21,5,1,33,45,76}",
+      "A={1,5,21,33,45,76}",
+      "A={21,1,5,45,33,76}"
+    ],
+    "answer": "A={1,5,21,33,45,76}"
+  },
+  {
+    "question": "A={17,3,-4,9,1,-3}, n=6 masiivi verilmişdir. Qabarcıqlı sıralama alqoritmini quraq:",
+    "options": [
+      "A-={-4,1,-3,3,9,17}",
+      "A={-4,-3,1,3,9,17}",
+      "A={-3,-4,1,3,9,17}",
+      "A={3,-4,9,1,-3,17}",
+      "A={-4,3,1,-3,9,17}"
+    ],
+    "answer": "A={-3,-4,1,3,9,17}"
+  },
+  {
+    "question": "A={7,12,5,1,4}, n=5 masiivi verilmişdir. Qabarcıqlı sıralama alqoritmini quraq:",
+    "options": [
+      "A={7,5,1,4,12}",
+      "A={1,4,5,7,12}",
+      "A={1,5,4,12,7}",
+      "A={1,5,4,7,12}",
+      "A={5,1,4,7,12}"
+    ],
+    "answer": "A={1,4,5,7,12}"
+  },
+  {
+    "question": "Alqoritmin sonlu addımlardan ibarət olması və nticə ilə sona çatması alqoritmin hansı xassəsinə aiddir?",
+    "options": [
+      "yeganəlik",
+      "kütləvilik",
+      "sərtlilik",
+      "dövrilik",
+      "nəticəvilik"
+    ],
+    "answer": "nəticəvilik"
+  },
+  {
+    "question": "Kompüterdə məsələlərin həll mərhələləri:                1) məsələnin qoyuluşu                                                2) həll alqoritminin yaradılması",
+    "options": [
+      "1,2,5",
+      "1,2,4,5",
+      "1,3,4,5",
+      "1,2,3,4",
+      "2,4,5"
+    ],
+    "answer": "1,2,3,4"
+  },
+  {
+    "question": "Kompüterdə həll etmək mümkündür:",
+    "options": [
+      "həll yolu məlum olmayan istənilən məsələni",
+      "əllə həll edilə bilməyən istənilən məsələni",
+      "həll yolu məlum olan istənilən məsələni",
+      "istənilən hesabi və ya məntiqi məsələni",
+      "həll alqoritmi məlum olmayan məsələni"
+    ],
+    "answer": "həll yolu məlum olan istənilən məsələni"
+  },
+  {
+    "question": "x=3 qiymətində Y=1/x funksiyasının qiymətini hesablayan alqoritmin tipini təyin edin:",
+    "options": [
+      "dövri",
+      "budaqlanan",
+      "dövri, xətti",
+      "budaqlanan, dövri",
+      "xətti"
+    ],
+    "answer": "xətti"
+  },
+  {
+    "question": "Kvadrat tənliyin həll alqoritmində əsas şərt kimi nə götürülür?",
+    "options": [
+      "2 ci hədd əmsalının sıfırla müqayisəsi",
+      "verilənlərin sıfırla müqayisəsi",
+      "heç biri",
+      "diskriminantın sıfırla müqayisəsi",
+      "1 ci hədd əmsalının sıfırla müqayisəsi"
+    ],
+    "answer": "diskriminantın sıfırla müqayisəsi"
+  },
+  {
+    "question": "N=2473 ədədlərini tərsinə çevirən alqoitmi qurunş Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "374",
+      "4273",
+      "3724",
+      "2734",
+      "3742"
+    ],
+    "answer": "3742"
+  },
+  {
+    "question": "N=12473 ədələrinin rəqəmlərini sayan alqoritmi qurun. Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "N=12739 natural ədədlərin rəqəmlərin cəmlənməsi alqoritmini qurun. Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "9",
+      "12",
+      "22",
+      "19",
+      "21"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "a=25; b=65 verilmişdir. A və B əədədlərinin ƏBOB nun tapılması alqortimini qurun. Alqoritm yerinə yetirildikdən sonra B nın",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "1",
+      "2"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "a=25; b=65 verilmişdir. A və B əədədlərinin ƏBOB nun tapılması alqortimini qurun. Alqoritm yerinə yetirildikdən sonra A nın",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "1"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "N=5! Faktorialın hsablanması alqoritmini qurun. Alqoritm yerinə yetirildikdən sonra S in qiymətini tapın:",
+    "options": [
+      "24",
+      "120",
+      "2",
+      "1",
+      "6"
+    ],
+    "answer": "120"
+  },
+  {
+    "question": "x=3; y= 8 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=11, y=3, x=11",
+      "x=11, y=8, x=3",
+      "x=8; y= 8",
+      "x=3; y= 3",
+      "x=11, y=3, x=8"
+    ],
+    "answer": "x=11, y=3, x=8"
+  },
+  {
+    "question": "x=4; y= 7 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=7; y= 7",
+      "x=11, y=7, x=4",
+      "x=11, y=4, x=11",
+      "x=11, y=4, x=7",
+      "x=4; y= 4"
+    ],
+    "answer": "x=11, y=4, x=7"
+  },
+  {
+    "question": "x=3; y= 6 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=9, y=6, x=3",
+      "x=6; y= 6",
+      "x=6, y=3, x=6",
+      "x=3; y= 3",
+      "x=9, y=3, x=6"
+    ],
+    "answer": "x=9, y=3, x=6"
+  },
+  {
+    "question": "x=2; y= 6 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=2; y= 2",
+      "x=6; y= 6",
+      "x=8, y=6, x=2",
+      "x=6, y=2, x=6",
+      "x=8, y=2, x=6"
+    ],
+    "answer": "x=8, y=2, x=6"
+  },
+  {
+    "question": "x=5; y= 6 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "x=11, y=5, x=6",
+      "x=5; y= 5",
+      "x=6; y= 6",
+      "x=11, y=6, x=5",
+      "x=6, y=5, x=6"
+    ],
+    "answer": "x=11, y=5, x=6"
+  },
+  {
+    "question": "x=5; y= 7 verilmişdir. Köməkçi dəyişən olmadan x və y in qiymətini dəyişin:",
+    "options": [
+      "y=5, x=5",
+      "x=12, y=7, x=5",
+      "x=7, y=5, x=7",
+      "x=12, y=5, x=7",
+      "y=7, x=7"
+    ],
+    "answer": "x=12, y=5, x=7"
+  },
+  {
+    "question": "x=12; y=6 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "x=12; y=12",
+      "c=12, x= 6, y=12",
+      "c=6, x= 6, y=12",
+      "c=12, x= 12, y=6",
+      "x=6; y=6"
+    ],
+    "answer": "c=12, x= 6, y=12"
+  },
+  {
+    "question": "x=8; y=6 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=8, x=8, y=6",
+      "c=6, x=6, y=8",
+      "x=6; y=6",
+      "x=8; y=8",
+      "c=8, x=6, y=8"
+    ],
+    "answer": "c=8, x=6, y=8"
+  },
+  {
+    "question": "x=6; y=4 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=4, x=4, y=6",
+      "x=4; y=4",
+      "x=6; y=6",
+      "c=6, x=4, y=6",
+      "c=6, x=4, y=4"
+    ],
+    "answer": "c=6, x=4, y=6"
+  },
+  {
+    "question": "x=2; y=3 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "x=2; y=2",
+      "c=3, x= 3, y=2",
+      "x=3; y=3",
+      "c=2, x= 3, y=2",
+      "c=2, x= 3, y=3"
+    ],
+    "answer": "c=2, x= 3, y=2"
+  },
+  {
+    "question": "x=5; y=3 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=3, x=3, y=5",
+      "c=5, x=3, y=5",
+      "c=3, x=5, y=5",
+      "x=3; y=3",
+      "x=5; y=5"
+    ],
+    "answer": "c=5, x=3, y=5"
+  },
+  {
+    "question": "x=5; y=7 verilmişdir. SWAP alqoritmindən istifadə edərək x və y in qiymətini dəyişin.",
+    "options": [
+      "c=7, x=5, y=5",
+      "c=5, x=7, y=5",
+      "x=5; y=7",
+      "x=7; y=5",
+      "x=7; y=7"
+    ],
+    "answer": "c=5, x=7, y=5"
+  },
+  {
+    "question": "Qrafın təpələrini birləşdirən xətt nə adlanır?",
+    "options": [
+      "diqraf",
+      "till",
+      "dövrə",
+      "təpə",
+      "əlaqələr"
+    ],
+    "answer": "till"
+  },
+  {
+    "question": "Qrafı təşkil edən obyektlər necə adlanır?",
+    "options": [
+      "diqraf",
+      "till",
+      "dövrə",
+      "təpə",
+      "əlaqələr"
+    ],
+    "answer": "təpə"
+  },
+  {
+    "question": "Diqraf nədir?",
+    "options": [
+      "bir-biri ilə əlaqələndirilməyən təpələr çoxluğu",
+      "ilgək",
+      "qrafın istiqamətlənmiş tilləridir",
+      "təpələr çoxluğu",
+      "qrafın istiqamətlənməyən tilləridir"
+    ],
+    "answer": "qrafın istiqamətlənmiş tilləridir"
+  },
+  {
+    "question": "Qraf nədir?",
+    "options": [
+      "bir-biri ilə əlaqələndirilməyən təpələr çoxluğu",
+      "təpələr çoxluğu",
+      "bir-biri ilə əlaqələnmiş obyektlər çoxluğu",
+      "ilgək",
+      "till"
+    ],
+    "answer": "bir-biri ilə əlaqələnmiş obyektlər çoxluğu"
+  },
+  {
+    "question": "Emal olunan verilənlərin tipi:",
+    "options": [
+      "diskret",
+      "bütün variantlar",
+      "mövqeli",
+      "mövqesiz",
+      "məntiqi verilənlər"
+    ],
+    "answer": "məntiqi verilənlər"
+  },
+  {
+    "question": "Emal olunan verilənlərin tipi:",
+    "options": [
+      "mövqeli",
+      "bütün variantlar",
+      "diskret",
+      "simvol tipli verilənlər",
+      "mövqesiz"
+    ],
+    "answer": "simvol tipli verilənlər"
+  },
+  {
+    "question": "Emal olunan verilənlərin tipi:",
+    "options": [
+      "bütün variantlar",
+      "mövqesiz",
+      "mövqeli",
+      "sürüşkən nöqtəli ədədlər",
+      "diskret"
+    ],
+    "answer": "sürüşkən nöqtəli ədədlər"
+  },
+  {
+    "question": "Emal olunan verilənlərin tipi:",
+    "options": [
+      "mövqeli",
+      "bütün variantlar",
+      "diskret",
+      "sabit nöqtəli(vergüllü) ədədlər",
+      "mövqesiz"
+    ],
+    "answer": "sabit nöqtəli(vergüllü) ədədlər"
+  },
+  {
+    "question": "Emal olunan verilənlərin tipi:",
+    "options": [
+      "mövqeli",
+      "bütün variantlar",
+      "diskret",
+      "tam ədədlər",
+      "mövqesiz"
+    ],
+    "answer": "tam ədədlər"
+  },
+  {
+    "question": "Göstərici tipli verilənlərdən istifadə edilir",
+    "options": [
+      "ünvan",
+      "bütün variantlar",
+      "informasiya",
+      "proqramlaşdırmada",
+      "rəng"
+    ],
+    "answer": "proqramlaşdırmada"
+  },
+  {
+    "question": "Məntiqi verilənlərin ifadə forması",
+    "options": [
+      "ünvan",
+      "məntiqi kəmiyyət",
+      "informasiya",
+      "bütün variantlar",
+      "rəng"
+    ],
+    "answer": "məntiqi kəmiyyət"
+  },
+  {
+    "question": "x=y+7, y=x+5, x=x+y  Alqoritm yerinə yetirildikdən sonra x=53 qiymətini alır. x və y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "25",
+      "48",
+      "45",
+      "24",
+      "53"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "x=y+7, y=x+5, x=x+y  Alqoritm yerinə yetirildikdən sonra x=25 qiymətini alır. x və y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "9",
+      "5",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "x=y+4, y=x+3, x=x+y  Alqoritm yerinə yetirildikdən sonra x=25 qiymətini alır. x və y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "25",
+      "22",
+      "12",
+      "23",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "x=y+4, y=x+3, x=x+y  Alqoritm yerinə yetirildikdən sonra x=31 qiymətini alır. x və y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "28",
+      "15",
+      "14",
+      "30",
+      "31"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "x=y+4, y=x+3, x=x+y  Alqoritm yerinə yetirildikdən sonra x=21 qiymətini alır. x və y in başlanğıc qiymətini tapaq.",
+    "options": [
+      "11",
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "a=b+10, b= a+5, a= a+b  Alqoritm yerinə yetirildikdən sonra a=55 qiymətini alır. a və b nin başlanğıc qiymətini tapaq.",
+    "options": [
+      "45",
+      "40",
+      "50",
+      "25",
+      "55"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "a=b+10, b= a+5, a= a+b  Alqoritm yerinə yetirildikdən sonra a=35 qiymətini alır. a və b nin başlanğıc qiymətini tapaq.",
+    "options": [
+      "5",
+      "15",
+      "35",
+      "30",
+      "10"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "a=b+10, b= a+5, a= a+b  Alqoritm yerinə yetirildikdən sonra a=45 qiymətini alır. a və b nin başlanğıc qiymətini tapaq.",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21",
+      "25"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Alqoritm nədir?",
+    "options": [
+      "İnformasiyanın ən kiçik",
+      "bir-birinin ardınca yerinə yetirilən əməliyyatlar ardıcıllığı",
+      "Kompüterə daxil olan hər",
+      "Kodlaşdırılmış hər",
+      "Sonsuz sayda əməliyyat"
+    ],
+    "answer": "bir-birinin ardınca yerinə yetirilən əməliyyatlar ardıcıllığı"
+  },
+  {
+    "question": "min() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "sətrin uzunluğunu tapmaq üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün",
+      "ədədlərin içindən ən böyüyünü tapmaq üçün",
+      "xaricdən qiymət daxil etmək üçün",
+      "dəyişənin tipini tapmaq üçün"
+    ],
+    "answer": "ədədlərin içindən ən kiçiyini  tapmaq üçün"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:])",
+    "options": [
+      "[5, 9, 12]",
+      "[3, 5, 7]",
+      "[3, 5, 7, 9, 11]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[7, 103]"
+    ],
+    "answer": "[3, 5, 7, 9, 11, 12, 13, 103]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[1:7:2])",
+    "options": [
+      "[3, 5, 7]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[7, 103]",
+      "[5, 9, 12]",
+      "[3, 5, 7, 9, 11]"
+    ],
+    "answer": "[5, 9, 12]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[7:])",
+    "options": [
+      "[3]",
+      "[12]",
+      "[103]",
+      "[13]",
+      "[11]"
+    ],
+    "answer": "[103]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[0:7])",
+    "options": [
+      "[5, 9, 12]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7]",
+      "[3, 5, 7, 9, 11, 12, 13]",
+      "[3, 5, 7, 9, 11]"
+    ],
+    "answer": "[3, 5, 7, 9, 11, 12, 13]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[2:])",
+    "options": [
+      "[5, 9, 12]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7]",
+      "[7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7, 9, 11]"
+    ],
+    "answer": "[7, 9, 11, 12, 13, 103]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[1:3])",
+    "options": [
+      "[11]",
+      "[13]",
+      "[103]",
+      "[3]",
+      "[5, 7]"
+    ],
+    "answer": "[5, 7]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:0])",
+    "options": [
+      "[4]",
+      "[5]",
+      "[0]",
+      "[3]",
+      "[]"
+    ],
+    "answer": "[]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?   reqem=[3,5,7,9,11,12,13,103]; print(reqem[:5])",
+    "options": [
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7]",
+      "[5, 9, 12]",
+      "[3, 5, 7, 9, 11]",
+      "[7, 103]"
+    ],
+    "answer": "[3, 5, 7, 9, 11]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?   reqem=[3,5,7,9,11,12,13,103]; print(reqem[:7])",
+    "options": [
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[3, 5, 7]",
+      "[3, 5, 7, 9, 11, 12, 13]",
+      "[3, 5, 7, 9, 11]",
+      "[5, 9, 12]"
+    ],
+    "answer": "[3, 5, 7, 9, 11, 12, 13]"
+  },
+  {
+    "question": "Proqram kodunun nəticəsi nə olacaq?   reqem=[3,5,7,9,11,12,13,103]; print(reqem[:3])",
+    "options": [
+      "[5]",
+      "[3, 5, 7, 9, 11, 12, 13, 103]",
+      "[5, 9, 12]",
+      "[3, 5, 7, 9, 11]",
+      "[3, 5, 7]"
+    ],
+    "answer": "[3, 5, 7]"
+  },
+  {
+    "question": "ceil() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "tam ədəd tipinə keçmək üçün",
+      "sətrin uzunluğunu tapmaq üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün",
+      "həqiqi ədədi yuxarı ən yaxın ədədə yuvarlaqlaşdırmaq üçün",
+      "sətir tipinə keçmək üçün"
+    ],
+    "answer": "həqiqi ədədi yuxarı ən yaxın ədədə yuvarlaqlaşdırmaq üçün"
+  },
+  {
+    "question": "round() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "sətrin uzunluğunu tapmaq üçün",
+      "tam ədəd tipinə keçmək üçün",
+      "sətir tipinə keçmək üçün",
+      "ədədi yuvarlaqlaşdırmaq üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün"
+    ],
+    "answer": "ədədi yuvarlaqlaşdırmaq üçün"
+  },
+  {
+    "question": "float() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "həqiqi ədəd tipinə keçmək üçün",
+      "sətrin uzunluğunu tapmaq üçün",
+      "tam ədəd tipinə keçmək üçün",
+      "sətir tipinə keçmək üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün"
+    ],
+    "answer": "həqiqi ədəd tipinə keçmək üçün"
+  },
+  {
+    "question": "str() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "sətrin uzunluğunu tapmaq üçün",
+      "həqiqi ədəd tipinə keçmək üçün",
+      "tam ədəd tipinə keçmək üçün",
+      "sətir tipinə keçmək üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün"
+    ],
+    "answer": "sətir tipinə keçmək üçün"
+  },
+  {
+    "question": "int() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "həqiqi ədəd tipinə keçmək üçün",
+      "sətrin uzunluğunu tapmaq üçün",
+      "sətir tipinə keçmək üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün",
+      "tam ədəd tipinə keçmək üçün"
+    ],
+    "answer": "tam ədəd tipinə keçmək üçün"
+  },
+  {
+    "question": "input() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "sətrin uzunluğunu tapmaq üçün",
+      "xaricdən qiymət daxil etmək üçün",
+      "dəyişənin tipini tapmaq üçün",
+      "ədədlərin içindən ən böyüyünü tapmaq üçün",
+      "ədədlərin içindən ən kiçiyini tapmaq üçün"
+    ],
+    "answer": "xaricdən qiymət daxil etmək üçün"
+  },
+  {
+    "question": "type() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "ədədlərin içindən ən böyüyünü tapmaq üçün",
+      "xaricdən qiymət daxil etmək üçün",
+      "sətrin uzunluğunu tapmaq üçün",
+      "dəyişənin tipini tapmaq üçün",
+      "ədədlərin içindən ən kiçiyini tapmaq tapmaq üçün"
+    ],
+    "answer": "dəyişənin tipini tapmaq üçün"
+  },
+  {
+    "question": "len() funksiyası nə üçün istifadə edilir?",
+    "options": [
+      "dəyişənin tipini tapmaq üçün",
+      "ədədlərin içindən ən böyüyünü tapmaq üçün",
+      "xaricdən qiymət daxil etmək üçün",
+      "ədədlərin içindən ən kiçiyini  tapmaq üçün",
+      "sətrin uzunluğunu tapmaq üçün"
+    ],
+    "answer": "sətrin uzunluğunu tapmaq üçün"
+  }
+]

@@ -1,0 +1,100 @@
+body {
+            font-family: "Segoe UI", sans-serif, 'Arial Narrow Bold', sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            padding: 2em;
+        }
+        #quizBox {
+            background-color: #ffffff;
+            border-radius: 20px;
+            padding: 2em;
+            max-width: 700px;
+            margin: 2em auto;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        #quizBox:hover {
+            transform: scale(1.01);
+        }
+
+        #quizBox {
+            background: #ffffff;
+            padding: 2em;
+            border-radius: 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        .button {
+            display: block;
+            margin: 0.5em auto;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 10px;
+            background-color: #4378b1c8;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        .button:hover {
+            background-color: #aad895;
+            transform: scale(1.05);
+        }
+        .correct {
+            background-color: #3ba131 !important;
+        }
+        .incorrect {
+            background-color: #c12727 !important;
+        }
+        .neutral {
+            background-color: #eeeeee !important;
+            color: #888;
+        }
+
+        #nextBtn {
+            display: none;
+            background-color: #2c43c3;
+            color: white;
+            font-size: 1rem;
+            padding: 6px 20px;
+            border: none;
+            border-radius: 25px;
+            box-shadow: 0 4px 10px rgba(39, 26, 26, 0.1);
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+            margin-top: 1em;
+        }
+
+        #nextBtn:hover {
+            background-color: #2a25b598;
+            transform: scale(1.05);
+        }
+
+        #result {
+            margin-top: 1em;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.6s ease-in-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .fade-out {
+            animation: fadeOut 0.5s forwards;
+        }
+
+        @keyframes fadeOut {
+            from { opacity: 1; }
+            to { opacity: 0; transform: scale(0.95); visibility: hidden; }
+        }
+
+        #scoreBoard {
+            font-size: 1.1rem;
+            font-weight: 500;
+            margin-top: 1em;
+            color: #333;
+        }

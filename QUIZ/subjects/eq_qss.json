@@ -1,0 +1,5502 @@
+[
+  {
+    "question": "Complete the sentence. A product that is … is popular at a particular time.",
+    "options": [
+      "mutual",
+      "fashionable",
+      "large",
+      "basic",
+      "poor"
+    ],
+    "answer": "fashionable"
+  },
+  {
+    "question": "Complete the sentence. An … product is one that people find beautiful and exciting.",
+    "options": [
+      "economic",
+      "attractive",
+      "total",
+      "low-quality",
+      "poor"
+    ],
+    "answer": "attractive"
+  },
+  {
+    "question": "Complete the sentence. An … product is expensive and usually of high quality.",
+    "options": [
+      "multipurpose",
+      "upmarket",
+      "quick",
+      "downmarket",
+      "accurate"
+    ],
+    "answer": "upmarket"
+  },
+  {
+    "question": "Complete the sentence. These products are made to meat a need,…........",
+    "options": [
+      "contribute financially",
+      "to satisfy consumer demand",
+      "to answer the question",
+      "respond differently",
+      "economic output"
+    ],
+    "answer": "to satisfy consumer demand"
+  },
+  {
+    "question": "Complete the sentence. Li Ning has strong sales and distribution…......in the lower-tier cities that Adidas hopes ….......",
+    "options": [
+      "targeting, to manufacture",
+      "network, to penetrate",
+      "retail, penetrate",
+      "position, to rebrand",
+      "growth, entry"
+    ],
+    "answer": "network, to penetrate"
+  },
+  {
+    "question": "Choose the right preposition: I saw an ad …..a magazine and I liked the look ….it",
+    "options": [
+      "on, off",
+      "in, of",
+      "in, for",
+      "at, in",
+      "in, at"
+    ],
+    "answer": "in, of"
+  },
+  {
+    "question": "Match the word or phrase to its definition: a promise or firm decision to do something",
+    "options": [
+      "punctuality",
+      "commitment",
+      "admit",
+      "decide",
+      "desire"
+    ],
+    "answer": "commitment"
+  },
+  {
+    "question": "Choose the opposite for the word: domestic",
+    "options": [
+      "homelike",
+      "foreign",
+      "foreigner",
+      "family",
+      "interior"
+    ],
+    "answer": "foreign"
+  },
+  {
+    "question": "Choose the right preposition. I think we should carry … a survey.",
+    "options": [
+      "but",
+      "out",
+      "at",
+      "under",
+      "if"
+    ],
+    "answer": "out"
+  },
+  {
+    "question": "Complete the sentence: Smaller banks are struggling to compete in an already…market.",
+    "options": [
+      "retail",
+      "saturated",
+      "down",
+      "product mix",
+      "existing"
+    ],
+    "answer": "saturated"
+  },
+  {
+    "question": "Match the two parts of the dialogue. When do you want to discuss the project?",
+    "options": [
+      "Yes, I have. I`d like to discuss it with you when you have a minute.",
+      "Well, could we possibly do that before the meeting starts?",
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "We don`t know yet. We`ll have more information after we`ve talked to the team leader.",
+      "Yes, If anybody phones while I`m out, tell them I`ll be back by 1.30."
+    ],
+    "answer": "Well, could we possibly do that before the meeting starts?"
+  },
+  {
+    "question": "Match the two parts of the dialogue. Have you read Peter`sales report?",
+    "options": [
+      "When you`ve typed them all up, we can check them together.",
+      "Yes, I have. I`d like to discuss it with you when you have a minute.",
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "We don`t know yet. We`ll have more information after we`ve talked to the team leader.",
+      "Yes, I agree. We`ll find out as soon as we get the FT."
+    ],
+    "answer": "Yes, I have. I`d like to discuss it with you when you have a minute."
+  },
+  {
+    "question": "Match the two parts of the dialogue. So have they won the contract, then?",
+    "options": [
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "We don`t know yet. We`ll have more information after we`ve talked to the team leader.",
+      "When you`ve typed them all up, we can check them together.",
+      "Well, could we possibly do that before the meeting starts?",
+      "Yes, I agree. We`ll find out as soon as we get the FT."
+    ],
+    "answer": "We don`t know yet. We`ll have more information after we`ve talked to the team leader."
+  },
+  {
+    "question": "Match the two parts of the dialogue. Are you going to the trade fair now?",
+    "options": [
+      "When you`ve typed them all up, we can check them together.",
+      "Yes, If anybody phones while I`m out, tell them I`ll be back by 1.30.",
+      "Yes, I agree. We`ll find out as soon as we get the FT.",
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "Yes, I have. I`d like to discuss it with you when you have a minute."
+    ],
+    "answer": "Yes, If anybody phones while I`m out, tell them I`ll be back by 1.30."
+  },
+  {
+    "question": "Choose the opposite for the word : upmarket",
+    "options": [
+      "trade market",
+      "downmarket",
+      "free market",
+      "share market",
+      "mass market"
+    ],
+    "answer": "downmarket"
+  },
+  {
+    "question": "Match the word or word combination to its definition. A car company introduces a new model.",
+    "options": [
+      "breakdown",
+      "product launch",
+      "profit margin",
+      "workload",
+      "sales target"
+    ],
+    "answer": "product launch"
+  },
+  {
+    "question": "Choose the right prepositions: I am also ……charge …… design budgets.",
+    "options": [
+      "in, with",
+      "in, of",
+      "of, with",
+      "with, on",
+      "for, of"
+    ],
+    "answer": "in, of"
+  },
+  {
+    "question": "Complete the sentence: There are different ways you could improve your….......",
+    "options": [
+      "employment",
+      "performance",
+      "upmarket",
+      "financial",
+      "a customer"
+    ],
+    "answer": "performance"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The time when you can change your mind and cancel an order.",
+    "options": [
+      "method of payment",
+      "cooling - off period",
+      "money-back guarantee",
+      "after-sales service",
+      "credit-card details"
+    ],
+    "answer": "cooling - off period"
+  },
+  {
+    "question": "Match the word or word combination to its definition. Method for customers to obtain a discount on future purchases from the same",
+    "options": [
+      "after-sales service",
+      "loyalty-card scheme",
+      "cooling - off period",
+      "credit-card details",
+      "method of payment"
+    ],
+    "answer": "loyalty-card scheme"
+  },
+  {
+    "question": "Choose the right prepositions: Here are some expressions used …meetings …different purposes.",
+    "options": [
+      "at, in",
+      "in, for",
+      "on, to",
+      "to, from",
+      "for, to"
+    ],
+    "answer": "in, for"
+  },
+  {
+    "question": "Choose the right prepositions. There are three candidates …the position …Sales and Marketing Director.",
+    "options": [
+      "for, at",
+      "in, for",
+      "at, for",
+      "on, in",
+      "for, of"
+    ],
+    "answer": "for, of"
+  },
+  {
+    "question": "Complete the sentence: decides the amount of the bonus for each consultant.",
+    "options": [
+      "candidate",
+      "the manager",
+      "property",
+      "client",
+      "condition"
+    ],
+    "answer": "the manager"
+  },
+  {
+    "question": "Choose the synonym of the word: proposal",
+    "options": [
+      "admit",
+      "suggestion",
+      "bribe",
+      "aim",
+      "target"
+    ],
+    "answer": "suggestion"
+  },
+  {
+    "question": "Choose the right conjunction. The motivation of the sales is now increasing …...we bought some new company cars.",
+    "options": [
+      "so",
+      "because",
+      "because of",
+      "but",
+      "though"
+    ],
+    "answer": "because"
+  },
+  {
+    "question": "Choose the right conjunction. There is a steady growth in sales ….. profits are not rising.",
+    "options": [
+      "though",
+      "but",
+      "so",
+      "because of",
+      "because"
+    ],
+    "answer": "but"
+  },
+  {
+    "question": "Choose the right conjunction. Sales were not as good as they had hoped ..... they launched a marketing campaign.",
+    "options": [
+      "as",
+      "so",
+      "yet",
+      "for",
+      "because"
+    ],
+    "answer": "so"
+  },
+  {
+    "question": "Choose the right prepositions: ….regard ….price, we should look carefully ….our competitors` policy.",
+    "options": [
+      "to, for, in",
+      "with, to, at",
+      "in, at, for",
+      "at, in, of",
+      "on, of, with"
+    ],
+    "answer": "with, to, at"
+  },
+  {
+    "question": "Complete the sentence. Don`t make .... claims - don`t say things are better than they really are.",
+    "options": [
+      "confident",
+      "exaggerated",
+      "structured",
+      "better",
+      "negative"
+    ],
+    "answer": "exaggerated"
+  },
+  {
+    "question": "Match the phrase to its definition. The amount of money that company makes in a period of time.",
+    "options": [
+      "provision",
+      "turnover",
+      "refund",
+      "receipt",
+      "estimate"
+    ],
+    "answer": "turnover"
+  },
+  {
+    "question": "Complete the sentence: They receive immediate ..... from a finance house.",
+    "options": [
+      "policy",
+      "payment",
+      "budget",
+      "deposit",
+      "impact"
+    ],
+    "answer": "payment"
+  },
+  {
+    "question": "Match the phrase to its definition. A shop that sells a range of everyday items and is open long hours.",
+    "options": [
+      "an online retailer",
+      "a convenience store",
+      "banks",
+      "a specialist retailer",
+      "a department store"
+    ],
+    "answer": "a convenience store"
+  },
+  {
+    "question": "Match the word to its definition. A person or company that sells goods in large quantities to businesses.",
+    "options": [
+      "individuals",
+      "wholesaler",
+      "consumer",
+      "traders",
+      "sales assistant"
+    ],
+    "answer": "wholesaler"
+  },
+  {
+    "question": "Match the word to its definition. To discuss and agree the price of something.",
+    "options": [
+      "to start",
+      "to bargain",
+      "to stop",
+      "to work",
+      "to bring forward a meeting"
+    ],
+    "answer": "to bargain"
+  },
+  {
+    "question": "Complete the sentence. Increased production and strong demand have had a positive effect on our ….....",
+    "options": [
+      "cash flow",
+      "contact",
+      "refund",
+      "problem",
+      "hierarchy"
+    ],
+    "answer": "cash flow"
+  },
+  {
+    "question": "Match the word or phrase to its definition. An agreement reached through negotiation.",
+    "options": [
+      "foreign investment",
+      "bargain",
+      "consumer spending",
+      "political situation",
+      "formality"
+    ],
+    "answer": "bargain"
+  },
+  {
+    "question": "Complete the sentence with the correct ending. They don`t have an online catalogue…..",
+    "options": [
+      "which means they don`t have to queue.",
+      "so we have to ask them to send us one.",
+      "so she won`t have to drive to work anymore.",
+      "so we had to order some more.",
+      "so we didn`t have to discuss the deal any further."
+    ],
+    "answer": "so we have to ask them to send us one."
+  },
+  {
+    "question": "Match the word partnership to its definition. The percentage of sales a company has.",
+    "options": [
+      "market segment",
+      "market share",
+      "market research",
+      "market price",
+      "market basket"
+    ],
+    "answer": "market share"
+  },
+  {
+    "question": "Match the word partnership to its definition. Information about what customers want and need.",
+    "options": [
+      "market price",
+      "market research",
+      "market share",
+      "market basket",
+      "market segment"
+    ],
+    "answer": "market research"
+  },
+  {
+    "question": "Match the word partnership to its definition. A group of customers of similar age, income level and social group.",
+    "options": [
+      "market basket",
+      "market segment",
+      "market price",
+      "market share",
+      "market research"
+    ],
+    "answer": "market segment"
+  },
+  {
+    "question": "Match the word partnership to its definition. Description of a typical customer.",
+    "options": [
+      "consumer price",
+      "consumer profile",
+      "consumer goods",
+      "consumer tax",
+      "consumer behaviour"
+    ],
+    "answer": "consumer profile"
+  },
+  {
+    "question": "Match the word partnership to its definition. Where and how people buy things.",
+    "options": [
+      "consumer goods",
+      "consumer behaviour",
+      "consumer profile",
+      "consumer tax",
+      "consumer price"
+    ],
+    "answer": "consumer behaviour"
+  },
+  {
+    "question": "Match the word partnership to its definition. Things people buy for their own use.",
+    "options": [
+      "consumer tax",
+      "consumer goods",
+      "consumer price",
+      "consumer behaviour",
+      "consumer profile"
+    ],
+    "answer": "consumer goods"
+  },
+  {
+    "question": "Match the word partnership to its definition. Introduction of a product to the market.",
+    "options": [
+      "product price",
+      "product launch",
+      "product range",
+      "product manager",
+      "product lifecycle"
+    ],
+    "answer": "product launch"
+  },
+  {
+    "question": "Match the word partnership to its definition. Length of time people continue to buy a product.",
+    "options": [
+      "product manager",
+      "product lifecycle",
+      "product price",
+      "product range",
+      "product launch"
+    ],
+    "answer": "product lifecycle"
+  },
+  {
+    "question": "Match the word partnership to its definition. Set of products made by a company.",
+    "options": [
+      "product launch",
+      "product price",
+      "product lifecycle",
+      "product range",
+      "product manager"
+    ],
+    "answer": "product range"
+  },
+  {
+    "question": "Match the word partnership to its definition. How much a company wants to sell in a period.",
+    "options": [
+      "sales manager",
+      "sales target",
+      "sales figures",
+      "sales tax",
+      "sales forecast"
+    ],
+    "answer": "sales target"
+  },
+  {
+    "question": "Match the word partnership to its definition. How much a company thinks it will sell in a period.",
+    "options": [
+      "sales tax",
+      "sales figures",
+      "sales target",
+      "sales forecast",
+      "sales manager"
+    ],
+    "answer": "sales forecast"
+  },
+  {
+    "question": "Match the word partnership to its definition. Numbers showing how much a company has sold in a period.",
+    "options": [
+      "sales target",
+      "sales figures",
+      "sales manager",
+      "sales forecast",
+      "sales tax"
+    ],
+    "answer": "sales figures"
+  },
+  {
+    "question": "Match the word partnership to its definition. A business which advises companies on advertising and makes ads.",
+    "options": [
+      "advertising standards",
+      "advertising agency",
+      "advertising campaign",
+      "advertising agent",
+      "advertising budget"
+    ],
+    "answer": "advertising agency"
+  },
+  {
+    "question": "Complete the sentence: The Wincote XWS ..... at the right segment of the market.",
+    "options": [
+      "is in charge",
+      "is targeted",
+      "changes",
+      "will be direct",
+      "has designed"
+    ],
+    "answer": "is targeted"
+  },
+  {
+    "question": "Complete the sentence. Was this product ..... the correct way?",
+    "options": [
+      "price fixing",
+      "promoted",
+      "guide",
+      "buying",
+      "approached"
+    ],
+    "answer": "promoted"
+  },
+  {
+    "question": "Complete the sentence: The Wincote XWS is targeted at the right… of the market.",
+    "options": [
+      "market share",
+      "segment",
+      "goods",
+      "figures",
+      "changes"
+    ],
+    "answer": "segment"
+  },
+  {
+    "question": "Choose the synonym of the word: to be aimed",
+    "options": [
+      "to be continued",
+      "to be targeted",
+      "to approach",
+      "received",
+      "acceptance"
+    ],
+    "answer": "to be targeted"
+  },
+  {
+    "question": "Choose the right conjunction. Local competition is extremely strong …..we are planning to buy out local competitors.",
+    "options": [
+      "because of",
+      "so",
+      "though",
+      "because",
+      "as"
+    ],
+    "answer": "so"
+  },
+  {
+    "question": "Choose the right conjunction. It is a difficult time for the industry …… our company is still growing.",
+    "options": [
+      "because",
+      "but",
+      "as",
+      "for",
+      "because of"
+    ],
+    "answer": "but"
+  },
+  {
+    "question": "Match the word partnership to its definition. An amount of money available for advertising during a particular period.",
+    "options": [
+      "advertising agency",
+      "advertising budget",
+      "advertising standards",
+      "advertising campaign",
+      "advertising agent"
+    ],
+    "answer": "advertising budget"
+  },
+  {
+    "question": "Complete the sentence with the correct ending. They usually order online….",
+    "options": [
+      "so we didn`t have to discuss the deal any further.",
+      "which means they don`t have to queue.",
+      "so she won`t have to drive to work anymore.",
+      "so we have to ask them to send us one.",
+      "so we had to order some more."
+    ],
+    "answer": "which means they don`t have to queue."
+  },
+  {
+    "question": "Complete the sentence with the correct ending. We didn`t have any more paper in stock ……",
+    "options": [
+      "so she won`t have to drive to work anymore.",
+      "so we had to order some more.",
+      "which means they don`t have to queue.",
+      "so we didn`t have to discuss the deal any further.",
+      "so we`ll have to exchange them."
+    ],
+    "answer": "so we had to order some more."
+  },
+  {
+    "question": "Complete the sentence with the correct ending. Her new flat is near her workplace…….",
+    "options": [
+      "so we had to order some more.",
+      "so she won`t have to drive to work anymore.",
+      "which means they don`t have to queue.",
+      "so we have to ask them to send us one.",
+      "so we didn`t have to discuss the deal any further."
+    ],
+    "answer": "so she won`t have to drive to work anymore."
+  },
+  {
+    "question": "Complete the sentence with the correct ending. They say some of the goods are damaged…..",
+    "options": [
+      "so we had to order some more.",
+      "so we didn`t have to discuss the deal any further.",
+      "so we`ll have to exchange them.",
+      "which means they don`t have to queue.",
+      "so she won`t have to drive to work anymore."
+    ],
+    "answer": "so we`ll have to exchange them."
+  },
+  {
+    "question": "Complete the sentence with the correct ending. We were all in agreement ….",
+    "options": [
+      "which means they don`t have to queue.",
+      "so we didn`t have to discuss the deal any further.",
+      "so we had to order some more.",
+      "so we have to ask them to send us one.",
+      "so she won`t have to drive to work anymore."
+    ],
+    "answer": "so we didn`t have to discuss the deal any further."
+  },
+  {
+    "question": "Match the word or word combination to its definition. An area or building with a number of shops.",
+    "options": [
+      "organizations",
+      "shopping center",
+      "stock market",
+      "financial market",
+      "stock house"
+    ],
+    "answer": "shopping center"
+  },
+  {
+    "question": "Match the word or word combination to its definition. Another name for a /producer/",
+    "options": [
+      "caller",
+      "manufacturer",
+      "buyer",
+      "seller",
+      "cook"
+    ],
+    "answer": "manufacturer"
+  },
+  {
+    "question": "Match the word or word combination to its definition. A promise to return your money if you are not happy.",
+    "options": [
+      "method of payment",
+      "money-back guarantee",
+      "after-sales service",
+      "credit-card details",
+      "cooling - off period"
+    ],
+    "answer": "money-back guarantee"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The way you pay for the goods you want.",
+    "options": [
+      "cooling - off period",
+      "method of payment",
+      "credit-card details",
+      "after-sales service",
+      "loyalty-card scheme"
+    ],
+    "answer": "method of payment"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The help you get from a company when you start to use their product.",
+    "options": [
+      "cooling - off period",
+      "after-sales service",
+      "method of payment",
+      "loyalty-card scheme",
+      "credit-card details"
+    ],
+    "answer": "after-sales service"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The name, number and expiry date on your payment card.",
+    "options": [
+      "cooling - off period",
+      "credit-card details",
+      "method of payment",
+      "loyalty-card scheme",
+      "after-sales service"
+    ],
+    "answer": "credit-card details"
+  },
+  {
+    "question": "Complete the sentence: Always ..... the small print before you sign a sales contract.",
+    "options": [
+      "damage",
+      "read",
+      "have",
+      "write",
+      "order"
+    ],
+    "answer": "read"
+  },
+  {
+    "question": "Complete the sentence: … is a request by a customer for goods or services.",
+    "options": [
+      "workplace",
+      "order",
+      "regard",
+      "activity",
+      "hospitality"
+    ],
+    "answer": "order"
+  },
+  {
+    "question": "Complete the sentence. He has a strong desire to succeed. He is totally……….",
+    "options": [
+      "serious",
+      "ambitious",
+      "impatient",
+      "flexible",
+      "interested"
+    ],
+    "answer": "ambitious"
+  },
+  {
+    "question": "Make up the sentence: companies/ Many/ completely/ month/ down/ that/ close.",
+    "options": [
+      "Many that month companies down completely close.",
+      "Many companies close down completely that month.",
+      "Down many companies that completely close month.",
+      "Many completely month companies that down close.",
+      "Companies close many completely down that month."
+    ],
+    "answer": "Many companies close down completely that month."
+  },
+  {
+    "question": "Match the word partnership to its definition. A programme of advertising activities over a period, with particular aims.",
+    "options": [
+      "advertising standards",
+      "advertising campaign",
+      "advertising agency",
+      "advertising agent",
+      "advertising budget"
+    ],
+    "answer": "advertising campaign"
+  },
+  {
+    "question": "Match the word to its definition. The cost to the buyer of goods or services.",
+    "options": [
+      "service",
+      "price",
+      "product",
+      "place",
+      "promotion"
+    ],
+    "answer": "price"
+  },
+  {
+    "question": "Match the word to its definition. Informing customers about products and persuading them to buy them.",
+    "options": [
+      "price",
+      "promotion",
+      "place",
+      "service",
+      "product"
+    ],
+    "answer": "promotion"
+  },
+  {
+    "question": "Match the word to its definition. Where goods or services are available.",
+    "options": [
+      "product",
+      "place",
+      "promotion",
+      "price",
+      "service"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Match the word to its definition. Goods or services that are sold.",
+    "options": [
+      "promotion",
+      "product",
+      "service",
+      "place",
+      "price"
+    ],
+    "answer": "product"
+  },
+  {
+    "question": "Complete the sentence. Companies sometimes promote their products by giving ……. gifts to customers.",
+    "options": [
+      "need",
+      "free",
+      "promotion",
+      "aim",
+      "forecast"
+    ],
+    "answer": "free"
+  },
+  {
+    "question": "Complete the sentence. Companies carry out market research to get information about what buyers …… and want.",
+    "options": [
+      "share",
+      "need",
+      "sales",
+      "place",
+      "promotion"
+    ],
+    "answer": "need"
+  },
+  {
+    "question": "Complete the sentence. Good marketing should increase the volume of ……… .",
+    "options": [
+      "forecast",
+      "sales",
+      "need",
+      "promotion",
+      "place"
+    ],
+    "answer": "sales"
+  },
+  {
+    "question": "Complete the sentence. Production …… are what a company must spend on production.",
+    "options": [
+      "cycle",
+      "costs",
+      "forecast",
+      "place",
+      "need"
+    ],
+    "answer": "costs"
+  },
+  {
+    "question": "Complete the sentence. An advertising campaign takes place over a period of time and usually has specific …. .",
+    "options": [
+      "share",
+      "aim",
+      "lifestyle",
+      "place",
+      "packaging"
+    ],
+    "answer": "aim"
+  },
+  {
+    "question": "Match the word or phrase to its definition. The combination of products that a company has to offer.",
+    "options": [
+      "disposable income",
+      "product mix",
+      "saturated",
+      "upmarket",
+      "rebrand"
+    ],
+    "answer": "product mix"
+  },
+  {
+    "question": "Match the word or phrase to its definition. A market filled so completely that no more products can be added.",
+    "options": [
+      "market position",
+      "product mix",
+      "disposable income",
+      "saturated",
+      "penetrate"
+    ],
+    "answer": "saturated"
+  },
+  {
+    "question": "Match the word or phrase to its definition. Expensive compared to other products of the same type.",
+    "options": [
+      "disposable income",
+      "upmarket",
+      "rebrand",
+      "market position",
+      "penetrate"
+    ],
+    "answer": "upmarket"
+  },
+  {
+    "question": "Match the word or phrase to its definition. Start selling goods or services in a new market.",
+    "options": [
+      "product mix",
+      "penetrate",
+      "saturated",
+      "disposable income",
+      "upmarket"
+    ],
+    "answer": "penetrate"
+  },
+  {
+    "question": "Match the word or phrase to its definition. Money that is available to spend after paying for essentials like taxes, food and housing.",
+    "options": [
+      "upmarket",
+      "disposable income",
+      "penetrate",
+      "market position",
+      "rebrand"
+    ],
+    "answer": "disposable income"
+  },
+  {
+    "question": "Match the word or phrase to its definition. The ranking of a company or brand against its competitors in terms of its sales.",
+    "options": [
+      "rebrand",
+      "market position",
+      "product mix",
+      "saturated",
+      "upmarket"
+    ],
+    "answer": "market position"
+  },
+  {
+    "question": "Complete the sentence. In our very ….business world, a good brand is one of the keys to the success of any company.",
+    "options": [
+      "possible",
+      "competitive",
+      "saturated",
+      "informative",
+      "domestic"
+    ],
+    "answer": "competitive"
+  },
+  {
+    "question": "Complete the sentence. ……did you launch this advertising campaign?",
+    "options": [
+      "how many",
+      "when",
+      "which",
+      "what",
+      "how much"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. ……didn`t you contact an advertising agency?",
+    "options": [
+      "what",
+      "why",
+      "how much",
+      "which",
+      "who"
+    ],
+    "answer": "why"
+  },
+  {
+    "question": "Complete the sentence. ……money did you spend on the campaign?",
+    "options": [
+      "how many",
+      "how much",
+      "when",
+      "how long",
+      "why"
+    ],
+    "answer": "how much"
+  },
+  {
+    "question": "Complete the sentence. ……new products did you launch? Was it two or three?",
+    "options": [
+      "how long",
+      "how many",
+      "how much",
+      "why",
+      "who"
+    ],
+    "answer": "how many"
+  },
+  {
+    "question": "Complete the sentence. ……did you target your new product at?",
+    "options": [
+      "how many",
+      "who",
+      "how",
+      "what",
+      "how much"
+    ],
+    "answer": "who"
+  },
+  {
+    "question": "Choose the right preposition: If a product is …...sale .... a John Lewis store, you know you can trust it.",
+    "options": [
+      "for, on",
+      "on, in",
+      "at, at",
+      "on, with",
+      "on, of"
+    ],
+    "answer": "on, in"
+  },
+  {
+    "question": "Choose the right preposition: We are one .... the largest mobile-phone retailers in Europe.",
+    "options": [
+      "at",
+      "of",
+      "for",
+      "with",
+      "from"
+    ],
+    "answer": "of"
+  },
+  {
+    "question": "Use the explanation to choose the correct verb. The government is encouraging people to …..new business. (start)",
+    "options": [
+      "put off",
+      "looked for",
+      "set up",
+      "gave up",
+      "came up with"
+    ],
+    "answer": "set up"
+  },
+  {
+    "question": "Choose the synonym of the word: run",
+    "options": [
+      "cancel",
+      "chair",
+      "increase",
+      "share",
+      "confuse"
+    ],
+    "answer": "chair"
+  },
+  {
+    "question": "Make up the sentence: wants/ productive/ be/ achieve/ everyone/ results/ meetings/ to/ and",
+    "options": [
+      "Meetings wants to achieve productive results and be everyone.",
+      "Everyone wants meetings to be productive and achieve results.",
+      "To wants productive and everyone meetings achieve be results.",
+      "Be productive results and wants everyone to achieve meetings.",
+      "Productive wants and be everyone results to achieve meetings."
+    ],
+    "answer": "Everyone wants meetings to be productive and achieve results."
+  },
+  {
+    "question": "Complete the sentence: If there is demand for shares in a company, its share price ….",
+    "options": [
+      "rise",
+      "goes up",
+      "decreases",
+      "falls",
+      "goes down"
+    ],
+    "answer": "goes up"
+  },
+  {
+    "question": "Match the word to its definition. Buying and selling of shares.",
+    "options": [
+      "selling",
+      "trading",
+      "distribution",
+      "decline",
+      "overstocking"
+    ],
+    "answer": "trading"
+  },
+  {
+    "question": "Complete the sentence: Ambitious people often .... on a career plan while they are still at university.",
+    "options": [
+      "have",
+      "decide",
+      "take",
+      "make",
+      "offer"
+    ],
+    "answer": "decide"
+  },
+  {
+    "question": "Complete the sentence: Espania-pharm today announced the opening of its new… in Barcelona.",
+    "options": [
+      "turnover",
+      "head office",
+      "global giant",
+      "working environment",
+      "workload"
+    ],
+    "answer": "head office"
+  },
+  {
+    "question": "Choose the right preposition. Thank you all once again ….. your continuing support of the company.",
+    "options": [
+      "by",
+      "for",
+      "in",
+      "at",
+      "to"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Match the word to its definition. The ability to change according to the situation.",
+    "options": [
+      "outspoken",
+      "flexibility",
+      "kind",
+      "decisive",
+      "numerate"
+    ],
+    "answer": "flexibility"
+  },
+  {
+    "question": "Choose the synonym of the word: head office",
+    "options": [
+      "subsidiary",
+      "main building",
+      "workplace",
+      "company",
+      "recession"
+    ],
+    "answer": "main building"
+  },
+  {
+    "question": "Choose the right prepositions. We have moved …our new head office …central London.",
+    "options": [
+      "on, in",
+      "to, in",
+      "at, in",
+      "in, to",
+      "to, at"
+    ],
+    "answer": "to, in"
+  },
+  {
+    "question": "Choose the right prepositions. I've learned a lot … lessons ... the companies I've worked ....",
+    "options": [
+      "of, of, from",
+      "of, from, for",
+      "of, at, from",
+      "in, for, in",
+      "from, of, to"
+    ],
+    "answer": "of, from, for"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. Lenovo, Apple, Dell, Microsoft.",
+    "options": [
+      "Pharmaceuticals",
+      "IT ( Information Technology)",
+      "Engineering",
+      "Retail",
+      "Electronics"
+    ],
+    "answer": "IT ( Information Technology)"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. Bayer, Johnson & Johnson, Novartis",
+    "options": [
+      "Retail",
+      "Pharmaceuticals",
+      "Electronics",
+      "Transport",
+      "IT ( Information Technology)"
+    ],
+    "answer": "Pharmaceuticals"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. BMW, General Motors, Nissan, Toyota.",
+    "options": [
+      "Retail",
+      "Engineering",
+      "IT ( Information Technology)",
+      "Pharmaceuticals",
+      "Banking and finance"
+    ],
+    "answer": "Engineering"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. Qatar Airways, Ryanair.",
+    "options": [
+      "Electronics",
+      "Transport",
+      "IT ( Information Technology)",
+      "Banking and finance",
+      "Pharmaceuticals"
+    ],
+    "answer": "Transport"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. HSBC, ING.",
+    "options": [
+      "Engineering",
+      "Banking and finance",
+      "Transport",
+      "IT ( Information Technology)",
+      "Retail"
+    ],
+    "answer": "Banking and finance"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. LG, Nokia, Samsung, Siemens.",
+    "options": [
+      "Pharmaceuticals",
+      "Electronics",
+      "Retail",
+      "Banking and finance",
+      "Transport"
+    ],
+    "answer": "Electronics"
+  },
+  {
+    "question": "Match the word combination to its definition. The percentage of sales a company has in a particular market.",
+    "options": [
+      "turnover",
+      "market share",
+      "subsidiary",
+      "net profit",
+      "share price"
+    ],
+    "answer": "market share"
+  },
+  {
+    "question": "Complete the sentence. ……market segments has your product been most successful in?",
+    "options": [
+      "why",
+      "which",
+      "who",
+      "how much",
+      "whose"
+    ],
+    "answer": "which"
+  },
+  {
+    "question": "Complete the sentence. ……do you expect people to continue to buy this product?",
+    "options": [
+      "when",
+      "how long",
+      "how many",
+      "who",
+      "what"
+    ],
+    "answer": "how long"
+  },
+  {
+    "question": "Complete the sentence. ……is your sales forecast?",
+    "options": [
+      "which",
+      "what",
+      "who",
+      "why",
+      "how"
+    ],
+    "answer": "what"
+  },
+  {
+    "question": "Make up the sentence: a/ advertising/ Do/ lot/ on/ spend/ they?",
+    "options": [
+      "Do spend a lot they advertising on?",
+      "Do they spend a lot on advertising?",
+      "Do they a spend advertising on lot?",
+      "Do a lot advertising on they spend?",
+      "Do a lot on they spend advertising?"
+    ],
+    "answer": "Do they spend a lot on advertising?"
+  },
+  {
+    "question": "Make up the sentence: expecting/ figures/ sales/ Were/ better/ you?",
+    "options": [
+      "Were sales you expecting better figures?",
+      "Were you expecting better sales figures?",
+      "Were expecting better you figures sales?",
+      "Were better you sales figures expecting?",
+      "Were figures you expecting better sales?"
+    ],
+    "answer": "Were you expecting better sales figures?"
+  },
+  {
+    "question": "Make up the sentence: my/ Have/ sales/ read/ report/ you/ quarterly?",
+    "options": [
+      "Have sales my report quarterly you read?",
+      "Have you read my quarterly sales report?",
+      "Have you quarterly sales read my report?",
+      "Have my read you quarterly report sales?",
+      "Have read you my sales quarterly sales report?"
+    ],
+    "answer": "Have you read my quarterly sales report?"
+  },
+  {
+    "question": "Make up the sentence: a/ How/ do/ often/ report/ write/ you?",
+    "options": [
+      "How do often you write a report?",
+      "How often you report do write a?",
+      "How a report do you write often?",
+      "How write a report do you often?",
+      "How often do you write a report?"
+    ],
+    "answer": "How often do you write a report?"
+  },
+  {
+    "question": "Choose the right prepositions: The key ….successful marketing consists….three broad areas.",
+    "options": [
+      "of, with",
+      "to, of",
+      "on, for",
+      "in, on",
+      "at, in"
+    ],
+    "answer": "to, of"
+  },
+  {
+    "question": "Choose the right prepositions: I am interested ….your range …diet products.",
+    "options": [
+      "at, to",
+      "in, of",
+      "on, for",
+      "for, on",
+      "of, in"
+    ],
+    "answer": "in, of"
+  },
+  {
+    "question": "Choose the right prepositions: Present your ideas ... the other teams …. the marketing department.",
+    "options": [
+      "at, to",
+      "to, in",
+      "for, of",
+      "of, on",
+      "with, in"
+    ],
+    "answer": "to, in"
+  },
+  {
+    "question": "Complete the sentence. Could you …….us have your previous employer's details?",
+    "options": [
+      "working",
+      "let",
+      "send",
+      "contact",
+      "moving"
+    ],
+    "answer": "let"
+  },
+  {
+    "question": "Choose the synonym of the word: purchase",
+    "options": [
+      "pressure",
+      "buy",
+      "compete",
+      "receive",
+      "send"
+    ],
+    "answer": "buy"
+  },
+  {
+    "question": "Choose the synonym of the word: product range",
+    "options": [
+      "productivity",
+      "assortment of products",
+      "product launch",
+      "share price",
+      "hierarchy"
+    ],
+    "answer": "assortment of products"
+  },
+  {
+    "question": "Choose the right prepositions: Did she talk ….you ….her plans to leave the company?",
+    "options": [
+      "for, on",
+      "to, about",
+      "with, on",
+      "in, from",
+      "by, at"
+    ],
+    "answer": "to, about"
+  },
+  {
+    "question": "Match the sentence halves. We need to stay - ……",
+    "options": [
+      "and leave",
+      "until the meeting has finished.",
+      "when she will be promoted.",
+      "try to stay calm.",
+      "the economy will slow down."
+    ],
+    "answer": "until the meeting has finished."
+  },
+  {
+    "question": "Complete the sentence. A fashion designer ….created the \"little black dress\" was a genius.",
+    "options": [
+      "where",
+      "who",
+      "when",
+      "why",
+      "what"
+    ],
+    "answer": "who"
+  },
+  {
+    "question": "Complete the sentence. A brand is a name ….makes it easy for customers to recognise a product.",
+    "options": [
+      "who",
+      "which",
+      "why",
+      "where",
+      "when"
+    ],
+    "answer": "which"
+  },
+  {
+    "question": "Complete the sentence. A warehouse is a large building ….goods are stored until they are distributed to shops to be sold.",
+    "options": [
+      "which",
+      "where",
+      "when",
+      "why",
+      "who"
+    ],
+    "answer": "where"
+  },
+  {
+    "question": "Complete the sentence. A recession is a period of time ….the economy is doing badly.",
+    "options": [
+      "what",
+      "why",
+      "who",
+      "when",
+      "where"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. This new instant coffee has been produced by a well-known company ….has always sold its coffee in the higher",
+    "options": [
+      "which",
+      "when",
+      "where",
+      "who",
+      "why"
+    ],
+    "answer": "which"
+  },
+  {
+    "question": "Match the companies to the industry sector they belong to. Ikea, Tesco, Wal-Mart, Zara.",
+    "options": [
+      "Engineering",
+      "Retail",
+      "IT ( Information Technology)",
+      "Banking and finance",
+      "Transport"
+    ],
+    "answer": "Retail"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The main building or location of a large organization.",
+    "options": [
+      "subsidiary",
+      "head office",
+      "parent company",
+      "turnover",
+      "workforce"
+    ],
+    "answer": "head office"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The cost of a company’s shares.",
+    "options": [
+      "market share",
+      "share price",
+      "turnover",
+      "subsidiary",
+      "workforce"
+    ],
+    "answer": "share price"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The employees in a particular country or business.",
+    "options": [
+      "subsidiary",
+      "workforce",
+      "head office",
+      "turnover",
+      "market share"
+    ],
+    "answer": "workforce"
+  },
+  {
+    "question": "Match the word or word combination to its definition. A company which owns another company.",
+    "options": [
+      "subsidiary",
+      "parent company",
+      "head office",
+      "market share",
+      "turnover"
+    ],
+    "answer": "parent company"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The amount of money a company receives from sales in a particular period.",
+    "options": [
+      "subsidiary",
+      "turnover",
+      "workforce",
+      "net profit",
+      "share price"
+    ],
+    "answer": "turnover"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The money the company makes after taking away its costs and tax.",
+    "options": [
+      "share price",
+      "net profit",
+      "turnover",
+      "market share",
+      "subsidiary"
+    ],
+    "answer": "net profit"
+  },
+  {
+    "question": "Match the word combination to its definition. A company which is more than 50% owned by another company",
+    "options": [
+      "turnover",
+      "subsidiary",
+      "market segment",
+      "workforce",
+      "market share"
+    ],
+    "answer": "subsidiary"
+  },
+  {
+    "question": "Match the sentence with the right meaning. Ms Delgado is replacing Sandra as Office Manager until next Friday.",
+    "options": [
+      "future arrangement",
+      "temporary situation",
+      "ongoing situation",
+      "routine activity",
+      "factual information"
+    ],
+    "answer": "temporary situation"
+  },
+  {
+    "question": "Match the sentence with the right meaning. We are opening our sixth subsidiary next month.",
+    "options": [
+      "temporary situation",
+      "future arrangement",
+      "factual information",
+      "ongoing situation",
+      "routine activity"
+    ],
+    "answer": "future arrangement"
+  },
+  {
+    "question": "Choose the right prepositions: Anne-Marie Duval works …a firm …management consultants.",
+    "options": [
+      "with, for",
+      "for, of",
+      "by, at",
+      "on, for",
+      "with, in"
+    ],
+    "answer": "for, of"
+  },
+  {
+    "question": "Complete the sentence. The other reason for our success is the way we ..... our business.",
+    "options": [
+      "running",
+      "run",
+      "climb",
+      "demand",
+      "pressure"
+    ],
+    "answer": "run"
+  },
+  {
+    "question": "Complete the sentence. She always has ideas and easily finds solutions to problems. She is a very .... person.",
+    "options": [
+      "calm",
+      "flexible",
+      "impatient",
+      "creative",
+      "ambitious"
+    ],
+    "answer": "creative"
+  },
+  {
+    "question": "Complete the sentence. He is good with numbers. He is…..",
+    "options": [
+      "weak",
+      "numerate",
+      "flexible",
+      "creative",
+      "enthusiastic"
+    ],
+    "answer": "numerate"
+  },
+  {
+    "question": "Complete the sentence. He is very good at… team spirit and cooperation.",
+    "options": [
+      "thinking",
+      "encouraging",
+      "treating",
+      "delivering",
+      "help"
+    ],
+    "answer": "encouraging"
+  },
+  {
+    "question": "Complete the sentence: I can’t find a solution to all problems, of course, but I … my best.",
+    "options": [
+      "make",
+      "do",
+      "decide",
+      "increase",
+      "sell"
+    ],
+    "answer": "do"
+  },
+  {
+    "question": "Complete the sentence: A lot of people want to … part time work when they retire.",
+    "options": [
+      "launch",
+      "do",
+      "deliver",
+      "treat",
+      "break"
+    ],
+    "answer": "do"
+  },
+  {
+    "question": "Complete the sentence: The position will involve…..travel in the three countries.",
+    "options": [
+      "not",
+      "frequent",
+      "frequency",
+      "language",
+      "frequently"
+    ],
+    "answer": "frequent"
+  },
+  {
+    "question": "Choose the right prepositions: We can return …this issue …the next meeting.",
+    "options": [
+      "on, to",
+      "to, at",
+      "on, in",
+      "in, on",
+      "at, in"
+    ],
+    "answer": "to, at"
+  },
+  {
+    "question": "Choose the synonym of the word: dynamic",
+    "options": [
+      "lazy",
+      "energetic",
+      "decisive",
+      "talkative",
+      "energy"
+    ],
+    "answer": "energetic"
+  },
+  {
+    "question": "Match the word combination to its definition. Chances to start improve your career.",
+    "options": [
+      "career move",
+      "career opportunities",
+      "career path",
+      "career break",
+      "career plan"
+    ],
+    "answer": "career opportunities"
+  },
+  {
+    "question": "Match the word combination to its definition. Ideas you have for your career.",
+    "options": [
+      "career break",
+      "career plan",
+      "career move",
+      "career path",
+      "career opportunities"
+    ],
+    "answer": "career plan"
+  },
+  {
+    "question": "Complete the sentence. The shop floor is an area in a factory ….ordinary workers do their work.",
+    "options": [
+      "when",
+      "where",
+      "who",
+      "why",
+      "what"
+    ],
+    "answer": "where"
+  },
+  {
+    "question": "Complete the sentence. A retailer is a person ….owns or runs a shop selling goods to members of the public.",
+    "options": [
+      "where",
+      "who",
+      "what",
+      "when",
+      "why"
+    ],
+    "answer": "who"
+  },
+  {
+    "question": "Complete the sentence. Sick leave is a period of time ….you stay away from your job because you are ill.",
+    "options": [
+      "where",
+      "when",
+      "why",
+      "who",
+      "which"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Choose the right preposition. Prices ….. Zimbabwe have risen sharply.",
+    "options": [
+      "upon",
+      "on",
+      "in",
+      "to",
+      "with"
+    ],
+    "answer": "in"
+  },
+  {
+    "question": "Choose the right preposition: The Central Bank has reduced interest rates…0.5 per cent.",
+    "options": [
+      "in",
+      "by",
+      "with",
+      "up",
+      "on"
+    ],
+    "answer": "by"
+  },
+  {
+    "question": "Match the economic term to its definition. Total value of goods and services produced in a country.",
+    "options": [
+      "tax incentives",
+      "GDP(gross domestic product)",
+      "unemployment rate",
+      "balance of trade",
+      "inflation rate"
+    ],
+    "answer": "GDP(gross domestic product)"
+  },
+  {
+    "question": "Match the economic term to its definition. Percentage increase in prices.",
+    "options": [
+      "government bureaucracy",
+      "inflation rate",
+      "interest rate",
+      "unemployment rate",
+      "tax incentives"
+    ],
+    "answer": "inflation rate"
+  },
+  {
+    "question": "Match the economic term to its definition. Cost of borrowing money.",
+    "options": [
+      "GDP(gross domestic product)",
+      "interest rate",
+      "balance of trade",
+      "labour force",
+      "exchange rate"
+    ],
+    "answer": "interest rate"
+  },
+  {
+    "question": "Match the economic term to its definition. Price at which one currency can buy another.",
+    "options": [
+      "GDP(gross domestic product)",
+      "exchange rate",
+      "unemployment rate",
+      "tax incentives",
+      "inflation rate"
+    ],
+    "answer": "exchange rate"
+  },
+  {
+    "question": "Match the economic term to its definition. Percentage of people without jobs.",
+    "options": [
+      "labour force",
+      "unemployment rate",
+      "tax incentives",
+      "inflation rate",
+      "foreign investment"
+    ],
+    "answer": "unemployment rate"
+  },
+  {
+    "question": "Match the economic term to its definition. The number of people working.",
+    "options": [
+      "exchange rate",
+      "labour force",
+      "balance of trade",
+      "unemployment rate",
+      "government bureaucracy"
+    ],
+    "answer": "labour force"
+  },
+  {
+    "question": "Match the economic term to its definition. Low taxes to encourage business activity.",
+    "options": [
+      "exchange rate",
+      "tax incentives",
+      "foreign investment",
+      "government bureaucracy",
+      "interest rate"
+    ],
+    "answer": "tax incentives"
+  },
+  {
+    "question": "Match the economic term to its definition. Money from overseas.",
+    "options": [
+      "unemployment rate",
+      "foreign investment",
+      "balance of trade",
+      "interest rate",
+      "inflation rate"
+    ],
+    "answer": "foreign investment"
+  },
+  {
+    "question": "Match the economic term to its definition. Official rules/ regulations/ paperwork.",
+    "options": [
+      "foreign investment",
+      "government bureaucracy",
+      "GDP(gross domestic product)",
+      "exchange rate",
+      "labour force"
+    ],
+    "answer": "government bureaucracy"
+  },
+  {
+    "question": "Match the economic term to its definition. Difference in value between a country's imports and exports.",
+    "options": [
+      "unemployment rate",
+      "balance of trade",
+      "inflation rate",
+      "tax incentives",
+      "labour force"
+    ],
+    "answer": "balance of trade"
+  },
+  {
+    "question": "Complete the sentence . The government is offering attractive …. to encourage foreign investment.",
+    "options": [
+      "exchange rate",
+      "tax incentives",
+      "foreign investment",
+      "balance of trade",
+      "inflation rate"
+    ],
+    "answer": "tax incentives"
+  },
+  {
+    "question": "Complete the sentence. If you plan to borrow money, you will want to know the ……",
+    "options": [
+      "labour force",
+      "government bureaucracy",
+      "interest rate",
+      "exchange rate",
+      "unemployment rate"
+    ],
+    "answer": "interest rate"
+  },
+  {
+    "question": "Complete the sentence. In countries where the …..is high, young people tend to study more.",
+    "options": [
+      "interest rate",
+      "unemployment rate",
+      "balance of trade",
+      "government bureaucracy",
+      "exchange rate"
+    ],
+    "answer": "unemployment rate"
+  },
+  {
+    "question": "Complete the sentence. How many yen to the euro? Do you know the ……, by any chance?",
+    "options": [
+      "labour force",
+      "exchange rate",
+      "GDP(gross domestic product)",
+      "interest rate",
+      "inflation rate"
+    ],
+    "answer": "exchange rate"
+  },
+  {
+    "question": "Complete the sentence. According to a recent survey, 12 per cent of the …..are earning less than the minimum wage.",
+    "options": [
+      "foreign investment",
+      "labour force",
+      "unemployment rate",
+      "exchange rate",
+      "government bureaucracy"
+    ],
+    "answer": "labour force"
+  },
+  {
+    "question": "Match the word combination to its definition. A series of levels or steps in you working life.",
+    "options": [
+      "career break",
+      "career ladder",
+      "career plan",
+      "career path",
+      "career move"
+    ],
+    "answer": "career ladder"
+  },
+  {
+    "question": "Match the word combination to its definition. The direction of your working life takes.",
+    "options": [
+      "career break",
+      "career path",
+      "career ladder",
+      "career plan",
+      "career opportunities"
+    ],
+    "answer": "career path"
+  },
+  {
+    "question": "Match the word combination to its definition. An action you take to progress in your career.",
+    "options": [
+      "career break",
+      "career move",
+      "career plan",
+      "career path",
+      "career opportunities"
+    ],
+    "answer": "career move"
+  },
+  {
+    "question": "Match the word combination to its definition. A period of time away from your job to, for example, look after your children.",
+    "options": [
+      "career move",
+      "career break",
+      "career path",
+      "career plan",
+      "career opportunities"
+    ],
+    "answer": "career break"
+  },
+  {
+    "question": "Complete the sentence: In banking, you can .... with the big bonuses and retire at 35.",
+    "options": [
+      "earn commission",
+      "make a fortune",
+      "work flexitime",
+      "get a promotion",
+      "do part-time work"
+    ],
+    "answer": "make a fortune"
+  },
+  {
+    "question": "Complete the sentence: When you ...., you can arrange your own schedule, so this is very convenient when you have",
+    "options": [
+      "make a fortune",
+      "work flexitime",
+      "do part-time work",
+      "earn commission",
+      "get a promotion"
+    ],
+    "answer": "work flexitime"
+  },
+  {
+    "question": "Complete the sentence: People who work in sales often have the opportunity to ..... on top of a basic salary.",
+    "options": [
+      "work flexitime",
+      "earn commission",
+      "get a promotion",
+      "make a fortune",
+      "do part-time work"
+    ],
+    "answer": "earn commission"
+  },
+  {
+    "question": "Complete the sentence: Luke is ambitious and does not want to be a sales assistant all his life. In fact, he hopes to ..... and",
+    "options": [
+      "do part-time work",
+      "get a promotion",
+      "earn commission",
+      "work flexitime",
+      "make a fortune"
+    ],
+    "answer": "get a promotion"
+  },
+  {
+    "question": "Complete the sentence: Many students ..... when they are at university because it fits in with their studies.",
+    "options": [
+      "get a promotion",
+      "do part-time work",
+      "make a fortune",
+      "earn commission",
+      "work flexitime"
+    ],
+    "answer": "do part-time work"
+  },
+  {
+    "question": "Complete the sentence: Employees in large multinationals ….. excellent career opportunities if they are willing to travel.",
+    "options": [
+      "climb",
+      "have",
+      "take",
+      "decide",
+      "offer"
+    ],
+    "answer": "have"
+  },
+  {
+    "question": "Complete the sentence: Some people ….. a career break to do something adventurous like sailing round the world or going trekking in",
+    "options": [
+      "offer",
+      "take",
+      "climb",
+      "have",
+      "decide"
+    ],
+    "answer": "take"
+  },
+  {
+    "question": "Complete the sentence: One way to ….. a career move is to join a small but rapidly growing company.",
+    "options": [
+      "climb",
+      "make",
+      "have",
+      "offer",
+      "take"
+    ],
+    "answer": "make"
+  },
+  {
+    "question": "Complete the sentence: Certain companies ….. career opportunities to the long term unemployed or to people without formal",
+    "options": [
+      "climb",
+      "offer",
+      "take",
+      "have",
+      "make"
+    ],
+    "answer": "offer"
+  },
+  {
+    "question": "Put the correct preposition. To be responsible …..",
+    "options": [
+      "at",
+      "for",
+      "with",
+      "of",
+      "that"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Put the correct preposition. To be in charge …..",
+    "options": [
+      "that",
+      "of",
+      "after",
+      "for",
+      "with"
+    ],
+    "answer": "of"
+  },
+  {
+    "question": "Put the correct preposition. To deal …..",
+    "options": [
+      "after",
+      "with",
+      "for",
+      "of",
+      "that"
+    ],
+    "answer": "with"
+  },
+  {
+    "question": "Complete the sentence: Jose Monzano is our security officer. He ….. that our staff and premises are protected against crime.",
+    "options": [
+      "deals",
+      "makes sure",
+      "involves",
+      "is in charge",
+      "looks"
+    ],
+    "answer": "makes sure"
+  },
+  {
+    "question": "Complete the sentence: Hans Reiter is our new maintenance engineer. He checks all our equipment regularly and ….. of all repairs.",
+    "options": [
+      "deals",
+      "is in charge",
+      "looks",
+      "involves",
+      "makes sure"
+    ],
+    "answer": "is in charge"
+  },
+  {
+    "question": "Complete the sentence: Linda Erikson is our Quality Control inspector. She ….. for monitoring our products and trying to improve their",
+    "options": [
+      "is in charge",
+      "is responsible",
+      "looks",
+      "makes sure",
+      "deals"
+    ],
+    "answer": "is responsible"
+  },
+  {
+    "question": "Complete the sentence: Nadine works for HR. She ….. with staff problems, as well as with recruitment and training.",
+    "options": [
+      "makes sure",
+      "deals",
+      "looks",
+      "involves",
+      "to be in charge"
+    ],
+    "answer": "deals"
+  },
+  {
+    "question": "Complete the sentence. So many forms to fill in just to import one photocopier! Nobody needs all this ……",
+    "options": [
+      "balance of trade",
+      "government bureaucracy",
+      "labour force",
+      "GDP(gross domestic product)",
+      "interest rate"
+    ],
+    "answer": "government bureaucracy"
+  },
+  {
+    "question": "Complete the sentence. The higher the …..of a country, the richer its people are.",
+    "options": [
+      "inflation rate",
+      "tax incentives",
+      "unemployment rate",
+      "labour force",
+      "GDP(gross domestic product)"
+    ],
+    "answer": "GDP(gross domestic product)"
+  },
+  {
+    "question": "Complete the sentence. When the value of a country`s exports is greater than the value of its imports, we say that the …….is favourable.",
+    "options": [
+      "inflation rate",
+      "balance of trade",
+      "interest rate",
+      "unemployment rate",
+      "GDP(gross domestic product)"
+    ],
+    "answer": "balance of trade"
+  },
+  {
+    "question": "Complete the sentence. Prices increased again last month so the ……rose to 5.3 per cent.",
+    "options": [
+      "unemployment rate",
+      "inflation rate",
+      "GDP(gross domestic product)",
+      "government bureaucracy",
+      "exchange rate"
+    ],
+    "answer": "inflation rate"
+  },
+  {
+    "question": "Match the economic term to its definition. The total amount of money spent by a government on schools, roads, the army, etc.",
+    "options": [
+      "foreign debt",
+      "public expenditure",
+      "subsidies",
+      "trade deficit",
+      "trade surplus"
+    ],
+    "answer": "public expenditure"
+  },
+  {
+    "question": "Match the economic term to its definition. Money that a country owes to lenders abroad.",
+    "options": [
+      "GDP(gross domestic product)",
+      "foreign debt",
+      "balance of trade",
+      "labour force",
+      "subsidiary"
+    ],
+    "answer": "foreign debt"
+  },
+  {
+    "question": "Match the economic term to its definition. Situation when a country sells more goods to other countries than it buys from other",
+    "options": [
+      "GDP(gross domestic product)",
+      "trade surplus",
+      "exchange rate",
+      "interest rate",
+      "tax incentives"
+    ],
+    "answer": "trade surplus"
+  },
+  {
+    "question": "Match the economic term to its definition. Situation when a country pays more money for imports than it gets from exports.",
+    "options": [
+      "labour force",
+      "trade deficit",
+      "exchange rate",
+      "foreign investment",
+      "tax incentives"
+    ],
+    "answer": "trade deficit"
+  },
+  {
+    "question": "Match the economic term to its definition. Money that a government pays to make something cheaper to buy.",
+    "options": [
+      "government bureaucracy",
+      "subsidies",
+      "unemployment rate",
+      "exchange rate",
+      "interest rate"
+    ],
+    "answer": "subsidies"
+  },
+  {
+    "question": "Match the economic term to its definition. A period when trade and business activity decreases.",
+    "options": [
+      "GDP(gross domestic product)",
+      "recession",
+      "subsidiary",
+      "make a fortune",
+      "share price"
+    ],
+    "answer": "recession"
+  },
+  {
+    "question": "Complete the sentence. We can`t invest in that country until their economy…..stable.",
+    "options": [
+      "will be",
+      "is",
+      "have been",
+      "was",
+      "will have been"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "Complete the sentence. We`ll phone you when the goods ….here.",
+    "options": [
+      "were",
+      "will be",
+      "will have been",
+      "are",
+      "have been"
+    ],
+    "answer": "are"
+  },
+  {
+    "question": "Match the two parts of the dialogue. These figures need checking.",
+    "options": [
+      "Yes, If anybody phones while I`m out, tell them I`ll be back by 1.30.",
+      "When you`ve typed them all up, we can check them together.",
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "We don`t know yet. We`ll have more information after we`ve talked to the team leader.",
+      "Yes, I have. I`d like to discuss it with you when you have a minute."
+    ],
+    "answer": "When you`ve typed them all up, we can check them together."
+  },
+  {
+    "question": "Complete the sentence. She remembers …..she first started her business.",
+    "options": [
+      "as soon as",
+      "when",
+      "whom",
+      "until",
+      "what"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. He looked at our business plan ….we were waiting.",
+    "options": [
+      "while",
+      "who",
+      "where",
+      "whom",
+      "what"
+    ],
+    "answer": "while"
+  },
+  {
+    "question": "Complete the sentence.….. interest rates rise, the economy will slow down.",
+    "options": [
+      "until",
+      "as soon as",
+      "what",
+      "where",
+      "before"
+    ],
+    "answer": "as soon as"
+  },
+  {
+    "question": "Complete the sentence. We’ll deliver … they pay their last bill.",
+    "options": [
+      "what",
+      "as soon as",
+      "whom",
+      "how",
+      "where"
+    ],
+    "answer": "as soon as"
+  },
+  {
+    "question": "Match the word to its definition. The rate at which money goes into a business.",
+    "options": [
+      "market share",
+      "cash flow",
+      "account",
+      "salary",
+      "deposit"
+    ],
+    "answer": "cash flow"
+  },
+  {
+    "question": "Match the word to its definition. The difference between the money coming into and going out of a country.",
+    "options": [
+      "joint accounts",
+      "balance of payments",
+      "stock market",
+      "key accounts",
+      "trade surplus"
+    ],
+    "answer": "balance of payments"
+  },
+  {
+    "question": "Complete the sentence: In some industries it can take a long time to ….. the career ladder.",
+    "options": [
+      "have",
+      "climb",
+      "make",
+      "take",
+      "offer"
+    ],
+    "answer": "climb"
+  },
+  {
+    "question": "Choose the wrong noun phrase: make",
+    "options": [
+      "a mistake",
+      "a training course",
+      "a fortune",
+      "a living",
+      "progress"
+    ],
+    "answer": "a training course"
+  },
+  {
+    "question": "Choose the wrong noun phrase: get",
+    "options": [
+      "the sack",
+      "progress",
+      "a promotion",
+      "fired",
+      "a bonus"
+    ],
+    "answer": "progress"
+  },
+  {
+    "question": "Choose the wrong noun phrase: earn",
+    "options": [
+      "40 000 per year",
+      "a part time job",
+      "commission",
+      "money",
+      "a salary"
+    ],
+    "answer": "a part time job"
+  },
+  {
+    "question": "Choose the wrong noun phrase: do",
+    "options": [
+      "part time work",
+      "a mistake",
+      "business",
+      "a nine-to-five job",
+      "your best"
+    ],
+    "answer": "a mistake"
+  },
+  {
+    "question": "Choose the wrong noun phrase: take",
+    "options": [
+      "an opportunity",
+      "a pension",
+      "early retirement",
+      "time off",
+      "a chance"
+    ],
+    "answer": "a pension"
+  },
+  {
+    "question": "Choose the wrong noun phrase: work",
+    "options": [
+      "flexitime",
+      "an office job",
+      "in shifts",
+      "overtime",
+      "anti-social hours"
+    ],
+    "answer": "an office job"
+  },
+  {
+    "question": "Complete the sentence. .......... have been warned that their Facebook profile could damage their employment prospects.",
+    "options": [
+      "distraction",
+      "jobseekers",
+      "employment agency",
+      "professional images",
+      "candidate"
+    ],
+    "answer": "jobseekers"
+  },
+  {
+    "question": "Choose the synonym of the word: charismatic",
+    "options": [
+      "stable",
+      "organised",
+      "serious",
+      "attractive",
+      "numerate"
+    ],
+    "answer": "attractive"
+  },
+  {
+    "question": "Match the word to its definition. The difference between payments for imports and payments for exports.",
+    "options": [
+      "key accounts",
+      "trade balance",
+      "stock market",
+      "joint accounts",
+      "trade surplus"
+    ],
+    "answer": "trade balance"
+  },
+  {
+    "question": "Complete the sentence: When a country exports more than it imports, it has a ….",
+    "options": [
+      "account balance",
+      "trade surplus",
+      "labour shortage",
+      "income statement",
+      "trade balance"
+    ],
+    "answer": "trade surplus"
+  },
+  {
+    "question": "Complete the sentence. … we’ve finished the report, we’ll e-mail it to you.",
+    "options": [
+      "how",
+      "when",
+      "what",
+      "where",
+      "who"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. … you fly first class, you get more leg room.",
+    "options": [
+      "whom",
+      "when",
+      "where",
+      "what",
+      "how"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. … I’m in Geneva, I’ll review all the start-up costs.",
+    "options": [
+      "how",
+      "when",
+      "where",
+      "what",
+      "whom"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. We won’t buy anything new … we’ve paid of all our debts.",
+    "options": [
+      "when",
+      "until",
+      "whom",
+      "how",
+      "who"
+    ],
+    "answer": "until"
+  },
+  {
+    "question": "Complete the sentence. They'll start the meeting …. the manager arrives.",
+    "options": [
+      "how",
+      "as soon as",
+      "what",
+      "where",
+      "whom"
+    ],
+    "answer": "as soon as"
+  },
+  {
+    "question": "Complete the sentence. I was finishing the report. …..my boss went out with clients.",
+    "options": [
+      "how",
+      "when",
+      "whom",
+      "what",
+      "where"
+    ],
+    "answer": "when"
+  },
+  {
+    "question": "Complete the sentence. It's urgent, so I'll phone you ….. I get home.",
+    "options": [
+      "how",
+      "as soon as",
+      "whom",
+      "what",
+      "where"
+    ],
+    "answer": "as soon as"
+  },
+  {
+    "question": "Complete the sentence. Can you check the figures …..you go home?",
+    "options": [
+      "what",
+      "before",
+      "who",
+      "how",
+      "where"
+    ],
+    "answer": "before"
+  },
+  {
+    "question": "Match the sentence halves. Could you check the departure time …….",
+    "options": [
+      "when she finds a good job.",
+      "before we leave for the airport.",
+      "until the meeting has finished.",
+      "the economy will slow down.",
+      "as soon as you get to the office."
+    ],
+    "answer": "before we leave for the airport."
+  },
+  {
+    "question": "Match the sentence halves. As soon as interest rates rise, ……..",
+    "options": [
+      "while you are still working.",
+      "the economy will slow down.",
+      "until we've saved enough money.",
+      "before we leave for the airport.",
+      "until the meeting has finished."
+    ],
+    "answer": "the economy will slow down."
+  },
+  {
+    "question": "Match the sentence halves. We need to stay …………",
+    "options": [
+      "when she finds a good job.",
+      "as soon as you get to the office.",
+      "until the meeting has finished.",
+      "before we leave for the airport.",
+      "the economy will slow down."
+    ],
+    "answer": "until the meeting has finished."
+  },
+  {
+    "question": "Match the sentence halves. The Finance Director needs to speak to you ……",
+    "options": [
+      "when the conditions are right.",
+      "as soon as you get to the office.",
+      "when she finds a good job.",
+      "while you are still working.",
+      "until we've saved enough money."
+    ],
+    "answer": "as soon as you get to the office."
+  },
+  {
+    "question": "Match the sentence halves. She will move to Frankfurt ……..",
+    "options": [
+      "the economy will slow down.",
+      "when she finds a good job.",
+      "as soon as you get to the office.",
+      "before we leave for the airport.",
+      "until the meeting has finished."
+    ],
+    "answer": "when she finds a good job."
+  },
+  {
+    "question": "Match the sentence halves. We won't open our new office …….",
+    "options": [
+      "while you are still working.",
+      "until we've saved enough money.",
+      "until the meeting has finished.",
+      "the economy will slow down.",
+      "when the conditions are right."
+    ],
+    "answer": "until we've saved enough money."
+  },
+  {
+    "question": "Match the sentence halves. I think you should save some money ……..",
+    "options": [
+      "when she finds a good job.",
+      "while you are still working.",
+      "when the conditions are right.",
+      "before we leave for the airport.",
+      "until we've saved enough money."
+    ],
+    "answer": "while you are still working."
+  },
+  {
+    "question": "Match the sentence halves. We can set up in that country ……..",
+    "options": [
+      "as soon as you get to the office.",
+      "when the conditions are right.",
+      "the economy will slow down.",
+      "until the meeting has finished.",
+      "while you are still working."
+    ],
+    "answer": "when the conditions are right."
+  },
+  {
+    "question": "Match the government measure with its purpose. Create free training programmes",
+    "options": [
+      "improve the balance of trade",
+      "reduce unemployment",
+      "stimulate consumer spending",
+      "stop companies polluting the air and water",
+      "reduce the budget"
+    ],
+    "answer": "reduce unemployment"
+  },
+  {
+    "question": "Match the government measure with its purpose. Make export easier",
+    "options": [
+      "make a breakthrough",
+      "improve the balance of trade",
+      "stop companies polluting the air and water",
+      "reduce the budget",
+      "win an award"
+    ],
+    "answer": "improve the balance of trade"
+  },
+  {
+    "question": "Match the government measure with its purpose. Pass a very strict environmental law",
+    "options": [
+      "reduce unemployment",
+      "stop companies polluting the air and water",
+      "reduce the budget deficit",
+      "attract foreign investors",
+      "stimulate consumer spending"
+    ],
+    "answer": "stop companies polluting the air and water"
+  },
+  {
+    "question": "Choose the right conjunction. We were unable to finance the new project ……severe cashflow problems.",
+    "options": [
+      "so",
+      "because of",
+      "though",
+      "because",
+      "as"
+    ],
+    "answer": "because of"
+  },
+  {
+    "question": "Match the government measure with its purpose. Raise taxes",
+    "options": [
+      "stimulate consumers",
+      "reduce the budget deficit",
+      "balance of trade",
+      "stop companies polluting the air and water",
+      "reduce unemployment"
+    ],
+    "answer": "reduce the budget deficit"
+  },
+  {
+    "question": "Match the government measure with its purpose. Lower the interest rate",
+    "options": [
+      "meet a need",
+      "stimulate consumer spending",
+      "make a breakthrough",
+      "stop companies polluting the air and water",
+      "enter a market"
+    ],
+    "answer": "stimulate consumer spending"
+  },
+  {
+    "question": "Match the government measure with its purpose. Reduce bureaucracy",
+    "options": [
+      "reduce the budget deficit",
+      "attract foreign investors",
+      "stop companies polluting the air and water",
+      "improve the balance of trade",
+      "stimulate consumer spending"
+    ],
+    "answer": "attract foreign investors"
+  },
+  {
+    "question": "Match the word or word combination to its definition. A period when the economy is getting smaller because it is producing less.",
+    "options": [
+      "economic output",
+      "trading",
+      "breakthrough",
+      "negative growth",
+      "boom"
+    ],
+    "answer": "negative growth"
+  },
+  {
+    "question": "Choose the opposite for the word: export",
+    "options": [
+      "import",
+      "goods",
+      "dispatch",
+      "foreign trade",
+      "foreign investment"
+    ],
+    "answer": "import"
+  },
+  {
+    "question": "Match the word to its definition. A period when there is a negative growth.",
+    "options": [
+      "increase",
+      "boom",
+      "balance of trade",
+      "recession",
+      "trade surplus"
+    ],
+    "answer": "recession"
+  },
+  {
+    "question": "Choose the synonym of the word: income",
+    "options": [
+      "promotion",
+      "discount",
+      "inflation rate",
+      "profit",
+      "stock"
+    ],
+    "answer": "profit"
+  },
+  {
+    "question": "Complete the sentence. In terms of jobs, the… continues to be a problem, as it is still 16%.",
+    "options": [
+      "foreign debt",
+      "GDP(gross domestic product)",
+      "bureaucracy",
+      "exchange rate",
+      "unemployment rate"
+    ],
+    "answer": "unemployment rate"
+  },
+  {
+    "question": "Complete the sentence: A large skilled means there could be attractive investment opportunities over the next five years.",
+    "options": [
+      "buyers",
+      "subsidiaries",
+      "parent companies",
+      "labour force",
+      "workload"
+    ],
+    "answer": "labour force"
+  },
+  {
+    "question": "Choose the synonym of the word: jobless",
+    "options": [
+      "customers",
+      "traders",
+      "employers",
+      "shareholders",
+      "unemployed"
+    ],
+    "answer": "unemployed"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. An Australian entrepreneur expressed interest in the new product….",
+    "options": [
+      "when they saw an opening in the market.",
+      "when suddenly Jackson announced that he was stepping down as General Manager.",
+      "and asked them to talk about innovation and change.",
+      "that they were exhibiting at the Inventors` Fair.",
+      "and sold 3 million of the devices in 80 days."
+    ],
+    "answer": "that they were exhibiting at the Inventors` Fair."
+  },
+  {
+    "question": "Match the word partnership to its definition. The way that companies in general behave, the way business is done in a particular place.",
+    "options": [
+      "long-hours culture",
+      "sales culture",
+      "corporate culture",
+      "business culture",
+      "culture shock"
+    ],
+    "answer": "business culture"
+  },
+  {
+    "question": "Choose the synonym of the word: holiday",
+    "options": [
+      "peak",
+      "extension",
+      "target",
+      "goal",
+      "vacation"
+    ],
+    "answer": "vacation"
+  },
+  {
+    "question": "Match the word to its definition. A movement or position of the hand, arm, body, head, or face to express an idea, emotion.",
+    "options": [
+      "skill",
+      "extension",
+      "gesture",
+      "order",
+      "recession"
+    ],
+    "answer": "gesture"
+  },
+  {
+    "question": "Match the word to its definition. The quality of being funny.",
+    "options": [
+      "gesture",
+      "distance",
+      "humour",
+      "pleasure",
+      "extension"
+    ],
+    "answer": "humour"
+  },
+  {
+    "question": "Choose the right prepositions: A company's culture depends…...a large extent…...the country it is based….....",
+    "options": [
+      "on, in, -",
+      "to, -, in",
+      "at, in, on",
+      "from, in,of",
+      "to, on, in"
+    ],
+    "answer": "to, on, in"
+  },
+  {
+    "question": "Complete the sentence. Jane invited me round for dinner last night. Her husband is a wonderful ……..",
+    "options": [
+      "cookies",
+      "cooker",
+      "cuisine",
+      "dishing",
+      "cook"
+    ],
+    "answer": "cook"
+  },
+  {
+    "question": "Choose the right prepositions. I look forward…hearing…you.",
+    "options": [
+      "for, on",
+      "from, at",
+      "about, of",
+      "to, from",
+      "at, in"
+    ],
+    "answer": "to, from"
+  },
+  {
+    "question": "Form the word partnerships: 1) convenient; 2) local; 3) efficient a) food; b) service; c) location",
+    "options": [
+      "1-a; 2-b;3-c",
+      "1-b; 2-a; 3-c",
+      "1-b; 2-c; 3-a",
+      "1-c; 2-a; 3-b",
+      "1-c; 2-b; 3-a"
+    ],
+    "answer": "1-c; 2-a; 3-b"
+  },
+  {
+    "question": "Form the word partnerships: 1) cosy; 2) local; 3) reasonablea) prices; b) atmosphere;c) entertainment",
+    "options": [
+      "1-a; 2-c; 3-b",
+      "1-b; 2-a; 3-c",
+      "1-a; 2-b; 3-c",
+      "1-c; 2-b; 3-a",
+      "1-b; 2-c;3-a"
+    ],
+    "answer": "1-b; 2-c;3-a"
+  },
+  {
+    "question": "Find the extra word:",
+    "options": [
+      "venison",
+      "pork",
+      "lamb",
+      "veal",
+      "cabbage"
+    ],
+    "answer": "cabbage"
+  },
+  {
+    "question": "Find the extra word:",
+    "options": [
+      "lamb",
+      "cabbage",
+      "cucumber",
+      "onion",
+      "spinach"
+    ],
+    "answer": "lamb"
+  },
+  {
+    "question": "Find the extra word:",
+    "options": [
+      "crab",
+      "lobster",
+      "tuna",
+      "chicken",
+      "salmon"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Complete the sentence: Many people have only two ….a day: breakfast and dinner.",
+    "options": [
+      "cooks",
+      "dishes",
+      "cuisine",
+      "courses",
+      "meals"
+    ],
+    "answer": "meals"
+  },
+  {
+    "question": "Complete the sentence: Tom worked in Bangkok for a year and now he is very keen on Thai…..",
+    "options": [
+      "kitchen",
+      "dish",
+      "dishing",
+      "cuisine",
+      "cooker"
+    ],
+    "answer": "cuisine"
+  },
+  {
+    "question": "Complete the sentence: They are vegetarians so we should not buy any ….",
+    "options": [
+      "meal",
+      "food",
+      "spinach",
+      "meat",
+      "onion"
+    ],
+    "answer": "meat"
+  },
+  {
+    "question": "Complete the sentence: This chocolate mousse is delicious. Could I have the ….?",
+    "options": [
+      "receipt",
+      "recipe",
+      "cuisine",
+      "cookbook",
+      "cooker"
+    ],
+    "answer": "recipe"
+  },
+  {
+    "question": "Match the sentence halves. Last week, I had to look……",
+    "options": [
+      "to a very good restaurant.",
+      "after five clients from Turkey.",
+      "on really well.",
+      "up their invitation next summer.",
+      "come over and see them in Antalya."
+    ],
+    "answer": "after five clients from Turkey."
+  },
+  {
+    "question": "Match the sentence halves. First, I showed them around ………",
+    "options": [
+      "after five clients from Turkey.",
+      "the Old Town.",
+      "to seeing them all again.",
+      "up their invitation next summer.",
+      "on really well."
+    ],
+    "answer": "the Old Town."
+  },
+  {
+    "question": "Match the sentence halves. I certainly look forward…….",
+    "options": [
+      "up their invitation next summer.",
+      "to seeing them all again.",
+      "to a very good restaurant.",
+      "come over and see them in Antalya.",
+      "the Old Town."
+    ],
+    "answer": "to seeing them all again."
+  },
+  {
+    "question": "Match the sentence halves. I hope I can take ……",
+    "options": [
+      "to seeing them all again.",
+      "up their invitation next summer.",
+      "come over and see them in Antalya.",
+      "after five clients from Turkey.",
+      "on really well."
+    ],
+    "answer": "up their invitation next summer."
+  },
+  {
+    "question": "Match the sentence halves. One of them did not turn ……",
+    "options": [
+      "on really well.",
+      "up, unfortunately.",
+      "up their invitation next summer.",
+      "to a very good restaurant.",
+      "after five clients from Turkey."
+    ],
+    "answer": "up, unfortunately."
+  },
+  {
+    "question": "Match the sentence halves. The food was delicious and we all got …….",
+    "options": [
+      "to seeing them all again.",
+      "on really well.",
+      "to a very good restaurant.",
+      "up their invitation next summer.",
+      "come over and see them in Antalya."
+    ],
+    "answer": "on really well."
+  },
+  {
+    "question": "Match the sentence halves. Then, I took them out……..",
+    "options": [
+      "after five clients from Turkey.",
+      "to a very good restaurant.",
+      "on really well.",
+      "come over and see them in Antalya.",
+      "entertaining"
+    ],
+    "answer": "to a very good restaurant."
+  },
+  {
+    "question": "Match the sentence halves. They said I should …….",
+    "options": [
+      "the Old Town.",
+      "come over and see them in Antalya.",
+      "up their invitation next summer.",
+      "to seeing them all again.",
+      "after five clients from Turkey."
+    ],
+    "answer": "come over and see them in Antalya."
+  },
+  {
+    "question": "Choose the right prepositions. We looked …the lunch menu, which had a wide variety …typical dishes …our region.",
+    "options": [
+      "in, from, of",
+      "at, of, from",
+      "on, with, from",
+      "at, in, of",
+      "of, from, of"
+    ],
+    "answer": "at, of, from"
+  },
+  {
+    "question": "Use the explanation to choose the correct verb. Rick thought March was too early for our seminar so he …..it ….until May. (arranged to",
+    "options": [
+      "hold on",
+      "came up with",
+      "carrying out",
+      "put off",
+      "set up"
+    ],
+    "answer": "put off"
+  },
+  {
+    "question": "Use the explanation to choose the correct verb. Unfortunately, we had to ….their invitation because we had another engagement.",
+    "options": [
+      "look after",
+      "turn down",
+      "carrying out",
+      "hold on",
+      "looked for"
+    ],
+    "answer": "turn down"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. Could you book one single room…..",
+    "options": [
+      "so not too expensive?",
+      "in the name of Robert Dorey.",
+      "and leaving on the 7th in the morning.",
+      "it`s too far from the centre.",
+      "a non-smoking room."
+    ],
+    "answer": "in the name of Robert Dorey."
+  },
+  {
+    "question": "Match the sentence to a suitable ending. If possible, he would prefer …...",
+    "options": [
+      "and leaving on the 7th in the morning.",
+      "a non-smoking room.",
+      "it`s too far from the centre.",
+      "in the name of Robert Dorey.",
+      "but not too expensive?"
+    ],
+    "answer": "a non-smoking room."
+  },
+  {
+    "question": "Match the multiword verb with its definition. Who's going to /look after/ our guests tonight?",
+    "options": [
+      "await with pleasure",
+      "take care of",
+      "entertain",
+      "accept",
+      "get involved in"
+    ],
+    "answer": "take care of"
+  },
+  {
+    "question": "Match the multiword verb with its definition. We have two hours to /look around/ the city.",
+    "options": [
+      "arrive",
+      "see the sights",
+      "get involved in",
+      "await with pleasure",
+      "take care of"
+    ],
+    "answer": "see the sights"
+  },
+  {
+    "question": "Match the multiword verb with its definition. We're really /looking forward/ to the Tokyo trip.",
+    "options": [
+      "arrive",
+      "await with pleasure",
+      "refuse",
+      "see the sights",
+      "entertain"
+    ],
+    "answer": "await with pleasure"
+  },
+  {
+    "question": "Match the multiword verb with its definition. Let's /take the clients out/ to a Chinese restaurant.",
+    "options": [
+      "take care of",
+      "entertain",
+      "see the sights",
+      "refuse",
+      "get involved in"
+    ],
+    "answer": "entertain"
+  },
+  {
+    "question": "Match the multiword verb with its definition. Seventy staff /took part/ in our fundraising events.",
+    "options": [
+      "entertain",
+      "get involved in",
+      "refuse",
+      "take care of",
+      "accept"
+    ],
+    "answer": "get involved in"
+  },
+  {
+    "question": "Match the multiword verb with its definition. The CEO would like to /take up/ your kind offer.",
+    "options": [
+      "arrive",
+      "accept",
+      "await with pleasure",
+      "see the sights",
+      "refuse"
+    ],
+    "answer": "accept"
+  },
+  {
+    "question": "Match the multiword verb with its definition. We were delighted that so many sponsors /turned up/ at the event.",
+    "options": [
+      "accept",
+      "arrive",
+      "await with pleasure",
+      "get involved in",
+      "take care of"
+    ],
+    "answer": "arrive"
+  },
+  {
+    "question": "Match the multiword verb with its definition. As we had another engagement, we had to /turn down/ their invitation.",
+    "options": [
+      "take care of",
+      "refuse",
+      "entertain",
+      "accept",
+      "see the sights"
+    ],
+    "answer": "refuse"
+  },
+  {
+    "question": "Make up the sentence: afraid/ I/ missed/ your/ I`m/ the/ company/ of/ name",
+    "options": [
+      "Your name I missed the company I`m afraid of.",
+      "I'm afraid I missed the name of your company.",
+      "I`m missed of the company I afraid your name.",
+      "I missed afraid the company of your I`m name.",
+      "I afraid the name of your company I`m missed."
+    ],
+    "answer": "I'm afraid I missed the name of your company."
+  },
+  {
+    "question": "Make up the sentence: you/ Would/ dinner/ with/ like/ us/ tomorrow/ to/ night/ have?",
+    "options": [
+      "Would us have you like tomorrow with dinner night to?",
+      "Would dinner like to us with night tomorrow have you?",
+      "Would you like to have dinner with us tomorrow night?",
+      "Would you have to night dinner with us tomorrow like?",
+      "Would you have with tomorrow dinner like to night us?"
+    ],
+    "answer": "Would you like to have dinner with us tomorrow night?"
+  },
+  {
+    "question": "Match the word combination to its definition. To organize a meeting.",
+    "options": [
+      "to run a meeting",
+      "to set up a meeting",
+      "to bring forward a meeting",
+      "to put back a meeting",
+      "to call off a meeting"
+    ],
+    "answer": "to set up a meeting"
+  },
+  {
+    "question": "Choose the synonym of the word: put back",
+    "options": [
+      "arrange",
+      "put off",
+      "use",
+      "decide",
+      "launched"
+    ],
+    "answer": "put off"
+  },
+  {
+    "question": "Choose the synonym of the word: put off",
+    "options": [
+      "start",
+      "postpone",
+      "plan",
+      "behave",
+      "compete"
+    ],
+    "answer": "postpone"
+  },
+  {
+    "question": "Complete the sentence: Susana is the receptionist. She ….. after visitors and takes messages.",
+    "options": [
+      "is in charge",
+      "looks",
+      "involves",
+      "deals",
+      "makes sure"
+    ],
+    "answer": "looks"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The way the presenter looks at the audience.",
+    "options": [
+      "physical contact",
+      "eye contact",
+      "touch",
+      "breakdown",
+      "gesture"
+    ],
+    "answer": "eye contact"
+  },
+  {
+    "question": "Complete the sentence. Maintain …. by looking round the room at each person in the audience for about a second.",
+    "options": [
+      "booking",
+      "eye contact",
+      "attachment",
+      "friendship",
+      "gestures"
+    ],
+    "answer": "eye contact"
+  },
+  {
+    "question": "Complete the sentence. Use …… - hand movements - to emphasise key points.",
+    "options": [
+      "humour",
+      "gesture",
+      "distance",
+      "booking",
+      "eye contact"
+    ],
+    "answer": "gesture"
+  },
+  {
+    "question": "Match the word or phrase to its definition. The way you hold your body, the gestures you make, etc.",
+    "options": [
+      "loyalty",
+      "body language",
+      "physical contact",
+      "hierarchy",
+      "role of silence"
+    ],
+    "answer": "body language"
+  },
+  {
+    "question": "Match the word or phrase to its definition. The degree to which it`s acceptable to touch someone`s shoulder.",
+    "options": [
+      "body language",
+      "physical contact",
+      "breakdown",
+      "action point",
+      "visual aids"
+    ],
+    "answer": "physical contact"
+  },
+  {
+    "question": "Complete the sentence. Sales have fallen…in the last three years",
+    "options": [
+      "best",
+      "sharply",
+      "slight",
+      "calm",
+      "hard"
+    ],
+    "answer": "sharply"
+  },
+  {
+    "question": "Complete the sentence: Pollution is a big problem in our city and we are trying all sorts of ideas to … it.",
+    "options": [
+      "increase",
+      "reduce",
+      "do",
+      "deliver",
+      "rise"
+    ],
+    "answer": "reduce"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …to the dentist",
+    "options": [
+      "waiting",
+      "going",
+      "making",
+      "finding",
+      "taking"
+    ],
+    "answer": "going"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …in a long queue",
+    "options": [
+      "travelling",
+      "waiting",
+      "going",
+      "having",
+      "taking"
+    ],
+    "answer": "waiting"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …stuck in a traffic jam",
+    "options": [
+      "making",
+      "being",
+      "going",
+      "travelling",
+      "finding"
+    ],
+    "answer": "being"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …a parking space",
+    "options": [
+      "waiting",
+      "finding",
+      "shopping",
+      "going",
+      "travelling"
+    ],
+    "answer": "finding"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …an interview",
+    "options": [
+      "shopping",
+      "having",
+      "being",
+      "travelling",
+      "waiting"
+    ],
+    "answer": "having"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …a speech",
+    "options": [
+      "shopping",
+      "making",
+      "waiting",
+      "going",
+      "travelling"
+    ],
+    "answer": "making"
+  },
+  {
+    "question": "Complete the phrase with the correct verb: …by air",
+    "options": [
+      "waiting",
+      "travelling",
+      "finding",
+      "having",
+      "shopping"
+    ],
+    "answer": "travelling"
+  },
+  {
+    "question": "Match the word or word combination to its definition. A system where employees choose the time they start and finish work each day.",
+    "options": [
+      "workload",
+      "flexitime",
+      "working environment",
+      "deadline",
+      "workaholic"
+    ],
+    "answer": "flexitime"
+  },
+  {
+    "question": "Match the word or word combination to its definition. A time or date by which you have to do something",
+    "options": [
+      "flexitime",
+      "deadline",
+      "working environment",
+      "workaholic",
+      "lifestyle"
+    ],
+    "answer": "deadline"
+  },
+  {
+    "question": "Match the word or word combination to its definition. How personally satisfied you are with the way you live and work.",
+    "options": [
+      "workload",
+      "quality of life",
+      "flexitime",
+      "lifestyle",
+      "working environment"
+    ],
+    "answer": "quality of life"
+  },
+  {
+    "question": "Match the word or word combination to its definition. Someone who cannot stop working and has no time for anything else.",
+    "options": [
+      "flexitime",
+      "workaholic",
+      "working environment",
+      "lifestyle",
+      "deadline"
+    ],
+    "answer": "workaholic"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The ability to give a good amount of time to your work and to outside interests,",
+    "options": [
+      "deadline",
+      "work-life balance",
+      "workload",
+      "workaholic",
+      "flexitime"
+    ],
+    "answer": "work-life balance"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The amount of work a person is expected to do.",
+    "options": [
+      "deadline",
+      "workload",
+      "flexitime",
+      "workaholic",
+      "working environment"
+    ],
+    "answer": "workload"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The people, things and atmosphere around you at work.",
+    "options": [
+      "lifestyle",
+      "flexitime",
+      "quality of life",
+      "workload",
+      "working environment"
+    ],
+    "answer": "working environment"
+  },
+  {
+    "question": "Match the word or word combination to its definition. The way people choose to organise their lives.",
+    "options": [
+      "deadline",
+      "lifestyle",
+      "working environment",
+      "workload",
+      "workaholic"
+    ],
+    "answer": "lifestyle"
+  },
+  {
+    "question": "Complete the sentence with an appropriate word. I work six days a week and never have a holiday. My girlfriend says I'm a ............",
+    "options": [
+      "speculator",
+      "workaholic",
+      "energetic",
+      "visionary",
+      "workload"
+    ],
+    "answer": "workaholic"
+  },
+  {
+    "question": "Complete the sentence with an appropriate word or phrase. I worked until 11 o'clock at night to meet the….. for presenting the",
+    "options": [
+      "flexitime",
+      "deadline",
+      "lifestyle",
+      "working environment",
+      "workload"
+    ],
+    "answer": "deadline"
+  },
+  {
+    "question": "Make up the sentence: working/ computer/ I/ my/ properly/ replied/ wasn`t.",
+    "options": [
+      "I replied my properly wasn`t computer working.",
+      "I replied my computer wasn`t working properly.",
+      "I properly working wasn`t computer my working.",
+      "I working my replied computer wasn`t properly.",
+      "I wasn`t computer properly my replied working."
+    ],
+    "answer": "I replied my computer wasn`t working properly."
+  },
+  {
+    "question": "Make up the sentence: a/ He/ I/ needed/ new/ one/ said/ that.",
+    "options": [
+      "He said I needed that one a new.",
+      "He said that I needed a new one.",
+      "He said a new one needed that I.",
+      "He new a said that needed I one.",
+      "He needed I said a new one that."
+    ],
+    "answer": "He said that I needed a new one."
+  },
+  {
+    "question": "Make up the sentence: ahead/ to/ Then/ he/ should/ plan/ said/ try/ I.",
+    "options": [
+      "Then I said to should try he ahead plan.",
+      "Then he said I should try to plan ahead.",
+      "Then I plan should to try said he ahead.",
+      "Then I should to try ahead said he plan.",
+      "Then he plan should try to said I ahead."
+    ],
+    "answer": "Then he said I should try to plan ahead."
+  },
+  {
+    "question": "Complete the sentence with an appropriate word or phrase. Karl has a heavy ….. at the moment because several colleagues are off",
+    "options": [
+      "deadline",
+      "workload",
+      "landline",
+      "flexitime",
+      "distance"
+    ],
+    "answer": "workload"
+  },
+  {
+    "question": "Complete the sentence with an appropriate word or phrase. A clean, quiet, comfortable and friendly ….can actively reduce levels of",
+    "options": [
+      "workload",
+      "working environment",
+      "discount",
+      "distance",
+      "deadline"
+    ],
+    "answer": "working environment"
+  },
+  {
+    "question": "Make up the sentence: are only/ at work/ many men/ under pressure/ by contrast,",
+    "options": [
+      "Many men are only at work by contrast, under pressure.",
+      "By contrast, many men are only under pressure at work.",
+      "Under pressure many men by contrast, are only at work.",
+      "At work by contrast, many men under pressure are only.",
+      "Many men under pressure by contrast, are only at work."
+    ],
+    "answer": "By contrast, many men are only under pressure at work."
+  },
+  {
+    "question": "Make up the sentence: come from/ from work/ home and/ These pressures",
+    "options": [
+      "Come from these pressures from work home and.",
+      "These pressures come from home and from work.",
+      "From work come from these pressures home and.",
+      "Home and from work these pressures come from.",
+      "These pressures home and come from from work."
+    ],
+    "answer": "These pressures come from home and from work."
+  },
+  {
+    "question": "Make up the sentence: handle stress/ but men and/ very differently/ women generally",
+    "options": [
+      "Very differently handle stress but men and women generally.",
+      "But men and women generally handle stress very differently.",
+      "Handle stress women generally but men and very differently.",
+      "Women generally very differently handle stress but men and.",
+      "But men and very different handle stress women generally."
+    ],
+    "answer": "But men and women generally handle stress very differently."
+  },
+  {
+    "question": "Choose the right prepositions. Being stuck…a traffic jam on your way…work can be quite stressful.",
+    "options": [
+      "on, for",
+      "of, about",
+      "to, on",
+      "in, to",
+      "for, on"
+    ],
+    "answer": "in, to"
+  },
+  {
+    "question": "Choose the right prepositions. In Ireland,... example, the economy is shrinking and business owners are worried ….how they will keep",
+    "options": [
+      "for, about",
+      "of, on",
+      "on, for",
+      "in, at",
+      "to, on"
+    ],
+    "answer": "for, about"
+  },
+  {
+    "question": "Choose the right prepositions. Gentaro is part …a multinational company based… Milan.",
+    "options": [
+      "on, on",
+      "of, in",
+      "of, at",
+      "in, to",
+      "for, on"
+    ],
+    "answer": "of, in"
+  },
+  {
+    "question": "Choose the right prepositions. I wish I could relax a bit more instead … having to work… strict deadlines all the time.",
+    "options": [
+      "on, for",
+      "of, to",
+      "with, on",
+      "in, at",
+      "for, on"
+    ],
+    "answer": "of, to"
+  },
+  {
+    "question": "Choose the right prepositions. Lisa worked until 11 o`clock … night to meet the deadline … presenting the report.",
+    "options": [
+      "on, of",
+      "at, for",
+      "of, for",
+      "in, to",
+      "at, in"
+    ],
+    "answer": "at, for"
+  },
+  {
+    "question": "Choose the right prepositions. Mike says going… a stress counsellor is out… the question.",
+    "options": [
+      "on, in",
+      "to, of",
+      "for, to",
+      "in, on",
+      "at, in"
+    ],
+    "answer": "to, of"
+  },
+  {
+    "question": "Choose the right preposition. The finance sector changed dramatically…. the past five years.",
+    "options": [
+      "about",
+      "over",
+      "at",
+      "for",
+      "out"
+    ],
+    "answer": "over"
+  },
+  {
+    "question": "Choose the right preposition. Stress levels have increased…. recent years.",
+    "options": [
+      "at",
+      "on",
+      "to",
+      "in",
+      "of"
+    ],
+    "answer": "in"
+  },
+  {
+    "question": "Choose the right preposition. Many employees worry…. the future.",
+    "options": [
+      "since",
+      "about",
+      "under",
+      "in",
+      "at"
+    ],
+    "answer": "about"
+  },
+  {
+    "question": "Use the explanation to choose the correct verb. We …..a new sales manager with at least three years` experience. (tried to find)",
+    "options": [
+      "hold on",
+      "looked for",
+      "set up",
+      "put off",
+      "turn down"
+    ],
+    "answer": "looked for"
+  },
+  {
+    "question": "Use the explanation to choose the correct verb. Carol …..a well-paid job to train as a social worker. (stopped doing)",
+    "options": [
+      "came up with",
+      "gave up",
+      "put off",
+      "hold on",
+      "set up"
+    ],
+    "answer": "gave up"
+  },
+  {
+    "question": "Choose the synonym of the word: challenging",
+    "options": [
+      "professional",
+      "difficult",
+      "steady",
+      "environmental",
+      "following"
+    ],
+    "answer": "difficult"
+  },
+  {
+    "question": "Complete the sentence: He`s completely …. - so stressed and tired by his work that he will never be able to work again.",
+    "options": [
+      "patient",
+      "burned out",
+      "calm",
+      "tiring",
+      "energetic"
+    ],
+    "answer": "burned out"
+  },
+  {
+    "question": "Make up the sentence: organised/ was/ answered/ well/ I/ usually/ I/ that.",
+    "options": [
+      "I usually well answered that was I organised.",
+      "I answered that I was usually well organised.",
+      "I was well that usually I organised answered.",
+      "I was that answered well I usually organised.",
+      "I organised was that usually I answered well."
+    ],
+    "answer": "I answered that I was usually well organised."
+  },
+  {
+    "question": "Make up the sentence: a/ asked/ computer/ Finally,/ get/ him/ I/ I/ new/ when/ would.",
+    "options": [
+      "Finally, a new I asked would computer I get him when.",
+      "Finally, I would him asked computer I when a new get.",
+      "Finally, when I asked would a computer I new get him.",
+      "Finally, I asked him when I would get a new computer.",
+      "Finally, would him a new asked I computer get when I."
+    ],
+    "answer": "Finally, I asked him when I would get a new computer."
+  },
+  {
+    "question": "Choose the right preposition: He asked her if she adapted easily …new situation.",
+    "options": [
+      "by",
+      "to",
+      "of",
+      "on",
+      "from"
+    ],
+    "answer": "to"
+  },
+  {
+    "question": "Choose the right preposition: He asked her how often she invested …courses.",
+    "options": [
+      "about",
+      "in",
+      "by",
+      "at",
+      "of"
+    ],
+    "answer": "in"
+  },
+  {
+    "question": "Complete the sentence. He likes people to feel comfortable and relaxed during a negotiation. He's a very…… person.",
+    "options": [
+      "enthusiasm",
+      "calm",
+      "creative",
+      "intelligent",
+      "ambitious"
+    ],
+    "answer": "calm"
+  },
+  {
+    "question": "Complete the sentence. She never talks about her achievements. She is so ……..",
+    "options": [
+      "creative",
+      "modest",
+      "enthusiastic",
+      "numerate",
+      "unfriendly"
+    ],
+    "answer": "modest"
+  },
+  {
+    "question": "Complete the sentence. She is very ….. She wants to be more successful than other people.",
+    "options": [
+      "ambition",
+      "competitive",
+      "modest",
+      "impatient",
+      "creative"
+    ],
+    "answer": "competitive"
+  },
+  {
+    "question": "Complete the sentence. It was very impolite to be late for the meeting and not even.......",
+    "options": [
+      "formal",
+      "apologise",
+      "help",
+      "respond",
+      "say"
+    ],
+    "answer": "apologise"
+  },
+  {
+    "question": "Complete the sentence: She believes that the new director should involve staff in all ….......",
+    "options": [
+      "decisive",
+      "decisions",
+      "workaholic",
+      "interviews",
+      "employment"
+    ],
+    "answer": "decisions"
+  },
+  {
+    "question": "Complete the sentence: However, some critics argue that introducing professionals would help ….. a reputation for weak",
+    "options": [
+      "spread",
+      "to break down",
+      "influenced",
+      "increase",
+      "generate"
+    ],
+    "answer": "to break down"
+  },
+  {
+    "question": "Choose the synonym of the word: seriousness",
+    "options": [
+      "network",
+      "formality",
+      "relation",
+      "document",
+      "reply"
+    ],
+    "answer": "formality"
+  },
+  {
+    "question": "Choose the synonym of the word: significantly",
+    "options": [
+      "annually",
+      "importantly",
+      "recently",
+      "slightly",
+      "lately"
+    ],
+    "answer": "importantly"
+  },
+  {
+    "question": "Choose the synonym of the word: qualifications",
+    "options": [
+      "breakthrough",
+      "background",
+      "refund",
+      "range",
+      "recession"
+    ],
+    "answer": "background"
+  },
+  {
+    "question": "Choose the right prepositions. I am available … interview …the date that you mention.",
+    "options": [
+      "from, of",
+      "for, on",
+      "in, at",
+      "on, from",
+      "about, in"
+    ],
+    "answer": "for, on"
+  },
+  {
+    "question": "Match the two parts of the dialogue. It seems we`re not doing business with Alfatex anymore.",
+    "options": [
+      "When you`ve typed them all up, we can check them together.",
+      "Yes, I agree. We`ll find out as soon as we get the FT.",
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "Yes, If anybody phones while I`m out, tell them I`ll be back by 1.30.",
+      "Well, could we possibly do that before the meeting starts?"
+    ],
+    "answer": "No, never again. Certainly not until they apologise for their terrible mistakes."
+  },
+  {
+    "question": "Match the two parts of the dialogue. It would be useful to know today`s exchange rates.",
+    "options": [
+      "Yes, If anybody phones while I`m out, tell them I`ll be back by 1.30.",
+      "Yes, I agree. We`ll find out as soon as we get the FT.",
+      "No, never again. Certainly not until they apologise for their terrible mistakes.",
+      "When you`ve typed them all up, we can check them together.",
+      "Well, could we possibly do that before the meeting starts?"
+    ],
+    "answer": "Yes, I agree. We`ll find out as soon as we get the FT."
+  },
+  {
+    "question": "Complete the sentence: Some staff feel…... and are not valued by management.",
+    "options": [
+      "respected",
+      "worthless",
+      "stress",
+      "nervous",
+      "valuable"
+    ],
+    "answer": "worthless"
+  },
+  {
+    "question": "Choose the right conjunction. Sales are falling ….. management doesn’t seem very worried about it.",
+    "options": [
+      "because of",
+      "but",
+      "so",
+      "as",
+      "because"
+    ],
+    "answer": "but"
+  },
+  {
+    "question": "Choose the synonym of the word: proposal",
+    "options": [
+      "attitude",
+      "offer",
+      "diary",
+      "pressure",
+      "stake"
+    ],
+    "answer": "offer"
+  },
+  {
+    "question": "Complete the sentence. Countries at the top of the stress league are those where …., on average, take fewer holidays each year.",
+    "options": [
+      "commercials",
+      "business owners",
+      "international companies",
+      "employment",
+      "the rich"
+    ],
+    "answer": "business owners"
+  },
+  {
+    "question": "Complete the sentence: Business owners were asked about the major causes of…stress.",
+    "options": [
+      "balance of trade",
+      "workplace",
+      "workaholics",
+      "sales",
+      "career ladder"
+    ],
+    "answer": "workplace"
+  },
+  {
+    "question": "Match the word partnership to its definition. All the great ideas are controversial",
+    "options": [
+      "close a deal",
+      "causing disagreement",
+      "compromise",
+      "original",
+      "reach an agreement"
+    ],
+    "answer": "causing disagreement"
+  },
+  {
+    "question": "Match the word partnership to its definition. to take advantage of an opportunity",
+    "options": [
+      "to make an important discovery or change",
+      "to do something when you get the chance to do it",
+      "to offer a larger variety of goods",
+      "to make somebody look or feel more important",
+      "to do or provide something that is necessary"
+    ],
+    "answer": "to do something when you get the chance to do it"
+  },
+  {
+    "question": "Match the word partnership to its definition. to enter a market",
+    "options": [
+      "to make an important discovery or change",
+      "to start selling goods or services in a new area",
+      "to do or provide something that is necessary",
+      "to do something when you get the chance to do it",
+      "to offer a larger variety of goods"
+    ],
+    "answer": "to start selling goods or services in a new area"
+  },
+  {
+    "question": "Match the word partnership to its definition. to extend a product range",
+    "options": [
+      "to make an important discovery or change",
+      "to offer a larger variety of goods",
+      "to make somebody look or feel more important",
+      "to do something when you get the chance to do it",
+      "to start selling goods or services in a new area"
+    ],
+    "answer": "to offer a larger variety of goods"
+  },
+  {
+    "question": "Match the word partnership to its definition. to make a breakthrough",
+    "options": [
+      "to start selling goods or services in a new area",
+      "to make an important discovery or change",
+      "to do something when you get the chance to do it",
+      "to do or provide something that is necessary",
+      "to make somebody look or feel more important"
+    ],
+    "answer": "to make an important discovery or change"
+  },
+  {
+    "question": "Make up the sentence: repairing/ someone/ your/ now/ is/ machine/ washing.",
+    "options": [
+      "Now someone your repairing machine is washing.",
+      "Someone is repairing your washing machine now.",
+      "Machine is someone now repairing washing your.",
+      "Washing machine is your someone now repairing.",
+      "Your machine is washing now repairing someone."
+    ],
+    "answer": "Someone is repairing your washing machine now."
+  },
+  {
+    "question": "Match the word partnership to its definition. to raise somebody's status",
+    "options": [
+      "to do or provide something that is necessary",
+      "to make somebody look or feel more important",
+      "to start selling goods or services in a new area",
+      "to offer a larger variety of goods",
+      "to do something when you get the chance to do it"
+    ],
+    "answer": "to make somebody look or feel more important"
+  },
+  {
+    "question": "Match the word partnership to its definition. to meet a need",
+    "options": [
+      "to make an important discovery or change",
+      "to do or provide something that is necessary",
+      "to offer a larger variety of goods",
+      "to do something when you get the chance to do it",
+      "to make somebody look or feel more important"
+    ],
+    "answer": "to do or provide something that is necessary"
+  },
+  {
+    "question": "Complete the sentence: We plan to offer free ice-cream to all consumers one day a year to … awareness of the company.",
+    "options": [
+      "treat",
+      "raise",
+      "link",
+      "break",
+      "reduce"
+    ],
+    "answer": "raise"
+  },
+  {
+    "question": "Complete the sentence: Some people buy luxury products because such products … their status and give them a new, more upmarket",
+    "options": [
+      "target",
+      "raise",
+      "turn",
+      "lease",
+      "reduce"
+    ],
+    "answer": "raise"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. As they had an exciting idea to promote,…..",
+    "options": [
+      "and asked them to talk about innovation and change.",
+      "they decided to exhibit at the Inventors` Fair.",
+      "when they saw an opening in the market.",
+      "when suddenly Jackson announced that he was stepping down as General Manager.",
+      "and sold 3 million of the devices in 80 days."
+    ],
+    "answer": "they decided to exhibit at the Inventors` Fair."
+  },
+  {
+    "question": "Complete the sentence: Agencies compete to win new contracts or take clients away from their…......",
+    "options": [
+      "breakthrough",
+      "rivals",
+      "competition",
+      "accounts",
+      "working conditions"
+    ],
+    "answer": "rivals"
+  },
+  {
+    "question": "Choose the synonym for the word: respond",
+    "options": [
+      "carry out",
+      "answer",
+      "invest",
+      "delegate",
+      "believe"
+    ],
+    "answer": "answer"
+  },
+  {
+    "question": "Complete the sentence: They only …. properties which are worth more than $1 million.",
+    "options": [
+      "liked",
+      "search for",
+      "fixed",
+      "ask",
+      "trades"
+    ],
+    "answer": "search for"
+  },
+  {
+    "question": "Match the word to its definition. Someone whose job is to help two groups who disagree with each other to reach an agreement.",
+    "options": [
+      "client",
+      "negotiator",
+      "employee",
+      "traders",
+      "candidate"
+    ],
+    "answer": "negotiator"
+  },
+  {
+    "question": "Complete the sentence: …..within the team are damaging operations at a property company.",
+    "options": [
+      "purchase",
+      "tensions",
+      "listening to others",
+      "power",
+      "flexibility"
+    ],
+    "answer": "tensions"
+  },
+  {
+    "question": "Choose the right prepositions: That brings me …the end …my presentation.",
+    "options": [
+      "in, for",
+      "on, to",
+      "with, by",
+      "to, of",
+      "at, on"
+    ],
+    "answer": "to, of"
+  },
+  {
+    "question": "Match the word to its definition. A lot of ideas and enthusiasm.",
+    "options": [
+      "ambition",
+      "dynamism",
+      "to brainstorm",
+      "responsible",
+      "intelligence"
+    ],
+    "answer": "dynamism"
+  },
+  {
+    "question": "Match the word to its definition. The power to be physically and mentally active.",
+    "options": [
+      "ambitious",
+      "energy",
+      "stable",
+      "honesty",
+      "skilled"
+    ],
+    "answer": "energy"
+  },
+  {
+    "question": "Complete the sentence. Now managers want to involve employees in a process of …..- getting everyone to participate in making",
+    "options": [
+      "workload",
+      "consultation",
+      "visionary",
+      "bargain",
+      "dynamism"
+    ],
+    "answer": "consultation"
+  },
+  {
+    "question": "Match the word combination to its definition. A situation where most people agree with the decisions taken.",
+    "options": [
+      "controversial",
+      "management by consensus",
+      "tax incentives",
+      "disagreement",
+      "further discounts"
+    ],
+    "answer": "management by consensus"
+  },
+  {
+    "question": "Match the word to its definition. Encouraging employees to use their own initiative to take decisions on their own without asking",
+    "options": [
+      "bargain",
+      "empowerment",
+      "negotiating",
+      "after -sales-service",
+      "cool off"
+    ],
+    "answer": "empowerment"
+  },
+  {
+    "question": "Complete the sentence: The economy is stable…..the problems of the past two years.",
+    "options": [
+      "contacting",
+      "following",
+      "research",
+      "discovering",
+      "receiving"
+    ],
+    "answer": "following"
+  },
+  {
+    "question": "Match the phrase to its definition. The way that negotiations develop.",
+    "options": [
+      "controversial",
+      "bargaining process",
+      "trade deficit",
+      "warranty",
+      "negative"
+    ],
+    "answer": "bargaining process"
+  },
+  {
+    "question": "Match the word to its definition. Someone who is good at getting what they want, but could be difficult to deal with.",
+    "options": [
+      "free negotiator",
+      "tough negotiator",
+      "special negotiator",
+      "better negotiator",
+      "friendly negotiator"
+    ],
+    "answer": "tough negotiator"
+  },
+  {
+    "question": "Match the verbs to the phrases: respond",
+    "options": [
+      "in regular training courses for employees",
+      "to employees' concerns promptly.",
+      "with colleagues clearly",
+      "with problems quickly.",
+      "in their employees' abilities."
+    ],
+    "answer": "to employees' concerns promptly."
+  },
+  {
+    "question": "Match the verbs to the phrases: listen",
+    "options": [
+      "with problems quickly.",
+      "to all suggestions from staff.",
+      "with colleagues clearly",
+      "in their employees' abilities.",
+      "in regular training courses for employees"
+    ],
+    "answer": "to all suggestions from staff."
+  },
+  {
+    "question": "Match the verbs to the phrases: deal",
+    "options": [
+      "to all suggestions from staff.",
+      "with problems quickly.",
+      "to a deputy as often as possible",
+      "in their employees' abilities.",
+      "to employees' concerns promptly."
+    ],
+    "answer": "with problems quickly."
+  },
+  {
+    "question": "Match the word to its definition. To give other people responsibility for work rather than doing it all themselves.",
+    "options": [
+      "to issue",
+      "to delegate",
+      "to increase",
+      "to deal",
+      "to accept"
+    ],
+    "answer": "to delegate"
+  },
+  {
+    "question": "Match the verbs to the phrases: believe",
+    "options": [
+      "to all suggestions from staff.",
+      "with colleagues clearly",
+      "in their employees' abilities.",
+      "with problems quickly.",
+      "to a deputy as often as possible"
+    ],
+    "answer": "in their employees' abilities."
+  },
+  {
+    "question": "Match the verbs to the phrases: delegate",
+    "options": [
+      "in regular training courses for employees",
+      "to a deputy as often as possible",
+      "with colleagues clearly",
+      "with problems quickly.",
+      "in their employees' abilities."
+    ],
+    "answer": "to a deputy as often as possible"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. Apple released the first iPad in April 2010…..",
+    "options": [
+      "when suddenly Jackson announced that he was stepping down as General Manager.",
+      "and sold 3 million of the devices in 80 days.",
+      "that they were exhibiting at the Inventors` Fair.",
+      "when they saw an opening in the market.",
+      "they decided to exhibit at the Inventors` Fair."
+    ],
+    "answer": "and sold 3 million of the devices in 80 days."
+  },
+  {
+    "question": "Complete the sentence: I’ll talk to the manager during the break if I … the chance.",
+    "options": [
+      "reduce",
+      "get",
+      "rise",
+      "treat",
+      "do"
+    ],
+    "answer": "get"
+  },
+  {
+    "question": "159. Choose the right form of the verb-noun combination. To develop …..",
+    "options": [
+      "a need",
+      "a business idea",
+      "a breakthrough",
+      "a range",
+      "the environment"
+    ],
+    "answer": "a business idea"
+  },
+  {
+    "question": "Choose the right form of the verb-noun combination. To extend …..",
+    "options": [
+      "advantage",
+      "a range",
+      "an award",
+      "the environment",
+      "a need"
+    ],
+    "answer": "a range"
+  },
+  {
+    "question": "Choose the right form of the verb-noun combination. To win …",
+    "options": [
+      "a need",
+      "an award",
+      "a range",
+      "a business idea",
+      "the environment"
+    ],
+    "answer": "an award"
+  },
+  {
+    "question": "Choose the right form of the verb-noun combination. To meet ….",
+    "options": [
+      "a breakthrough",
+      "a need",
+      "a range",
+      "an award",
+      "a business idea"
+    ],
+    "answer": "a need"
+  },
+  {
+    "question": "Choose the right form of the verb-noun combination. To protect ….",
+    "options": [
+      "advantage",
+      "the environment",
+      "a range",
+      "a breakthrough",
+      "a business idea"
+    ],
+    "answer": "the environment"
+  },
+  {
+    "question": "Choose the right form of the verb-noun combination. To take ….",
+    "options": [
+      "the environment",
+      "advantage",
+      "a breakthrough",
+      "a range",
+      "an award"
+    ],
+    "answer": "advantage"
+  },
+  {
+    "question": "Choose the right form of the verb-noun combination. To make …..",
+    "options": [
+      "the environment",
+      "a breakthrough",
+      "an award",
+      "a need",
+      "advantage"
+    ],
+    "answer": "a breakthrough"
+  },
+  {
+    "question": "Choose the right prepositions. Most ... the best ideas are discovered ... accident.",
+    "options": [
+      "on, to",
+      "of, by",
+      "with, on",
+      "of, with",
+      "in, by"
+    ],
+    "answer": "of, by"
+  },
+  {
+    "question": "Make up the sentence: development/ is/ business/ the/ Research/ great/ key/ ideas/ and/ to",
+    "options": [
+      "Research and is great the development to ideas business key.",
+      "Research and development is the key to great business ideas.",
+      "Research is great to development ideas business and the key.",
+      "Research and great the business to development is key ideas.",
+      "Research great and the business is development to ideas key."
+    ],
+    "answer": "Research and development is the key to great business ideas."
+  },
+  {
+    "question": "Match the word combination to its definition. To be in charge of a meeting.",
+    "options": [
+      "to bring forward a meeting",
+      "to run a meeting",
+      "to miss a meeting",
+      "to set up a meeting",
+      "to put back a meeting"
+    ],
+    "answer": "to run a meeting"
+  },
+  {
+    "question": "Match the word combination to its definition. To go to a meeting.",
+    "options": [
+      "to set up a meeting",
+      "to attend a meeting",
+      "to put back a meeting",
+      "to miss a meeting",
+      "to run a meeting"
+    ],
+    "answer": "to attend a meeting"
+  },
+  {
+    "question": "Make up the sentence: we/ useful/ felt/ had/ I/ very/ discussions/ some",
+    "options": [
+      "I had some discussions we felt useful very.",
+      "I felt we had some very useful discussions.",
+      "Some very useful discussions felt we had I.",
+      "We very felt useful some I discussions had.",
+      "Useful I very had discussions we some felt."
+    ],
+    "answer": "I felt we had some very useful discussions."
+  },
+  {
+    "question": "Complete the sentence. Linda works in Research and Development. Her job..... developing new products and new ideas.",
+    "options": [
+      "deals",
+      "involves",
+      "looks",
+      "makes sure",
+      "is in charge"
+    ],
+    "answer": "involves"
+  },
+  {
+    "question": "Complete the sentence: If an idea is really good and the product .... in the market, it may even win an award for innovation.",
+    "options": [
+      "spend a lot",
+      "fills a gap",
+      "goes green",
+      "tests",
+      "increase"
+    ],
+    "answer": "fills a gap"
+  },
+  {
+    "question": "Choose the right prepositions: We collected information …..possible locations ….the new office.",
+    "options": [
+      "at, in",
+      "about, for",
+      "with, on",
+      "to,at",
+      "in, to"
+    ],
+    "answer": "about, for"
+  },
+  {
+    "question": "Match the verbs to the phrases: communicate",
+    "options": [
+      "to employees' concerns promptly.",
+      "with colleagues clearly",
+      "to a deputy as often as possible",
+      "in their employees' abilities.",
+      "to all suggestions from staff."
+    ],
+    "answer": "with colleagues clearly"
+  },
+  {
+    "question": "Match the verbs to the phrases: invest",
+    "options": [
+      "to employees' concerns promptly.",
+      "in regular training courses for employees",
+      "to all suggestions from staff.",
+      "with problems quickly",
+      "with colleagues clearly"
+    ],
+    "answer": "in regular training courses for employees"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. I agreed ….her that we need to change our marketing strategy.",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "on",
+      "about"
+    ],
+    "answer": "with"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. I talk …. my boss every Monday at our regular meeting.",
+    "options": [
+      "at",
+      "to",
+      "with",
+      "in",
+      "of"
+    ],
+    "answer": "to"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. We argued …..next year's budget for over an hour.",
+    "options": [
+      "of",
+      "about",
+      "in",
+      "on",
+      "at"
+    ],
+    "answer": "about"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. He apologised ….losing his temper.",
+    "options": [
+      "of",
+      "for",
+      "on",
+      "at",
+      "in"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. We talked ….our financial problems for a long time.",
+    "options": [
+      "in",
+      "with",
+      "to",
+      "on",
+      "about"
+    ],
+    "answer": "about"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. The Finance Director argued …. our Managing Director over profit sharing.",
+    "options": [
+      "on",
+      "with",
+      "in",
+      "of",
+      "at"
+    ],
+    "answer": "with"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. I apologised …. Paula for giving her the wrong figures.",
+    "options": [
+      "in",
+      "to",
+      "at",
+      "on",
+      "with"
+    ],
+    "answer": "to"
+  },
+  {
+    "question": "Complete these sentence with suitable preposition. Can we agree ……. the date of our next meeting?",
+    "options": [
+      "for",
+      "on",
+      "of",
+      "in",
+      "by"
+    ],
+    "answer": "on"
+  },
+  {
+    "question": "Choose the right prepositions: Staff often complained ….the new manager, saying he didn`t believe …their abilities.",
+    "options": [
+      "to, for",
+      "about, in",
+      "at, by",
+      "in, on",
+      "with, to"
+    ],
+    "answer": "about, in"
+  },
+  {
+    "question": "Choose the right prepositions: Robert was arguing ….his boss ….taxation.",
+    "options": [
+      "in, for",
+      "with, about",
+      "to, on",
+      "by, at",
+      "from, to"
+    ],
+    "answer": "with, about"
+  },
+  {
+    "question": "Choose the right prepositions: Good. So you all seem to agree ….me ….the main points.",
+    "options": [
+      "for, at",
+      "with, on",
+      "from, to",
+      "by, in",
+      "in, from"
+    ],
+    "answer": "with, on"
+  },
+  {
+    "question": "Choose the right prepositions: They apologised ….everyone ….their failure to deal ….the crisis.",
+    "options": [
+      "by, at, from",
+      "to, for, with",
+      "for, on, of",
+      "by, in, on",
+      "with, to, in"
+    ],
+    "answer": "to, for, with"
+  },
+  {
+    "question": "Choose the right prepositions: The team had to report …..their progress ….the manager every month.",
+    "options": [
+      "in, from",
+      "on, to",
+      "for, at",
+      "by, in",
+      "for, on"
+    ],
+    "answer": "on, to"
+  },
+  {
+    "question": "Choose the right preposition: Robert never listen …my suggestions.",
+    "options": [
+      "for",
+      "to",
+      "on",
+      "in",
+      "at"
+    ],
+    "answer": "to"
+  },
+  {
+    "question": "Choose the right prepositions: My company spends a lot …money …training courses ….employees.",
+    "options": [
+      "from, to, in",
+      "of, on, for",
+      "by, at, in",
+      "for, to, on",
+      "for, at, by"
+    ],
+    "answer": "of, on, for"
+  },
+  {
+    "question": "Choose the right preposition: He may become a good manager. It depends …his communication skills.",
+    "options": [
+      "in",
+      "on",
+      "of",
+      "for",
+      "by"
+    ],
+    "answer": "on"
+  },
+  {
+    "question": "Make up the sentence: My/ ready/ wasn`t/ asked/ my/ why/ me/ boss/ report.",
+    "options": [
+      "My asked report me boss wasn`t my ready why.",
+      "My boss report my wasn`t ready asked me my.",
+      "My report wasn`t why asked me ready boss my.",
+      "My boss asked me why my report wasn`t ready.",
+      "My ready report my asked boss me wasn`t why."
+    ],
+    "answer": "My boss asked me why my report wasn`t ready."
+  },
+  {
+    "question": "Match the verb to its meaning: to make a plan or drawing",
+    "options": [
+      "design",
+      "discontinue",
+      "distribute",
+      "test",
+      "launch"
+    ],
+    "answer": "design"
+  },
+  {
+    "question": "Match the word or phrase to its definition: not spending more money than had been planned for",
+    "options": [
+      "spent",
+      "keep within the budget",
+      "break down",
+      "contribution",
+      "public spending"
+    ],
+    "answer": "keep within the budget"
+  },
+  {
+    "question": "Match the word or phrase to its definition: bring something into existence",
+    "options": [
+      "remain",
+      "found",
+      "find",
+      "grow",
+      "live"
+    ],
+    "answer": "found"
+  },
+  {
+    "question": "Complete the sentence. A small helium-gas cylinder… the airbag in 0.1seconds and is designed to let cyclists see at all times.",
+    "options": [
+      "runs",
+      "inflates",
+      "improves",
+      "tests",
+      "includes"
+    ],
+    "answer": "inflates"
+  },
+  {
+    "question": "Complete the sentence: When the goods you require are not available they are …….",
+    "options": [
+      "confident",
+      "out of stock",
+      "dispatched",
+      "rejected",
+      "in stock"
+    ],
+    "answer": "out of stock"
+  },
+  {
+    "question": "Complete the sentence: Goods are kept in our .... until ready for delivery.",
+    "options": [
+      "turnover",
+      "warehouse",
+      "bargain",
+      "mail",
+      "industry"
+    ],
+    "answer": "warehouse"
+  },
+  {
+    "question": "Complete the sentence: Goods will be … within 24 hours of your order.",
+    "options": [
+      "purchased",
+      "dispatched",
+      "exchanged",
+      "increased",
+      "placed"
+    ],
+    "answer": "dispatched"
+  },
+  {
+    "question": "Complete the sentence: A … is a company or a person that sells goods to members of the public.",
+    "options": [
+      "teacher",
+      "retailer",
+      "broker",
+      "secretary",
+      "purchaser"
+    ],
+    "answer": "retailer"
+  },
+  {
+    "question": "Complete the sentence: If you buy goods in ….., you buy large amounts of them.",
+    "options": [
+      "service",
+      "bulk",
+      "minority",
+      "credit",
+      "refund"
+    ],
+    "answer": "bulk"
+  },
+  {
+    "question": "Complete the sentence: In order to get a full … ,customers must send back goods in the original packaging.",
+    "options": [
+      "delivery",
+      "refund",
+      "storage",
+      "discount",
+      "bargain"
+    ],
+    "answer": "refund"
+  },
+  {
+    "question": "Complete the sentence: A… is a large area where there are lot of shops, usually a covered area where cars cannot go.",
+    "options": [
+      "industry",
+      "mall",
+      "head office",
+      "town",
+      "restaurant"
+    ],
+    "answer": "mall"
+  },
+  {
+    "question": "Complete the sentence: Products and services offered at a large discount are generally a (an) .… .",
+    "options": [
+      "sale",
+      "bargain",
+      "increase",
+      "offer",
+      "stock"
+    ],
+    "answer": "bargain"
+  },
+  {
+    "question": "Complete the sentence: … means to send goods to a place .",
+    "options": [
+      "to walk",
+      "to dispatch",
+      "to improve",
+      "to prepare",
+      "to cover"
+    ],
+    "answer": "to dispatch"
+  },
+  {
+    "question": "Complete the sentence: Do not … to contact us if you need further information.",
+    "options": [
+      "organize",
+      "deliver",
+      "offer",
+      "hesitate",
+      "open"
+    ],
+    "answer": "hesitate"
+  },
+  {
+    "question": "Match the sentence to the right meaning expressed by the modal verb. We have to work very hard to reach our sales targets.",
+    "options": [
+      "It would be a good idea.",
+      "It is necessary.",
+      "It is against the law.",
+      "It is not necessary.",
+      "Don`t do that!"
+    ],
+    "answer": "It is necessary."
+  },
+  {
+    "question": "Match the sentence to the right meaning expressed by the modal verb. You should order online, it`s more convenient.",
+    "options": [
+      "It is necessary.",
+      "It would be a good idea.",
+      "It is not necessary.",
+      "Don`t do that!",
+      "It is against the law."
+    ],
+    "answer": "It would be a good idea."
+  },
+  {
+    "question": "Match the sentence to the right meaning expressed by the modal verb. You mustn`t show your PIN to anyone.",
+    "options": [
+      "It is necessary.",
+      "Don`t do that!",
+      "It is against the law.",
+      "It would be a good idea.",
+      "It is not necessary."
+    ],
+    "answer": "Don`t do that!"
+  },
+  {
+    "question": "Match the sentence to the right meaning expressed by the modal verb. The supermarket is just down the road so we don`t have to take",
+    "options": [
+      "It is against the law.",
+      "It is not necessary.",
+      "It would be a good idea.",
+      "It is necessary.",
+      "Don`t do that!"
+    ],
+    "answer": "It is not necessary."
+  },
+  {
+    "question": "Match the sentence to a suitable ending. My business is quite small,….",
+    "options": [
+      "so you must be confident.",
+      "so I have to be very careful with cashflow.",
+      "so you'll have to buy it on disk.",
+      "so we don't need to work over the weekend.",
+      "so I don't have to worry about a bank loan."
+    ],
+    "answer": "so I have to be very careful with cashflow."
+  },
+  {
+    "question": "Match the sentence to a suitable ending. I can pay for the house now,…..",
+    "options": [
+      "so we must not offer any further discounts.",
+      "so I don't have to worry about a bank loan.",
+      "so you must be confident.",
+      "so you'll have to buy it on disk.",
+      "so I have to be very careful with cashflow."
+    ],
+    "answer": "so I don't have to worry about a bank loan."
+  },
+  {
+    "question": "Match the sentence to a suitable ending. Our profit margin is low,….",
+    "options": [
+      "so I have to be very careful with cashflow.",
+      "so we must not offer any further discounts.",
+      "so you'll have to buy it on disk.",
+      "so you must be confident.",
+      "so we don't need to work over the weekend."
+    ],
+    "answer": "so we must not offer any further discounts."
+  },
+  {
+    "question": "Match the sentence to a suitable ending. He`s arriving on Thursday 5th ….",
+    "options": [
+      "a non-smoking room.",
+      "and leaving on the 7th in the morning.",
+      "in the name of Robert Dorey.",
+      "but not too expensive?",
+      "it`s too far from the centre."
+    ],
+    "answer": "and leaving on the 7th in the morning."
+  },
+  {
+    "question": "Choose the synonym of the word: arrange",
+    "options": [
+      "hesitate",
+      "organize",
+      "impose",
+      "book",
+      "impact"
+    ],
+    "answer": "organize"
+  },
+  {
+    "question": "Complete the sentence: The chair really kept things moving - she encouraged people to ….to the point by keeping things brief.",
+    "options": [
+      "sale",
+      "stick",
+      "used",
+      "around",
+      "covered"
+    ],
+    "answer": "stick"
+  },
+  {
+    "question": "Find the correct meaning of the word: to implement",
+    "options": [
+      "estimate costs",
+      "to put a plan into action",
+      "selling price minus direct production costs",
+      "keep within",
+      "the variable costs in marking particular goods"
+    ],
+    "answer": "to put a plan into action"
+  },
+  {
+    "question": "Find the correct meaning of the word: to submit",
+    "options": [
+      "arrange a meeting",
+      "to suggest or say something",
+      "to leave a company",
+      "buying and selling the money of particular countries",
+      "to forecast profit"
+    ],
+    "answer": "to suggest or say something"
+  },
+  {
+    "question": "Complete the sentence: Experts… the value of the deal at 20 million euros.",
+    "options": [
+      "arrange",
+      "drawing up",
+      "estimate",
+      "mix",
+      "stick to"
+    ],
+    "answer": "estimate"
+  },
+  {
+    "question": "Choose the synonym of the word: an entrepreneur",
+    "options": [
+      "staff",
+      "a businessman",
+      "employer",
+      "team",
+      "a partner"
+    ],
+    "answer": "a businessman"
+  },
+  {
+    "question": "Choose the synonym of the word: rescue",
+    "options": [
+      "launch",
+      "save",
+      "succeed",
+      "plan",
+      "admit"
+    ],
+    "answer": "save"
+  },
+  {
+    "question": "Complete the sentence: Hieatt and his….....managed to rescue the situation bya catalogue to sell products.",
+    "options": [
+      "traders, turning",
+      "colleagues, launching",
+      "friends, plan",
+      "rivals, sending",
+      "consumers, fixed"
+    ],
+    "answer": "colleagues, launching"
+  },
+  {
+    "question": "Complete the sentence: If something happens later than planned, it is …..",
+    "options": [
+      "referred",
+      "delayed",
+      "fixed",
+      "forced",
+      "demanded"
+    ],
+    "answer": "delayed"
+  },
+  {
+    "question": "Match the word or word to its definition. A carefully planned piece of work to produce something new.",
+    "options": [
+      "mining",
+      "a project",
+      "workload",
+      "a recession",
+      "deadline"
+    ],
+    "answer": "a project"
+  },
+  {
+    "question": "Choose the right prepositions. Lots …company employees go …time-management courses.",
+    "options": [
+      "in, to",
+      "of, on",
+      "on, in",
+      "of, to",
+      "of, in"
+    ],
+    "answer": "of, on"
+  },
+  {
+    "question": "Choose the synonym of the word: calendar",
+    "options": [
+      "time",
+      "diary",
+      "stake",
+      "organised",
+      "share price"
+    ],
+    "answer": "diary"
+  },
+  {
+    "question": "Match the word or word combination to its definition. Small pocket-size computers.",
+    "options": [
+      "time management",
+      "personal organizers",
+      "ethnic minorities",
+      "remind",
+      "upmarket"
+    ],
+    "answer": "personal organizers"
+  },
+  {
+    "question": "Match the word or word combination to its definition. To put things in order of importance.",
+    "options": [
+      "decrease",
+      "to prioritize",
+      "to spend",
+      "collect",
+      "meet a need"
+    ],
+    "answer": "to prioritize"
+  },
+  {
+    "question": "Choose the synonym of the word: interruption",
+    "options": [
+      "saturated",
+      "distraction",
+      "imports",
+      "exports",
+      "recession"
+    ],
+    "answer": "distraction"
+  },
+  {
+    "question": "Match the word to its definition. Things which stop you doing what you had planned.",
+    "options": [
+      "promotions",
+      "interruptions",
+      "working for yourself",
+      "exports",
+      "bonuses"
+    ],
+    "answer": "interruptions"
+  },
+  {
+    "question": "Match the verb to the noun: estimate",
+    "options": [
+      "to achieve",
+      "costs",
+      "research",
+      "discover",
+      "consider"
+    ],
+    "answer": "costs"
+  },
+  {
+    "question": "Match the verb to the noun: forecast",
+    "options": [
+      "people",
+      "sales",
+      "receive",
+      "discover",
+      "informative"
+    ],
+    "answer": "sales"
+  },
+  {
+    "question": "Match the verb to the noun: do",
+    "options": [
+      "research",
+      "sales",
+      "costs",
+      "options",
+      "information"
+    ],
+    "answer": "research"
+  },
+  {
+    "question": "Match the verb to the noun: collect",
+    "options": [
+      "research",
+      "information",
+      "looks",
+      "sales",
+      "costs"
+    ],
+    "answer": "information"
+  },
+  {
+    "question": "Match the verb to the noun: consider",
+    "options": [
+      "sales",
+      "information",
+      "research",
+      "options",
+      "costs"
+    ],
+    "answer": "options"
+  },
+  {
+    "question": "Choose the right prepositions: I'm hoping to get a bonus…. the end …. the year.",
+    "options": [
+      "in, to",
+      "to,at",
+      "at, of",
+      "on, in",
+      "with, on"
+    ],
+    "answer": "at, of"
+  },
+  {
+    "question": "Complete the sentence: The times or dates when things in a plan should happen are its ….",
+    "options": [
+      "quality",
+      "turnover",
+      "net profit",
+      "upmarket",
+      "schedule"
+    ],
+    "answer": "schedule"
+  },
+  {
+    "question": "Match the verb to its meaning: to introduce to the market",
+    "options": [
+      "distribution",
+      "discontinue",
+      "test",
+      "design",
+      "launch"
+    ],
+    "answer": "launch"
+  },
+  {
+    "question": "Match the verb to its meaning: to increase sales by advertising, etc.",
+    "options": [
+      "distribute",
+      "launched",
+      "manufacturing",
+      "designer",
+      "promote"
+    ],
+    "answer": "promote"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. It isn't available as a download,….",
+    "options": [
+      "so we must not offer any further discounts.",
+      "so I have to be very careful with cashflow.",
+      "so we don't need to work over the weekend.",
+      "so you'll have to buy it on disk.",
+      "so you must be confident."
+    ],
+    "answer": "so you'll have to buy it on disk."
+  },
+  {
+    "question": "Match the verb to its meaning: to stop making",
+    "options": [
+      "manufacture",
+      "discontinue",
+      "continued",
+      "design",
+      "test"
+    ],
+    "answer": "discontinue"
+  },
+  {
+    "question": "Match the verb to its meaning: to build or make",
+    "options": [
+      "discontinue",
+      "manufacture",
+      "launch",
+      "start",
+      "promoted"
+    ],
+    "answer": "manufacture"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. We've reached our sales targets,….",
+    "options": [
+      "so I don't have to worry about a bank loan.",
+      "so we don't need to work over the weekend.",
+      "so you must be confident.",
+      "so we must not offer any further discounts.",
+      "so you'll have to buy it on disk."
+    ],
+    "answer": "so we don't need to work over the weekend."
+  },
+  {
+    "question": "Match the sentence to a suitable ending. The job involves sales presentations,….",
+    "options": [
+      "so I have to be very careful with cashflow.",
+      "so you must be confident.",
+      "so I don't have to worry about a bank loan.",
+      "so we must not offer any further discounts.",
+      "so you'll have to buy it on disk."
+    ],
+    "answer": "so you must be confident."
+  },
+  {
+    "question": "Complete the sentence: We offer a … to customers who buy in bulk.",
+    "options": [
+      "delivery",
+      "discount",
+      "bargain",
+      "refund",
+      "storage"
+    ],
+    "answer": "discount"
+  },
+  {
+    "question": "Complete the sentence: … means to give someone their money back, because they are not satisfied with what they have bought.",
+    "options": [
+      "to order",
+      "to carry",
+      "to refund",
+      "to cover",
+      "to damage"
+    ],
+    "answer": "to refund"
+  },
+  {
+    "question": "Complete the sentence. The students .... work hard to pass the exam.",
+    "options": [
+      "will able to",
+      "must",
+      "are able",
+      "haven't to",
+      "had"
+    ],
+    "answer": "must"
+  },
+  {
+    "question": "Match the verb to its meaning: to supply to shops, companies, customers",
+    "options": [
+      "test",
+      "distribute",
+      "design",
+      "launch",
+      "discontinue"
+    ],
+    "answer": "distribute"
+  },
+  {
+    "question": "Complete the sentence. It comes with a full five-year .... on parts and labour.",
+    "options": [
+      "staff",
+      "guarantee",
+      "colleague",
+      "expert",
+      "place"
+    ],
+    "answer": "guarantee"
+  },
+  {
+    "question": "Make up the sentence: should/ new/ immediately/ we/ test/ this/ product.",
+    "options": [
+      "This immediately new product should we test .",
+      "We should test this new product immediately.",
+      "Immediately we test should this new product.",
+      "New this should we immediately test product.",
+      "Should this we product test immediately new."
+    ],
+    "answer": "We should test this new product immediately."
+  },
+  {
+    "question": "Make up the sentence: we/ have/ the/ improve/ definitely/ to/ packaging.",
+    "options": [
+      "To have packaging we improve the definitely.",
+      "We definitely have to improve the packaging.",
+      "Definitely to have the improve we packaging.",
+      "To improve definitely the packaging have we.",
+      "The have to packaging definitely improve we."
+    ],
+    "answer": "We definitely have to improve the packaging."
+  },
+  {
+    "question": "Complete the sentence. Samsinite sells practical and well … bags and suitcases.",
+    "options": [
+      "card",
+      "made",
+      "safe",
+      "find",
+      "mode"
+    ],
+    "answer": "made"
+  },
+  {
+    "question": "Choose the right prepositions. It's fairly expensive compared ….other models.",
+    "options": [
+      "on",
+      "with",
+      "by",
+      "at",
+      "in"
+    ],
+    "answer": "with"
+  },
+  {
+    "question": "Complete the sentence: We ask consumers who are not fully satisfied to … goods within seven days.",
+    "options": [
+      "sale",
+      "return",
+      "discount",
+      "delivery",
+      "bargain"
+    ],
+    "answer": "return"
+  },
+  {
+    "question": "Choose the right preposition. I hope this is suitable.....you.",
+    "options": [
+      "of",
+      "for",
+      "in",
+      "at",
+      "from"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Match the word or phrase to its definition: to say what you expect to happen in the future.",
+    "options": [
+      "decide",
+      "forecast",
+      "warned",
+      "pretend",
+      "say"
+    ],
+    "answer": "forecast"
+  },
+  {
+    "question": "Choose the right prepositions. We are hoping to be the supermarket …...choice our country's football fans.",
+    "options": [
+      "to, at",
+      "of, for",
+      "to, for",
+      "on, in",
+      "of, in"
+    ],
+    "answer": "of, for"
+  },
+  {
+    "question": "Match the sentence to a suitable ending. Make sure you know your product,",
+    "options": [
+      "you have less than 30 seconds",
+      "it`s too far from the centre.",
+      "before they form an opinion of you",
+      "but not too expensive",
+      "business and industry inside out."
+    ],
+    "answer": "business and industry inside out."
+  }
+]
